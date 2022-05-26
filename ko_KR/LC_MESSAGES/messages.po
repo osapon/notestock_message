@@ -1,0 +1,980 @@
+msgid ""
+msgstr "Project-Id-Version: notestock\nPO-Revision-Date: 2019-06-13 13:57+0000\nLast-Translator: Ryu jongheon <lptprjh@gmail.com>\nLanguage-Team: Korean <https://weblate.osa-p.net/projects/notestock/web/ko/>\nLanguage: ko_KR\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 3.7-dev\n"
+
+#, fuzzy
+msgid "web_site_description_content"
+msgstr "Can I search for my own posts? notestock is a service that provides a search function even when using a server that does not have a search function in distributed SNS."
+
+msgid "notestock"
+msgstr "notestock"
+
+msgid "よくある質問"
+msgstr "FAQ"
+
+msgid "ログイン"
+msgstr "로그인"
+
+msgid "登録"
+msgstr "이용등록"
+
+msgid "ログアウト"
+msgstr "로그아웃"
+
+msgid "これなに？"
+msgstr "이건 어디에 쓰는 물건인고?"
+
+msgid "トップページ説明"
+msgstr "ActivityPub을 지원하는 SNS(마스토돈, Pleroma 등)에서 작성된 게시물을 수집하여 다양한 서비스를 제공합니다.<br>이 서비스의 개발자가 notestock에 대하여 작성한 게시물👉<a href='/@osapon@mstdn.nere9.help/view?q=notestock'>이런 식으로 활용할 수 있습니다.</a>"
+
+msgid "制作者"
+msgstr "개발자"
+
+msgid "検索"
+msgstr "검색"
+
+msgid "アカウント内検索"
+msgstr "이 계정에서 검색"
+
+msgid "検索語"
+msgstr "검색어"
+
+msgid "設定"
+msgstr "설정"
+
+msgid "統計"
+msgstr "통계"
+
+msgid "アカウント切替"
+msgstr "다른 계정으로 전환"
+
+msgid "登録アカウント数"
+msgstr "등록된 이용자 수"
+
+msgid "蓄積投稿数"
+msgstr "누적 게시물 수"
+
+#, fuzzy
+msgid "機能"
+msgstr "기능"
+
+msgid "できる"
+msgstr "할 수 있는 것"
+
+msgid "できない（やりたい）"
+msgstr "할 수 없는 것 (최대한 노력해 볼게요)"
+
+#, fuzzy
+msgid "応援ユーザー"
+msgstr "후원자"
+
+msgid "使ってみたい人・ログイン→"
+msgstr "이용등록/로그인→"
+
+msgid "例）"
+msgstr "예시)"
+
+msgid "送信"
+msgstr "보내기"
+
+#, fuzzy
+msgid "（スペース区切りでAND、OR区切りでOR）"
+msgstr "(스페이스로 끊으면 AND, OR로 끊으면 OR)"
+
+msgid "このアカウント"
+msgstr "이 계정"
+
+#, fuzzy
+msgid "グループ内"
+msgstr "그룹 내"
+
+#, fuzzy
+msgid "超応援ユーザー"
+msgstr "대단한 후원자"
+
+msgid "スペシャルサンクス"
+msgstr "Special thanks"
+
+msgid "前の年"
+msgstr "이전년"
+
+msgid "前の日"
+msgstr "이전날"
+
+msgid "次の日"
+msgstr "다음날"
+
+msgid "次の年"
+msgstr "다음년"
+
+#, fuzzy
+msgid "そのまま"
+msgstr "그대로"
+
+msgid "削除する"
+msgstr "삭제"
+
+msgid "投稿削除"
+msgstr "게시물 삭제"
+
+#, fuzzy
+msgid "オリジナル"
+msgstr "Original"
+
+msgid "続きを見る"
+msgstr "이어서 보기"
+
+msgid "検索結果は以上です"
+msgstr "검색 끝"
+
+msgid "削除ダイアログ説明"
+msgstr "본 서비스에서 수집한 모든 게시물을 삭제합니다. <br> 다만, 게시물이 원본 서버에서 삭제되지 않은 경우 다시 수집될 수 있습니다."
+
+msgid "y年m月d日"
+msgstr "%{year}-%{month}-%{day}"
+
+msgid "keywordの検索結果"
+msgstr "%{keyword}에 대한 검색결과"
+
+msgid "（プライベートページ）"
+msgstr "(비공개 페이지)"
+
+msgid "このアカウントは検索が無効です"
+msgstr "이 사용자의 게시물에 대해 검색할 수 없습니다."
+
+#, fuzzy
+msgid "notestockで検索対象に設定しているアカウント"
+msgstr "Account searching target for with \"notestock\""
+
+#, fuzzy
+msgid "notestockで検索対象に設定しているアカウントの投稿"
+msgstr "Posts set as search targets in \"notestock\""
+
+msgid "notestockユーザー"
+msgstr "notestock 이용자"
+
+msgid "account_subjectの投稿"
+msgstr "%{account_subject}님의 게시물"
+
+msgid "account_name(account_subject)の投稿"
+msgstr "%{account_name}(%{account_subject})님의 게시물"
+
+msgid "announce_user_nameの投稿"
+msgstr "%{announce_user_name}님의 게시물"
+
+msgid "収集されたデータについては、各データの投稿主に権利があります。"
+msgstr "이 서비스에서 수집된 데이터의 권리는 각 데이터의 원본 작성자에게 있습니다."
+
+msgid "issue"
+msgstr "이슈 보고"
+
+msgid "投稿の無かった日は平均に含まれていません。"
+msgstr "활동하지 않은 날은 평균에서 제외되었습니다."
+
+msgid "登録日より前の、非公開・共有先が存在しない投稿は含まれていません。"
+msgstr "이용 등록 이전에 작성된 비공개 포스트는 제외되었습니다."
+
+msgid "年月"
+msgstr "날짜"
+
+msgid "投稿数"
+msgstr "게시물 수"
+
+#, fuzzy
+msgid "月別投稿数"
+msgstr "Number of posts by month"
+
+#, fuzzy
+msgid "日別投稿数"
+msgstr "Number of posts by day"
+
+#, fuzzy
+msgid "時間"
+msgstr "Hour"
+
+#, fuzzy
+msgid "平均投稿数"
+msgstr "Average post count"
+
+#, fuzzy
+msgid "時間別投稿数"
+msgstr "Number of posts by hour"
+
+#, fuzzy
+msgid "時"
+msgstr "Hour"
+
+#, fuzzy
+msgid "曜日"
+msgstr "Day of week"
+
+#, fuzzy
+msgid "曜日別投稿数"
+msgstr "Number of posts by day of the week"
+
+#, fuzzy
+msgid "account_subjectの統計"
+msgstr "statistics of %{account_subject}"
+
+#, fuzzy
+msgid "account_name(account_subject)の統計"
+msgstr "statistics of %{account_name}(%{account_subject})"
+
+msgid "ログイン履歴"
+msgstr "로그인 이력"
+
+msgid "日時"
+msgstr "시간"
+
+msgid "アカウント"
+msgstr "계정"
+
+msgid "処理"
+msgstr "작업"
+
+msgid "IPアドレス"
+msgstr "IP 주소"
+
+msgid "（最近1ヶ月分だけ記録しています）"
+msgstr "(최근 1개월 이내의 이력만 표시합니다)"
+
+msgid "グループの設定"
+msgstr "그룹 설정"
+
+msgid "グループ"
+msgstr "그룹"
+
+msgid "追加"
+msgstr "추가"
+
+msgid "選択したアカウントをグループから除外"
+msgstr "선택한 계정을 그룹에서 제외"
+
+#, fuzzy
+msgid "連携されている他のアカウントはありません"
+msgstr "There are no other linked accounts."
+
+msgid "戻る"
+msgstr "돌아가기"
+
+msgid "保存"
+msgstr "저장"
+
+msgid "閉じる"
+msgstr "닫기"
+
+#, fuzzy
+msgid "解除する"
+msgstr "Unfollow"
+
+#, fuzzy
+msgid "除外する"
+msgstr "Release"
+
+msgid "フォロー解除"
+msgstr "팔로우 해제"
+
+msgid "フォロー解除中の投稿は記録されません。解除してよいですか？"
+msgstr "팔로우를 해제할 동안에 작성된 게시물은 수집되지 않습니다. 팔로우를 해제할까요?"
+
+msgid "ファンティアユーザーID"
+msgstr "Fantia 계정 ID"
+
+#, fuzzy
+msgid "ファンティアユーザーの説明"
+msgstr ""
+"It is after the last slash of the profile page URL.<br>In the case of the "
+"example below, it starts with 'tus_'."
+
+#, fuzzy
+msgid "グループ除外"
+msgstr "Group exclusion"
+
+#, fuzzy
+msgid "除外対象を選んでください"
+msgstr "Please select exclusion target"
+
+#, fuzzy
+msgid "該当アカウントからログインコードが送信できない場合、グループから除外するとnotestockへログインできなくなります。解除してよいですか？"
+msgstr ""
+"If you can not send the login code from the corresponding account, you can "
+"not log into notestock if you exclude it from the group. Can I cancel it?"
+
+#, fuzzy
+msgid "応援ユーザーになる"
+msgstr "Become a supporters user"
+
+#, fuzzy
+msgid "使用しない"
+msgstr "do not use"
+
+#, fuzzy
+msgid "使用する"
+msgstr "do use"
+
+#, fuzzy
+msgid "公開しない"
+msgstr "Do not publish"
+
+#, fuzzy
+msgid "公開する"
+msgstr "Publish"
+
+#, fuzzy
+msgid "公開ページ"
+msgstr "Public page"
+
+#, fuzzy
+msgid "公開ページ検索拒否タグ"
+msgstr "Public page search rejection tag"
+
+#, fuzzy
+msgid "publicurlのアドレスで公開されます"
+msgstr ""
+"It will be published at <a href='%{publicurl}' target='_blank'>%"
+"{publicurl}</a> address."
+
+#, fuzzy
+msgid "account_name(account_subject)の設定"
+msgstr "Setting of %{account_name}(%{account_subject})"
+
+#, fuzzy
+msgid "公開ページが、他の検索エンジンにクロールされる場合があります"
+msgstr "Public pages may be crawled by other search engines."
+
+#, fuzzy
+msgid "noindexの説明"
+msgstr ""
+"Embed the &lt;meta name='robots' content='noindex, nofollow, noarchive, "
+"noodp, noydir'&gt; tag on the public page and display the intent to deny to "
+"other search engines."
+
+#, fuzzy
+msgid "notestock検索"
+msgstr "notestock search"
+
+#, fuzzy
+msgid "notestockの検索対象にしません"
+msgstr "Do not target for search"
+
+#, fuzzy
+msgid "notestockで検索できるようにします"
+msgstr "Make it searchable with notestock"
+
+#, fuzzy
+msgid "投稿並び順"
+msgstr "Posting order"
+
+#, fuzzy
+msgid "古い投稿が上、新しい投稿が下"
+msgstr "Older posts are above, new posts are below"
+
+#, fuzzy
+msgid "新しい投稿が上、古い投稿が下"
+msgstr "New posts are above, old posts are below"
+
+#, fuzzy
+msgid "並び順古いの説明"
+msgstr "Search results are new posts above, old posts are fixed under."
+
+#, fuzzy
+msgid "タイムゾーン"
+msgstr "Timezone"
+
+#, fuzzy
+msgid "ファン"
+msgstr "Fan"
+
+#, fuzzy
+msgid "ファンの説明"
+msgstr ""
+"If it is set as one of the accounts set as a group, it applies to other "
+"accounts.<br>As data acqui"
+
+#, fuzzy
+msgid "トップページの応援者に表示しない"
+msgstr "Do not display to the top page supporters"
+
+#, fuzzy
+msgid "トップページの応援者に表示してもよい"
+msgstr "You may display it to the top page supporters"
+
+#, fuzzy
+msgid "表示場所の都合上、表示されない場合があります"
+msgstr "It may not be displayed due to the convenience of the display location."
+
+#, fuzzy
+msgid "もう一度フォローさせる"
+msgstr "Follow again"
+
+#, fuzzy
+msgid "フォローを解除させる"
+msgstr "Unfollow"
+
+#, fuzzy
+msgid "グループを組むアカウント(@account@server.domain)"
+msgstr "Group account (@account@server.domain)"
+
+#, fuzzy
+msgid "グループ追加"
+msgstr "Add group"
+
+#, fuzzy
+msgid "アカウントを確認"
+msgstr "Confirm account"
+
+#, fuzzy
+msgid "アカウントの存在を確認しました"
+msgstr "Confirmed the existence of the account."
+
+#, fuzzy
+msgid "ログインの説明"
+msgstr ""
+"Please send the following sentences from %{acct} to the %{notestock} account "
+"within 10 minutes to confirm the login operation from the principal. Please "
+"copy the text below directly and post it directly."
+
+#, fuzzy
+msgid "アカウント登録の説明"
+msgstr ""
+"Please send the following sentences from %{acct} to the %{notestock} account "
+"within 10 minutes to confirm the collection permission from the principal. "
+"Please copy the text below directly and post it directly."
+
+#, fuzzy
+msgid "グループ追加の説明"
+msgstr ""
+"Please send the following sentences within 10 minutes from %{acct} to "
+"%{notestock} account to confirm group addition operation. Please copy the "
+"text below directly and post it directly."
+
+#, fuzzy
+msgid "登録の説明"
+msgstr ""
+"When posting, will follow from here, so if you are following follow limit "
+"etc please give permission."
+
+#, fuzzy
+msgid "入力されたアカウントがnotestockに登録されていません。現在のアカウントをログアウトして、先に登録を行ってください"
+msgstr ""
+"The account you entered is not registered in notestock. Please log out of "
+"the current account and register first."
+
+#, fuzzy
+msgid "まだ投稿が到着していないようです。もうしばらく待ってから押してください"
+msgstr ""
+"It seems that the post has not arrived yet. Please wait for a while and then "
+"push."
+
+#, fuzzy
+msgid "コードの有効期限が切れました。再度登録を行ってください"
+msgstr "The code has expired. Please register again."
+
+#, fuzzy
+msgid "ロボットチェックに引っかかりました"
+msgstr ""
+"Robot check error. If you can not proceed to the next screen many times, "
+"please contact %{author} sorry to trouble you."
+
+#, fuzzy
+msgid "投稿した"
+msgstr "Posted"
+
+#, fuzzy
+msgid "集計中"
+msgstr "Aggregating"
+
+#, fuzzy
+msgid "ログイン試行"
+msgstr "Login trial"
+
+#, fuzzy
+msgid "ログイン成功"
+msgstr "Login success"
+
+#, fuzzy
+msgid "API呼び出し/検索"
+msgstr "API Call/Search"
+
+#, fuzzy
+msgid "カレンダー開始曜日"
+msgstr "Calendar start day of week"
+
+msgid "日曜日"
+msgstr "일요일"
+
+msgid "月曜日"
+msgstr "월요일"
+
+msgid "日曜日(短縮)"
+msgstr "일"
+
+msgid "月曜日(短縮)"
+msgstr "월"
+
+msgid "火曜日(短縮)"
+msgstr "화"
+
+msgid "水曜日(短縮)"
+msgstr "수"
+
+msgid "木曜日(短縮)"
+msgstr "목"
+
+msgid "金曜日(短縮)"
+msgstr "금"
+
+msgid "土曜日(短縮)"
+msgstr "토"
+
+msgid "公開ページリンク"
+msgstr "공개 페이지 링크"
+
+msgid "その他"
+msgstr "기타"
+
+#, fuzzy
+msgid "Webhook"
+msgstr "Webhook"
+
+#, fuzzy
+msgid "account_subjectのWebhook"
+msgstr "Webhook of %{account_subject}"
+
+#, fuzzy
+msgid "account_name(account_subject)のWebhook"
+msgstr "Webhook of %{account_name}(%{account_subject})"
+
+#, fuzzy
+msgid "テスト投稿。書き換えてテストしてください。"
+msgstr "Test posting. Please rewrite and test it."
+
+#, fuzzy
+msgid "テスト"
+msgstr "Test"
+
+#, fuzzy
+msgid "呼び出し"
+msgstr "kick"
+
+#, fuzzy
+msgid "正規表現に間違いがあります。"
+msgstr "There is a mistake in regular expressions."
+
+#, fuzzy
+msgid "正規表現に一致しませんでした。"
+msgstr "It did not match the regular expression."
+
+#, fuzzy
+msgid "webhook URLに間違いがあります。"
+msgstr "There is a mistake in the webhook URL."
+
+#, fuzzy
+msgid "webhook URL"
+msgstr "webhook URL"
+
+#, fuzzy
+msgid "Webhookログ"
+msgstr "Webhook log"
+
+#, fuzzy
+msgid "送信body"
+msgstr "send body"
+
+#, fuzzy
+msgid "予約日時"
+msgstr "Reservation time"
+
+#, fuzzy
+msgid "投稿"
+msgstr "Post"
+
+#, fuzzy
+msgid "処理日時"
+msgstr "Processing time"
+
+#, fuzzy
+msgid "ステータス"
+msgstr "Status"
+
+#, fuzzy
+msgid "METHOD"
+msgstr "METHOD"
+
+#, fuzzy
+msgid "CONTENT_TYPE"
+msgstr "Content-Type"
+
+#, fuzzy
+msgid "URL"
+msgstr "URL"
+
+#, fuzzy
+msgid "結果body"
+msgstr "Result body"
+
+#, fuzzy
+msgid "この機能は実験的なものです。"
+msgstr "This function is experimental."
+
+#, fuzzy
+msgid "共有を含む"
+msgstr "include share post"
+
+#, fuzzy
+msgid "カスタム"
+msgstr "Custom"
+
+#, fuzzy
+msgid "前週"
+msgstr "Last week"
+
+#, fuzzy
+msgid "先月"
+msgstr "Last month"
+
+#, fuzzy
+msgid "過去7日間"
+msgstr "Last 7 days"
+
+#, fuzzy
+msgid "過去30日間"
+msgstr "Last 30 days"
+
+#, fuzzy
+msgid "過去1年間"
+msgstr "Last 1 year"
+
+#, fuzzy
+msgid "再読込"
+msgstr "Reload"
+
+#, fuzzy
+msgid "超応援ユーザーのみ1年以上前の統計が表示できます。"
+msgstr "Super supporting users only statistics more than one year old can be displayed."
+
+#, fuzzy
+msgid "ログインの設定"
+msgstr "Login settings"
+
+#, fuzzy
+msgid "二要素認証の設定"
+msgstr "Two-factor authentication setting"
+
+#, fuzzy
+msgid "トークン"
+msgstr "token"
+
+#, fuzzy
+msgid "二要素認証アプリにQRコードを読み込んで、表示されたトークンを送信してください。QRコードが使えない場合は次のコードを入力してください。:code"
+msgstr "Please read the QR code into the two-factor authentication application and send the displayed token. <br>If you can not use QR code please enter the following code.: %{code}"
+
+#, fuzzy
+msgid "トークンが間違っているようです。再度入力してください。"
+msgstr "The token seems to be wrong. Please try again."
+
+#, fuzzy
+msgid "二要素認証が設定されました。"
+msgstr "Two-factor authentication has been set up."
+
+#, fuzzy
+msgid "二要素認証を解除"
+msgstr "Cancel two-factor authentication"
+
+#, fuzzy
+msgid "二要素認証を解除します。解除してよいですか？"
+msgstr "Cancel two-factor authentication. Can I cancel it?"
+
+#, fuzzy
+msgid "二要素認証が解除されました。"
+msgstr "Two-factor authentication has been canceled."
+
+#, fuzzy
+msgid "ログイン許可"
+msgstr "Login permission"
+
+#, fuzzy
+msgid "このアカウント(account_subject)でのログインを"
+msgstr "Login with this account(%{account_subject})"
+
+#, fuzzy
+msgid "ログイン拒否と二要素認証は同時に設定できません。設定する場合はもう一方の設定を解除してください。"
+msgstr "Login refusal and two-factor authentication can not be set at the same time. Please cancel the other setting when setting."
+
+#, fuzzy
+msgid "ログイン許可の設定が変更されました。"
+msgstr "The login permission setting has been changed."
+
+#, fuzzy
+msgid "グループ設定を行っていると、ログインを許可しないアカウントの設定が可能です。"
+msgstr "If you set up a group, you can set up accounts that do not allow login."
+
+#, fuzzy
+msgid "ログインを使用しない"
+msgstr "Do not use login"
+
+#, fuzzy
+msgid "このアカウントでログインを禁止します。他のアカウントからログイン可能ですか？他のアカウントからログインできない場合、notestockへのログインができなくなります。"
+msgstr "Prohibit logging in with this account. Is it possible to log in from another account? If you can not log in from another account, you will not be able to log in to notestock."
+
+#, fuzzy
+msgid "禁止する"
+msgstr "Prohibit"
+
+#, fuzzy
+msgid "ダウンロード"
+msgstr "Download"
+
+#, fuzzy
+msgid "account_name(account_subject)のダウンロード"
+msgstr "Download %{account_name}(%{account_subject})"
+
+#, fuzzy
+msgid "データ準備"
+msgstr "Data preparation"
+
+#, fuzzy
+msgid "データの準備に時間が掛かるため、用意ができたら以下のアカウントへ通知を送信します。"
+msgstr "Because it takes time to prepare the data, we will send a notification to the following account when it is ready."
+
+#, fuzzy
+msgid "通知不要"
+msgstr "Notification not required"
+
+#, fuzzy
+msgid "通知先"
+msgstr "Notification destination"
+
+#, fuzzy
+msgid "データ形式"
+msgstr "data form"
+
+#, fuzzy
+msgid "CSV（投稿日時、投稿内容の一覧）"
+msgstr "CSV (posting date, list of posting contents)"
+
+#, fuzzy
+msgid "JSON（ActivityPubで受信した内容の一覧）"
+msgstr "JSON (list of contents received by ActivityPub)"
+
+#, fuzzy
+msgid "データの準備ができました。"
+msgstr "The data is ready."
+
+#, fuzzy
+msgid "現在、データの準備中です。"
+msgstr "Currently preparing data."
+
+#, fuzzy
+msgid "notestockでは、投稿のテキストだけを保存しています。画像などは保持していないので、ダウンロードデータには含まれません。"
+msgstr "notestock saves only the text of the post. Images are not included in the download data because they are not held."
+
+#, fuzzy
+msgid "処理待ち"
+msgstr "Waiting for processing"
+
+#, fuzzy
+msgid "処理中"
+msgstr "Processing"
+
+#, fuzzy
+msgid "準備完了"
+msgstr "Ready"
+
+#, fuzzy
+msgid "ファイル削除"
+msgstr "Delete file"
+
+#, fuzzy
+msgid "通常は24時間で自動削除されます。"
+msgstr "It is usually deleted automatically in 24 hours."
+
+#, fuzzy
+msgid "ダウンロードツールには対応していません。解除してダウンロードしてください。"
+msgstr "It does not support the download tool. Please pause and download."
+
+#, fuzzy
+msgid "ショートカット"
+msgstr "Shortcut"
+
+#, fuzzy
+msgid "表示名"
+msgstr "Title"
+
+#, fuzzy
+msgid "公開"
+msgstr "Public"
+
+msgid "変更取消"
+msgstr "변경 사항을 취소"
+
+#, fuzzy
+msgid "ワードクラウド"
+msgstr "Word Cloud"
+
+#, fuzzy
+msgid "account_subjectのワードクラウド"
+msgstr "Word Cloud %{account_subject}"
+
+#, fuzzy
+msgid "account_name(account_subject)のワードクラウド"
+msgstr "Word Cloud %{account_name}(%{account_subject})"
+
+#, fuzzy
+msgid "公開投稿のみ対象です。"
+msgstr "Only for public postings."
+
+#, fuzzy
+msgid "作成からday日が過ぎた画像は削除されます。"
+msgstr "Images older than %{day} days from creation will be deleted."
+
+#, fuzzy
+msgid "非公開ユーザーのワードクラウド公開URLは、作成から1週間だけ有効です。"
+msgstr "A private user's public Word Cloud URL is only valid for one week after it is created."
+
+#, fuzzy
+msgid "notestockでワードクラウドを作成しました！"
+msgstr "I created a word cloud with notestock!"
+
+#, fuzzy
+msgid "作成"
+msgstr "Make"
+
+#, fuzzy
+msgid "期間"
+msgstr "Term"
+
+#, fuzzy
+msgid "作成日"
+msgstr "Created date"
+
+#, fuzzy
+msgid "投稿待ち"
+msgstr "Awaiting posting"
+
+#, fuzzy
+msgid "すみません。何か問題がありました。しばらくしてから再度試してください。"
+msgstr "Sorry. There was something wrong. Please try again later."
+
+#, fuzzy
+msgid "追記する"
+msgstr "Postscript"
+
+#, fuzzy
+msgid "追記"
+msgstr "Postscript"
+
+#, fuzzy
+msgid "アカウント指定が間違っていませんか？"
+msgstr "Is the account specification correct?"
+
+#, fuzzy
+msgid "エラー理由"
+msgstr "Reason for error"
+
+#, fuzzy
+msgid "メンション方式の表記がおかしい。"
+msgstr "The mention is unknown."
+
+#, fuzzy
+msgid "acctの表記がおかしい。"
+msgstr "The notation of acct is unknown."
+
+#, fuzzy
+msgid "acctのドメイン表記がおかしい。"
+msgstr "The domain notation of acct is unknown."
+
+#, fuzzy
+msgid "webfinger解釈不可。(ユーザーアドレスが見つけられなかった。)"
+msgstr "Cannot interpret webfinger. (The user address could not be found.)"
+
+#, fuzzy
+msgid "activitypub解釈不可。(必要情報が確認できない。)"
+msgstr "activitypub interpretation not possible. (Necessary information cannot be confirmed.)"
+
+#, fuzzy
+msgid "Group Actorは対応していません。"
+msgstr "Group Actor is not supported."
+
+#, fuzzy
+msgid "ウィジェット"
+msgstr "Widget"
+
+#, fuzzy
+msgid "メディア付きのみ"
+msgstr "Only posting with media"
+
+#, fuzzy
+msgid "表示している年月日以前を対象"
+msgstr "Target before the displayed date"
+
+#, fuzzy
+msgid "API Token"
+msgstr "API Token"
+
+#, fuzzy
+msgid "生成"
+msgstr "Generate"
+
+#, fuzzy
+msgid "クリア"
+msgstr "Clear"
+
+#, fuzzy
+msgid "APIを使用しない場合は生成せず、クリアしておいてください。"
+msgstr "If you do not use the API, do not generate it and clear it."
+
+#, fuzzy
+msgid "プロフィール更新"
+msgstr "Profile Update"
+
+#, fuzzy
+msgid "account_name(account_subject)のプロフィール更新"
+msgstr "Profile update %{account_name}(%{account_subject})"
+
+#, fuzzy
+msgid "プロフィール更新説明"
+msgstr "You have an account on a terminated server and cannot update your profile, you can change it here. <br>If you make changes on a valid server account, the information from that account will be overwritten after a certain period of time."
+
+#, fuzzy
+msgid "プロフィール"
+msgstr "Profile"
+
+#, fuzzy
+msgid "アイコン"
+msgstr "Icon"
+
+#, fuzzy
+msgid "これはBOTアカウントです。"
+msgstr "This is BOT account."
+
+#, fuzzy
+msgid "これはCATアカウントです。"
+msgstr "This is CAT account."
+
+#, fuzzy
+msgid "これはDEADアカウントです。"
+msgstr "This is DEAD account."
+
+#, fuzzy
+msgid "変更する場合のみ指定してください。"
+msgstr "Specify only if you want to change it."
+
+#, fuzzy
+msgid "URLは自動でリンクになります。"
+msgstr "The URL will automatically become a link."
+
+#, fuzzy
+msgid "「アイコン」の画像ファイルは4MB以下のサイズにしてください。"
+msgstr "The size of the icon image file should be less than 4MB."
+
+#, fuzzy
+msgid "「アイコン」に正しい画像ファイルを指定してください。"
+msgstr "Specify the correct image file for the icon."
+
+#, fuzzy
+msgid "「アイコン」の画像は各辺1024ピクセル以下にしてください。"
+msgstr "The icon image should be no larger than 1024 pixels on each side."
+
+#, fuzzy
+msgid "「アイコン」の画像はJPEG形式またはPNG形式にしてください。"
+msgstr "The icon image should be in JPEG or PNG format."

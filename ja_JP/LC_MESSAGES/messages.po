@@ -1,0 +1,863 @@
+msgid ""
+msgstr "Project-Id-Version: notestock\nPO-Revision-Date: 2020-01-26 01:06+0000\nLast-Translator: Weblate Admin <osa@osa-p.net>\nLanguage-Team: Japanese <https://weblate.osa-p.net/projects/notestock/web/ja/>\nLanguage: ja_JP\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 3.6.1\n"
+
+msgid "web_site_description_content"
+msgstr "自分の投稿、検索できますか？notestockは、分散SNSにおいて検索機能を持たないサーバーを使っていても、検索できる機能を提供するサービスです。"
+
+msgid "notestock"
+msgstr "notestock"
+
+msgid "よくある質問"
+msgstr "よくある質問"
+
+msgid "ログイン"
+msgstr "ログイン"
+
+msgid "登録"
+msgstr "登録"
+
+msgid "ログアウト"
+msgstr "ログアウト"
+
+msgid "これなに？"
+msgstr "これなに？"
+
+msgid "トップページ説明"
+msgstr "ActivityPub対応SNS（マストドンとかPleromaとか）の投稿を記録します。<br>制作者による notestock に関連する投稿👉<a href='/@osapon@mstdn.nere9.help/view?q=notestock'>こんな感じです</a>"
+
+msgid "制作者"
+msgstr "制作者"
+
+msgid "検索"
+msgstr "検索"
+
+msgid "アカウント内検索"
+msgstr "アカウント内検索"
+
+msgid "検索語"
+msgstr "検索語"
+
+msgid "設定"
+msgstr "設定"
+
+msgid "統計"
+msgstr "統計"
+
+msgid "アカウント切替"
+msgstr "アカウント切替"
+
+msgid "登録アカウント数"
+msgstr "登録アカウント数"
+
+msgid "蓄積投稿数"
+msgstr "蓄積投稿数"
+
+msgid "機能"
+msgstr "機能"
+
+msgid "できる"
+msgstr "できる"
+
+msgid "できない（やりたい）"
+msgstr "できない（やりたい）"
+
+msgid "応援ユーザー"
+msgstr "応援ユーザー"
+
+msgid "使ってみたい人・ログイン→"
+msgstr "使ってみたい人・ログイン→"
+
+msgid "例）"
+msgstr "例）"
+
+msgid "送信"
+msgstr "送信"
+
+msgid "（スペース区切りでAND、OR区切りでOR）"
+msgstr "（スペース区切りでAND、OR区切りでOR）"
+
+msgid "このアカウント"
+msgstr "このアカウント"
+
+msgid "グループ内"
+msgstr "グループ内"
+
+msgid "超応援ユーザー"
+msgstr "超応援ユーザー"
+
+msgid "スペシャルサンクス"
+msgstr "スペシャルサンクス"
+
+msgid "前の年"
+msgstr "前の年"
+
+msgid "前の日"
+msgstr "前の日"
+
+msgid "次の日"
+msgstr "次の日"
+
+msgid "次の年"
+msgstr "次の年"
+
+msgid "そのまま"
+msgstr "そのまま"
+
+msgid "削除する"
+msgstr "削除する"
+
+msgid "投稿削除"
+msgstr "投稿削除"
+
+msgid "オリジナル"
+msgstr "オリジナル"
+
+msgid "続きを見る"
+msgstr "続きを見る"
+
+msgid "検索結果は以上です"
+msgstr "検索結果は以上です"
+
+msgid "削除ダイアログ説明"
+msgstr "このシステムに保存されている投稿を削除します。<br>元のシステムから削除されていない場合、再び取り込まれる場合があります。"
+
+msgid "y年m月d日"
+msgstr "%{year}年%{month}月%{day}日"
+
+msgid "keywordの検索結果"
+msgstr "%{keyword} の検索結果"
+
+msgid "（プライベートページ）"
+msgstr "（プライベートページ）"
+
+msgid "このアカウントは検索が無効です"
+msgstr "このアカウントは検索が無効です。"
+
+msgid "notestockで検索対象に設定しているアカウント"
+msgstr "notestockで検索対象に設定しているアカウント"
+
+msgid "notestockで検索対象に設定しているアカウントの投稿"
+msgstr "notestockで検索対象に設定しているアカウントの投稿"
+
+msgid "notestockユーザー"
+msgstr "notestockユーザー"
+
+msgid "botを含む"
+msgstr "botを含む"
+
+msgid "account_subjectの投稿"
+msgstr "%{account_subject}の投稿"
+
+msgid "account_name(account_subject)の投稿"
+msgstr "%{account_name}(%{account_subject})の投稿"
+
+msgid "announce_user_nameの投稿"
+msgstr "%{announce_user_name}の投稿"
+
+msgid "収集されたデータについては、各データの投稿主に権利があります。"
+msgstr "収集されたデータについては、各データの投稿主に権利があります。"
+
+msgid "issue"
+msgstr "issue"
+
+msgid "投稿の無かった日は平均に含まれていません。"
+msgstr "投稿の無かった日は平均に含まれていません。"
+
+msgid "登録日より前の、非公開・共有先が存在しない投稿は含まれていません。"
+msgstr "登録日より前の、非公開・共有先が存在しない投稿は含まれていません。"
+
+msgid "年月"
+msgstr "年月"
+
+msgid "投稿数"
+msgstr "投稿数"
+
+msgid "月別投稿数"
+msgstr "月別投稿数"
+
+msgid "日別投稿数"
+msgstr "日別投稿数"
+
+msgid "時間"
+msgstr "時間"
+
+msgid "平均投稿数"
+msgstr "平均投稿数"
+
+msgid "時間別投稿数"
+msgstr "時間別投稿数"
+
+msgid "時"
+msgstr "時"
+
+msgid "曜日"
+msgstr "曜日"
+
+msgid "曜日別投稿数"
+msgstr "曜日別投稿数"
+
+msgid "account_subjectの統計"
+msgstr "%{account_subject}の統計"
+
+msgid "account_name(account_subject)の統計"
+msgstr "%{account_name}(%{account_subject})の統計"
+
+msgid "ログイン履歴"
+msgstr "ログイン履歴"
+
+msgid "日時"
+msgstr "日時"
+
+msgid "アカウント"
+msgstr "アカウント"
+
+msgid "処理"
+msgstr "処理"
+
+msgid "IPアドレス"
+msgstr "IPアドレス"
+
+msgid "（最近1ヶ月分だけ記録しています）"
+msgstr "（最近1ヶ月分だけ記録しています）"
+
+msgid "グループの設定"
+msgstr "グループの設定"
+
+msgid "グループ"
+msgstr "グループ"
+
+msgid "追加"
+msgstr "追加"
+
+msgid "選択したアカウントをグループから除外"
+msgstr "選択したアカウントをグループから除外"
+
+msgid "連携されている他のアカウントはありません"
+msgstr "連携されている他のアカウントはありません。"
+
+msgid "戻る"
+msgstr "戻る"
+
+msgid "保存"
+msgstr "保存"
+
+msgid "閉じる"
+msgstr "閉じる"
+
+msgid "解除する"
+msgstr "解除する"
+
+msgid "除外する"
+msgstr "除外する"
+
+msgid "フォロー解除"
+msgstr "フォロー解除"
+
+msgid "フォロー解除中の投稿は記録されません。解除してよいですか？"
+msgstr "フォロー解除中の投稿は記録されません。解除してよいですか？"
+
+msgid "ファンティアユーザーID"
+msgstr "ファンティアユーザーID"
+
+msgid "ファンティアユーザーの説明"
+msgstr "プロフィールページURLの最後のスラッシュから後です。<br>下の例の場合「tus_」から始まる文字です。"
+
+msgid "LiberapayアカウントID"
+msgstr "LiberapayアカウントID"
+
+msgid "Liberapayアカウントの説明"
+msgstr "アカウントページに表示されているIDです。"
+
+msgid "グループ除外"
+msgstr "グループ除外"
+
+msgid "除外対象を選んでください"
+msgstr "除外対象を選んでください"
+
+msgid "該当アカウントからログインコードが送信できない場合、グループから除外するとnotestockへログインできなくなります。解除してよいですか？"
+msgstr "該当アカウントからログインコードが送信できない場合、グループから除外するとnotestockへログインできなくなります。解除してよいですか？"
+
+msgid "応援ユーザーになる"
+msgstr "応援ユーザーになる"
+
+msgid "使用しない"
+msgstr "使用しない"
+
+msgid "使用する"
+msgstr "使用する"
+
+msgid "公開しない"
+msgstr "公開しない"
+
+msgid "公開する"
+msgstr "公開する"
+
+msgid "公開ページ"
+msgstr "公開ページ"
+
+msgid "公開ページ検索拒否タグ"
+msgstr "公開ページ検索拒否タグ"
+
+msgid "publicurlのアドレスで公開されます"
+msgstr "<a href='%{publicurl}' target='_blank'>%{publicurl}</a> のアドレスで公開されます。"
+
+msgid "account_name(account_subject)の設定"
+msgstr "%{account_name}(%{account_subject})の設定"
+
+msgid "公開ページが、他の検索エンジンにクロールされる場合があります"
+msgstr "公開ページが、他の検索エンジンにクロールされる場合があります。"
+
+msgid "noindexの説明"
+msgstr "公開ページに &lt;meta name='robots' content='noindex,nofollow,noarchive,noodp,noydir'&gt;タグが埋め込まれ、他の検索エンジンに対して拒否の意思を表示します。"
+
+msgid "notestock検索"
+msgstr "notestock検索"
+
+msgid "notestockの検索対象にしません"
+msgstr "notestockの検索対象にしません"
+
+msgid "notestockで検索できるようにします"
+msgstr "notestockで検索できるようにします"
+
+msgid "投稿並び順"
+msgstr "投稿並び順"
+
+msgid "古い投稿が上、新しい投稿が下"
+msgstr "古い投稿が上、新しい投稿が下"
+
+msgid "新しい投稿が上、古い投稿が下"
+msgstr "新しい投稿が上、古い投稿が下"
+
+msgid "並び順古いの説明"
+msgstr "検索結果は新しい投稿が上、古い投稿が下で固定です。"
+
+msgid "タイムゾーン"
+msgstr "タイムゾーン"
+
+msgid "ファン"
+msgstr "ファン"
+
+msgid "ファンの説明"
+msgstr "グループ設定されているアカウントのうち、一つに設定すれば他のアカウントにも適用されます。<br>データ取得は一日一回のため、反映まで時間が掛かる場合があります。"
+
+msgid "トップページの応援者に表示しない"
+msgstr "トップページの応援者に表示しない"
+
+msgid "トップページの応援者に表示してもよい"
+msgstr "トップページの応援者に表示してもよい"
+
+msgid "表示場所の都合上、表示されない場合があります。"
+msgstr "表示場所の都合上、表示されない場合があります。"
+
+msgid "もう一度フォローさせる"
+msgstr "もう一度フォローさせる"
+
+msgid "フォローを解除させる"
+msgstr "フォローを解除させる"
+
+msgid "グループを組むアカウント(@account@server.domain)"
+msgstr "グループを組むアカウント(@account@server.domain)"
+
+msgid "グループ追加"
+msgstr "グループ追加"
+
+msgid "アカウントを確認"
+msgstr "アカウントを確認"
+
+msgid "アカウントの存在を確認しました"
+msgstr "アカウントの存在を確認しました。"
+
+msgid "ログインの説明"
+msgstr "本人からのログイン操作を確認するため、 %{acct} から %{notestock} アカウント宛てに、以下の文章を10分以内に送信してください。<br>下の文章をそのままコピーして、ダイレクトなどで投稿してください。"
+
+msgid "アカウント登録の説明"
+msgstr "本人からの収集許可を確認するため、 %{acct} から %{notestock} アカウント宛てに、以下の文章を10分以内に送信してください。<br>下の文章をそのままコピーして、ダイレクトなどで投稿してください。"
+
+msgid "グループ追加の説明"
+msgstr "グループ追加操作を確認するため、 %{acct} から %{notestock} アカウント宛てに、以下の文章を10分以内に送信してください。<br>下の文章をそのままコピーして、ダイレクトなどで投稿してください。"
+
+msgid "登録の説明"
+msgstr "投稿されると、こちらからフォローをしますので、フォロー制限などを掛けている場合は許可をお願いします。"
+
+msgid "入力されたアカウントがnotestockに登録されていません。現在のアカウントをログアウトして、先に登録を行ってください"
+msgstr "入力されたアカウントがnotestockに登録されていません。現在のアカウントをログアウトして、先に登録を行ってください。"
+
+msgid "まだ投稿が到着していないようです。もうしばらく待ってから押してください"
+msgstr "まだ投稿が到着していないようです。もうしばらく待ってから押してください。"
+
+msgid "コードの有効期限が切れました。再度登録を行ってください"
+msgstr "コードの有効期限が切れました。再度登録を行ってください。"
+
+msgid "ロボットチェックに引っかかりました"
+msgstr "ロボットチェックに引っかかりました。何度も先の画面へ進めない場合、お手数ですが %{author} まで連絡ください。"
+
+msgid "投稿した"
+msgstr "投稿した"
+
+msgid "集計中"
+msgstr "集計中"
+
+msgid "ログイン試行"
+msgstr "ログイン試行"
+
+msgid "ログイン成功"
+msgstr "ログイン成功"
+
+msgid "API呼び出し/検索"
+msgstr "API呼び出し/検索"
+
+msgid "カレンダー開始曜日"
+msgstr "カレンダー開始曜日"
+
+msgid "日曜日"
+msgstr "日曜日"
+
+msgid "月曜日"
+msgstr "月曜日"
+
+msgid "日曜日(短縮)"
+msgstr "日"
+
+msgid "月曜日(短縮)"
+msgstr "月"
+
+msgid "火曜日(短縮)"
+msgstr "火"
+
+msgid "水曜日(短縮)"
+msgstr "水"
+
+msgid "木曜日(短縮)"
+msgstr "木"
+
+msgid "金曜日(短縮)"
+msgstr "金"
+
+msgid "土曜日(短縮)"
+msgstr "土"
+
+msgid "公開ページリンク"
+msgstr "公開ページリンク"
+
+msgid "その他"
+msgstr "その他"
+
+msgid "Webhook"
+msgstr "Webhook"
+
+msgid "account_subjectのWebhook"
+msgstr "%{account_subject}のWebhook"
+
+msgid "account_name(account_subject)のWebhook"
+msgstr "%{account_name}(%{account_subject})のWebhook"
+
+msgid "テスト投稿。書き換えてテストしてください。"
+msgstr "テスト投稿。書き換えてテストしてください。"
+
+msgid "テスト"
+msgstr "テスト"
+
+msgid "呼び出し"
+msgstr "呼び出し"
+
+msgid "正規表現に間違いがあります。"
+msgstr "正規表現に間違いがあります。"
+
+msgid "正規表現に一致しませんでした。"
+msgstr "正規表現に一致しませんでした。"
+
+msgid "webhook URLに間違いがあります。"
+msgstr "webhook URLに間違いがあります。"
+
+msgid "webhook URL"
+msgstr "webhook URL"
+
+msgid "Webhookログ"
+msgstr "Webhookログ"
+
+msgid "送信body"
+msgstr "送信body"
+
+msgid "予約日時"
+msgstr "予約日時"
+
+msgid "投稿"
+msgstr "投稿"
+
+msgid "処理日時"
+msgstr "処理日時"
+
+msgid "ステータス"
+msgstr "ステータス"
+
+msgid "METHOD"
+msgstr "METHOD"
+
+msgid "CONTENT_TYPE"
+msgstr "Content-Type"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "結果body"
+msgstr "結果body"
+
+msgid "この機能は実験的なものです。"
+msgstr "この機能は実験的なものです。"
+
+msgid "共有を含む"
+msgstr "共有を含む"
+
+msgid "カスタム"
+msgstr "カスタム"
+
+msgid "前週"
+msgstr "前週"
+
+msgid "先月"
+msgstr "先月"
+
+msgid "過去7日間"
+msgstr "過去7日間"
+
+msgid "過去30日間"
+msgstr "過去30日間"
+
+msgid "過去1年間"
+msgstr "過去1年間"
+
+msgid "再読込"
+msgstr "再読込"
+
+msgid "超応援ユーザーのみ1年以上前の指定が可能です。"
+msgstr "超応援ユーザーのみ1年以上前の指定が可能です。"
+
+msgid "ログインの設定"
+msgstr "ログインの設定"
+
+msgid "二要素認証の設定"
+msgstr "二要素認証の設定"
+
+msgid "トークン"
+msgstr "トークン"
+
+msgid "二要素認証アプリにQRコードを読み込んで、表示されたトークンを送信してください。QRコードが使えない場合は次のコードを入力してください。:code"
+msgstr "二要素認証アプリにQRコードを読み込んで、表示されたトークンを送信してください。<br>QRコードが使えない場合は次のコードを入力してください。: %{code}"
+
+msgid "トークンが間違っているようです。再度入力してください。"
+msgstr "トークンが間違っているようです。再度入力してください。"
+
+msgid "二要素認証が設定されました。"
+msgstr "二要素認証が設定されました。"
+
+msgid "二要素認証を解除"
+msgstr "二要素認証を解除"
+
+msgid "二要素認証を解除します。解除してよいですか？"
+msgstr "二要素認証を解除します。解除してよいですか？"
+
+msgid "二要素認証が解除されました。"
+msgstr "二要素認証が解除されました。"
+
+msgid "ログイン許可"
+msgstr "ログイン許可"
+
+msgid "このアカウント(account_subject)でのログインを"
+msgstr "このアカウント(%{account_subject})でのログインを"
+
+msgid "ログイン拒否と二要素認証は同時に設定できません。設定する場合はもう一方の設定を解除してください。"
+msgstr "ログイン拒否と二要素認証は同時に設定できません。設定する場合はもう一方の設定を解除してください。"
+
+msgid "ログイン許可の設定が変更されました。"
+msgstr "ログイン許可の設定が変更されました。"
+
+msgid "グループ設定を行っていると、ログインを許可しないアカウントの設定が可能です。"
+msgstr "グループ設定を行っていると、ログインを許可しないアカウントの設定が可能です。"
+
+msgid "ログインを使用しない"
+msgstr "ログインを使用しない"
+
+msgid "このアカウントでログインを禁止します。他のアカウントからログイン可能ですか？他のアカウントからログインできない場合、notestockへのログインができなくなります。"
+msgstr "このアカウントでログインを禁止します。他のアカウントからログイン可能ですか？他のアカウントからログインできない場合、notestockへのログインができなくなります。"
+
+msgid "禁止する"
+msgstr "禁止する"
+
+msgid "ダウンロード"
+msgstr "ダウンロード"
+
+msgid "account_name(account_subject)のダウンロード"
+msgstr "%{account_name}(%{account_subject})のダウンロード"
+
+msgid "データ準備"
+msgstr "データ準備"
+
+msgid "データの準備に時間が掛かるため、用意ができたら以下のアカウントへ通知を送信します。"
+msgstr "データの準備に時間が掛かるため、用意ができたら以下のアカウントへ通知を送信します。"
+
+msgid "通知不要"
+msgstr "通知不要"
+
+msgid "通知先"
+msgstr "通知先"
+
+msgid "データ形式"
+msgstr "データ形式"
+
+msgid "CSV（投稿日時、投稿内容の一覧）"
+msgstr "CSV（投稿日時、投稿内容の一覧）"
+
+msgid "JSON（ActivityPubで受信した内容の一覧）"
+msgstr "JSON（ActivityPubで受信した内容の一覧）"
+
+msgid "エクスポート（notestock引越用の全グループデータ）"
+msgstr "エクスポート（notestock引越用の全グループデータ）"
+
+msgid "エクスポート先サーバーのstockerアカウント"
+msgstr "エクスポート先サーバーのstockerアカウント"
+
+msgid "インポート"
+msgstr "インポート"
+
+msgid "ファイルを選択"
+msgstr "ファイルを選択"
+
+msgid "内部エラー"
+msgstr "内部エラー"
+
+msgid "ファイルが指定されていないか、アップロード済みのファイルが指定されました。"
+msgstr "ファイルが指定されていないか、アップロード済みのファイルが指定されました。"
+
+msgid "不明なエラーです。"
+msgstr "不明なエラーです。"
+
+msgid "設定されたアップロードサイズを超えています。"
+msgstr "設定されたアップロードサイズを超えています。"
+
+msgid "書き込みに失敗しました。"
+msgstr "書き込みに失敗しました。"
+
+msgid "設定された作業ディレクトリがありません。"
+msgstr "設定された作業ディレクトリがありません。"
+
+msgid "エクスポートファイルではありません。"
+msgstr "エクスポートファイルではありません。"
+
+msgid "管理者に連絡してください。"
+msgstr "管理者に連絡してください。"
+
+msgid "データの準備ができました。"
+msgstr "データの準備ができました。"
+
+msgid "現在、データの準備中です。"
+msgstr "現在、データの準備中です。"
+
+msgid "notestockでは、投稿のテキストだけを保存しています。画像などは保持していないので、ダウンロードデータには含まれません。"
+msgstr "notestockでは、投稿のテキストだけを保存しています。画像などは保持していないので、ダウンロードデータには含まれません。"
+
+msgid "処理待ち"
+msgstr "処理待ち"
+
+msgid "処理中"
+msgstr "処理中"
+
+msgid "準備完了"
+msgstr "準備完了"
+
+msgid "ファイル削除"
+msgstr "ファイル削除"
+
+msgid "通常は24時間で自動削除されます。"
+msgstr "通常は24時間で自動削除されます。"
+
+msgid "ダウンロードツールには対応していません。解除してダウンロードしてください。"
+msgstr "ダウンロードツールには対応していません。一時的に解除してダウンロードしてください。"
+
+msgid "ショートカット"
+msgstr "ショートカット"
+
+msgid "表示名"
+msgstr "表示名"
+
+msgid "公開"
+msgstr "公開"
+
+msgid "変更取消"
+msgstr "変更取消"
+
+msgid "ワードクラウド"
+msgstr "ワードクラウド"
+
+msgid "account_subjectのワードクラウド"
+msgstr "%{account_subject}のワードクラウド"
+
+msgid "account_name(account_subject)のワードクラウド"
+msgstr "%{account_name}(%{account_subject})のワードクラウド"
+
+msgid "公開投稿のみ対象です。"
+msgstr "公開投稿のみ対象です。"
+
+msgid "作成からday日が過ぎた画像は削除されます。"
+msgstr "作成から%{day}日が過ぎた画像は削除されます。"
+
+msgid "非公開ユーザーのワードクラウド公開URLは、作成から1週間だけ有効です。"
+msgstr "非公開ユーザーのワードクラウド公開URLは、作成から1週間だけ有効です。"
+
+msgid "notestockでワードクラウドを作成しました！"
+msgstr "notestockでワードクラウドを作成しました！"
+
+msgid "作成"
+msgstr "作成"
+
+msgid "期間"
+msgstr "期間"
+
+msgid "作成日"
+msgstr "作成日"
+
+msgid "投稿待ち"
+msgstr "投稿待ち"
+
+msgid "すみません。何か問題がありました。しばらくしてから再度試してください。"
+msgstr "すみません。何か問題がありました。しばらくしてから再度試してください。"
+
+msgid "追記する"
+msgstr "追記する"
+
+msgid "追記"
+msgstr "追記"
+
+msgid "アカウント指定が間違っていませんか？"
+msgstr "アカウント指定が間違っていませんか？"
+
+msgid "エラー理由"
+msgstr "エラー理由"
+
+msgid "メンション方式の表記がおかしい。"
+msgstr "メンション方式の表記がおかしい。"
+
+msgid "acctの表記がおかしい。"
+msgstr "acctの表記がおかしい。"
+
+msgid "acctのドメイン表記がおかしい。"
+msgstr "acctのドメイン表記がおかしい。"
+
+msgid "webfinger解釈不可。(ユーザーアドレスが見つけられなかった。)"
+msgstr "webfinger解釈不可。(ユーザーアドレスが見つけられなかった。)"
+
+msgid "activitypub解釈不可。(必要情報が確認できない。)"
+msgstr "activitypub解釈不可。(必要情報が確認できない。)"
+
+msgid "Group Actorは対応していません。"
+msgstr "Group Actorは対応していません。"
+
+msgid "ウィジェット"
+msgstr "ウィジェット"
+
+msgid "メディア付きのみ"
+msgstr "メディア付きのみ"
+
+msgid "表示している年月日以前を対象"
+msgstr "表示している年月日以前を対象"
+
+msgid "これすきモード"
+msgstr "これすきモード"
+
+msgid "連続投稿日数ランキング"
+msgstr "連続投稿日数ランキング"
+
+msgid "開始日"
+msgstr "開始日"
+
+msgid "終了日"
+msgstr "終了日"
+
+msgid "日数"
+msgstr "日数"
+
+msgid "API_Token"
+msgstr "API Token"
+
+msgid "生成"
+msgstr "生成"
+
+msgid "クリア"
+msgstr "クリア"
+
+msgid "APIを使用しない場合は生成せず、クリアしておいてください。"
+msgstr "APIを使用しない場合は生成せず、クリアしておいてください。"
+
+msgid "プロフィール更新"
+msgstr "プロフィール更新"
+
+msgid "account_name(account_subject)のプロフィール更新"
+msgstr "%{account_name}(%{account_subject})のプロフィール更新"
+
+msgid "プロフィール更新説明"
+msgstr "終了したサーバーのアカウントなどで、プロフィールが更新できない場合、ここから変更が可能です。<br>有効なサーバーのアカウントで変更を行うと、一定時間後にそちらからの情報で上書きされます。"
+
+msgid "プロフィール"
+msgstr "プロフィール"
+
+msgid "アイコン"
+msgstr "アイコン"
+
+msgid "これはBOTアカウントです。"
+msgstr "これはBOTアカウントです。"
+
+msgid "これはCATアカウントです。"
+msgstr "これはCATアカウントです。"
+
+msgid "これはDEADアカウントです。"
+msgstr "これはDEADアカウントです。"
+
+msgid "変更する場合のみ指定してください。"
+msgstr "変更する場合のみ指定してください。"
+
+msgid "URLは自動でリンクになります。"
+msgstr "URLは自動でリンクになります。"
+
+msgid "「アイコン」の画像ファイルは4MB以下のサイズにしてください。"
+msgstr "「アイコン」の画像ファイルは4MB以下のサイズにしてください。"
+
+msgid "「アイコン」に正しい画像ファイルを指定してください。"
+msgstr "「アイコン」に正しい画像ファイルを指定してください。"
+
+msgid "「アイコン」の画像は各辺1024ピクセル以下にしてください。"
+msgstr "「アイコン」の画像は各辺1024ピクセル以下にしてください。"
+
+msgid "「アイコン」の画像はJPEG形式またはPNG形式にしてください。"
+msgstr "「アイコン」の画像はJPEG形式またはPNG形式にしてください。"
+
+msgid "過去データ取得中です。"
+msgstr "過去データ取得中です。"
+
+msgid "過去投稿取得中です。get_queue_count"
+msgstr "過去投稿取得中です。(残り%{get_queue_count}件)"
+
+msgid "過去データ取込"
+msgstr "過去データ取込"
+
+msgid "account_name(account_subject)のデータ取込"
+msgstr "%{account_name}(%{account_subject})のデータ取込"
+
+msgid "期限を指定して取込"
+msgstr "期限を指定して取込"
+
+msgid "（指定が無ければ一番古いものまで）"
+msgstr "（指定が無ければ一番古いものまで）"
+
+msgid "取込日時"
+msgstr "取込日時"
+
+msgid "期限日時"
+msgstr "期限日時"
+
+msgid "取込中止"
+msgstr "取込中止"
+
+msgid "テストサーバーメッセージ"
+msgstr "このサーバーはテストモードに設定されています。取り込みテスト用です。実際の利用は <a href='https://notestock.osa-p.net/'>notestock.osa-p.net</a>へどうぞ。"
+
+msgid "notestockサーバーではありません。"
+msgstr "notestockサーバーではありません。"
