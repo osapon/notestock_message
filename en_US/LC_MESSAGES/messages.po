@@ -905,3 +905,12 @@ msgstr "This server is set to test mode. For import test. Please visit notestock
 
 msgid "notestockサーバーではありません。"
 msgstr "Not a notestock server."
+
+msgid "編集履歴"
+msgstr "Edit history"
+
+msgid "インライン表示"
+msgstr "Inline view"
+
+msgid "分割表示"
+msgstr "Side by Side view"

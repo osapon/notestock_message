@@ -861,3 +861,12 @@ msgstr "このサーバーはテストモードに設定されています。取
 
 msgid "notestockサーバーではありません。"
 msgstr "notestockサーバーではありません。"
+
+msgid "編集履歴"
+msgstr "編集履歴"
+
+msgid "インライン表示"
+msgstr "インライン表示"
+
+msgid "分割表示"
+msgstr "分割表示"
