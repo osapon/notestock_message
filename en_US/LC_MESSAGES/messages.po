@@ -914,3 +914,9 @@ msgstr "Inline view"
 
 msgid "分割表示"
 msgstr "Side by Side view"
+
+msgid "履歴無し"
+msgstr "The edit date and time of the post is recorded, but the edit history before and after was not record."
+
+msgid "選択した版同士を比較"
+msgstr "Compare the selected versions"
