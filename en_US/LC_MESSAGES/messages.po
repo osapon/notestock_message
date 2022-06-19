@@ -920,3 +920,9 @@ msgstr "The edit date and time of the post is recorded, but the edit history bef
 
 msgid "選択した版同士を比較"
 msgstr "Compare the selected versions"
+
+msgid "投稿内容"
+msgstr "Post content"
+
+msgid "詳細情報"
+msgstr "Detailed information"
