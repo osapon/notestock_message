@@ -23,7 +23,7 @@ msgid "これなに？"
 msgstr "これなに？"
 
 msgid "トップページ説明"
-msgstr "ActivityPub対応SNS（マストドンとかPleromaとか）の投稿を記録します。<br>制作者による notestock に関連する投稿👉<a href='/@osapon@mstdn.nere9.help/view?q=notestock'>こんな感じです</a>"
+msgstr "ActivityPub対応SNS（マストドンとかMisskeyとかPleromaとか）の投稿を記録します。<br>制作者による notestock に関連する投稿👉<a href='/@osapon@mstdn.nere9.help/view?q=notestock'>こんな感じです</a>"
 
 msgid "制作者"
 msgstr "制作者"

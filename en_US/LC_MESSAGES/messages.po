@@ -35,7 +35,7 @@ msgstr "What is this?"
 
 msgid "トップページ説明"
 msgstr ""
-"ActivityPub Support SNS(Mastodon, Pleroma, etc)posts are posted.<br>Posts "
+"ActivityPub Support SNS(Mastodon, Misskey, Pleroma, etc)posts are posted.<br>Posts "
 "related to notestock by author👉<a href='/@osapon@mstdn.nere9.help/"
 "view?q=notestock'>It is like this</a>"
 
