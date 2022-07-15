@@ -926,3 +926,9 @@ msgstr "Post content"
 
 msgid "詳細情報"
 msgstr "Detailed information"
+
+msgid "tootsearchで検索"
+msgstr "Search by 'tootsearch'"
+
+msgid "マストドン検索ポータルで検索"
+msgstr "Search by 'Mastodon search portal'"

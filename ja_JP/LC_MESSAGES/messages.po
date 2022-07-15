@@ -882,3 +882,9 @@ msgstr "投稿内容"
 
 msgid "詳細情報"
 msgstr "詳細情報"
+
+msgid "tootsearchで検索"
+msgstr "tootsearchで検索"
+
+msgid "マストドン検索ポータルで検索"
+msgstr "マストドン検索ポータルで検索"
