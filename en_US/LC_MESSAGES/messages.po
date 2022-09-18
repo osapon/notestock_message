@@ -932,3 +932,21 @@ msgstr "Search by 'tootsearch'"
 
 msgid "マストドン検索ポータルで検索"
 msgstr "Search by 'Mastodon search portal'"
+
+msgid "表示"
+msgstr "Show"
+
+msgid "非表示"
+msgstr "Hide"
+
+msgid "選択したアカウントを表示"
+msgstr "Shown selected account"
+
+msgid "選択したアカウントを非表示"
+msgstr "Hide selected account"
+
+msgid "profileurlのアドレスで公開されます"
+msgstr "Accounts set to 'Show' will be published at the <a href='%{profileurl}' target='_blank'>%{profileurl}</a> address. If all are 'Hide', the page will not be published."
+
+msgid "account_subjectのアカウント一覧"
+msgstr "Account lists of %{account_subject}"

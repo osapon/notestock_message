@@ -888,3 +888,21 @@ msgstr "tootsearchで検索"
 
 msgid "マストドン検索ポータルで検索"
 msgstr "マストドン検索ポータルで検索"
+
+msgid "表示"
+msgstr "表示"
+
+msgid "非表示"
+msgstr "非表示"
+
+msgid "選択したアカウントを表示"
+msgstr "選択したアカウントを表示"
+
+msgid "選択したアカウントを非表示"
+msgstr "選択したアカウントを非表示"
+
+msgid "profileurlのアドレスで公開されます"
+msgstr "「表示」に設定したアカウントは、<a href='%{profileurl}' target='_blank'>%{profileurl}</a> のアドレスで公開されます。全て「非表示」ならページは公開されません。"
+
+msgid "account_subjectのアカウント一覧"
+msgstr "%{account_subject}のアカウント一覧"
