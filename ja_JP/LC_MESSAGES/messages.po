@@ -886,9 +886,6 @@ msgstr "詳細情報"
 msgid "tootsearchで検索"
 msgstr "tootsearchで検索"
 
-msgid "マストドン検索ポータルで検索"
-msgstr "マストドン検索ポータルで検索"
-
 msgid "表示"
 msgstr "表示"
 
@@ -906,3 +903,19 @@ msgstr "「表示」に設定したアカウントは、<a href='%{profileurl}' 
 
 msgid "account_subjectのアカウント一覧"
 msgstr "%{account_subject}のアカウント一覧"
+
+msgid "カスタム絵文字"
+msgstr "カスタム絵文字"
+
+msgid "エクスプローラー"
+msgstr "エクスプローラー"
+
+msgid "名前"
+msgstr "名前"
+
+msgid "似ている文字"
+msgstr "似ている文字"
+
+msgid "リセット"
+msgstr "リセット"
+
