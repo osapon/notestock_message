@@ -962,3 +962,21 @@ msgstr "Similar characters"
 
 msgid "リセット"
 msgstr "Reset"
+
+msgid "サービス登録時にフォロー制限をしていて、stocker@domainからのフォローを許可していなかった場合にお使いください。"
+msgstr "Please use this if you set follow restrictions when you registered for the service and did not allow follow from stocker@%{domain}"
+
+msgid "参考情報"
+msgstr "For reference"
+
+msgid "このサーバから"
+msgstr "from this server"
+
+msgid "初めてアカウントを認識した日"
+msgstr "The date the account was first recognized"
+
+msgid "最新のフォロー日"
+msgstr "Latest follow date"
+
+msgid "認識している最古の投稿日"
+msgstr "Oldest known post date"
