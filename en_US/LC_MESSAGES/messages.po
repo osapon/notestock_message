@@ -927,8 +927,8 @@ msgstr "Post content"
 msgid "詳細情報"
 msgstr "Detailed information"
 
-msgid "tootsearchで検索"
-msgstr "Search by 'tootsearch'"
+msgid "ますみすサーチで検索"
+msgstr "Search by 'masmis-search'"
 
 msgid "表示"
 msgstr "Show"
