@@ -34,8 +34,8 @@ msgstr "検索"
 msgid "アカウント内検索"
 msgstr "アカウント内検索"
 
-msgid "ユーザー検索"
-msgstr "ユーザー検索"
+msgid "ユーザー"
+msgstr "ユーザー"
 
 msgid "検索語"
 msgstr "検索語"

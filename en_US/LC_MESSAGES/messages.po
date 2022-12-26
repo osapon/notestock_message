@@ -48,8 +48,8 @@ msgstr "Search"
 msgid "アカウント内検索"
 msgstr "Search in account"
 
-msgid "ユーザー検索"
-msgstr "User search"
+msgid "ユーザー"
+msgstr "User"
 
 msgid "検索語"
 msgstr "Search word"
