@@ -48,6 +48,9 @@ msgstr "Search"
 msgid "アカウント内検索"
 msgstr "Search in account"
 
+msgid "ユーザー検索"
+msgstr "User search"
+
 msgid "検索語"
 msgstr "Search word"
 
@@ -141,7 +144,10 @@ msgid "y年m月d日"
 msgstr "%{year}-%{month}-%{day}"
 
 msgid "keywordの検索結果"
-msgstr "Search results for %{keyword}"
+msgstr "Search word results for %{keyword}"
+
+msgid "keywordのユーザー検索結果"
+msgstr "Search user results for %{keyword}"
 
 msgid "（プライベートページ）"
 msgstr "(Private page)"
