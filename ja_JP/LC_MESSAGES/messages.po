@@ -316,14 +316,17 @@ msgstr "公開ページが、他の検索エンジンにクロールされる場
 msgid "noindexの説明"
 msgstr "公開ページに &lt;meta name='robots' content='noindex,nofollow,noarchive,noodp,noydir'&gt;タグが埋め込まれ、他の検索エンジンに対して拒否の意思を表示します。"
 
-msgid "notestock検索"
-msgstr "notestock検索"
+msgid "notestock投稿検索"
+msgstr "notestock投稿検索"
 
-msgid "notestockの検索対象にしません"
-msgstr "notestockの検索対象にしません"
+msgid "誰からも投稿が検索できます。"
+msgstr "誰からも投稿が検索できます。"
 
-msgid "notestockで検索できるようにします"
-msgstr "notestockで検索できるようにします"
+msgid "notestockユーザー検索"
+msgstr "notestockユーザー検索"
+
+msgid "誰からもアカウントが検索できます。"
+msgstr "誰からもアカウントが検索できます。"
 
 msgid "投稿並び順"
 msgstr "投稿並び順"

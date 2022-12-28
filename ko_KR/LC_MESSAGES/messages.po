@@ -349,18 +349,6 @@ msgstr ""
 "other search engines."
 
 #, fuzzy
-msgid "notestock検索"
-msgstr "notestock search"
-
-#, fuzzy
-msgid "notestockの検索対象にしません"
-msgstr "Do not target for search"
-
-#, fuzzy
-msgid "notestockで検索できるようにします"
-msgstr "Make it searchable with notestock"
-
-#, fuzzy
 msgid "投稿並び順"
 msgstr "Posting order"
 

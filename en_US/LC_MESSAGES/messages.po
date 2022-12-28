@@ -343,14 +343,17 @@ msgstr ""
 "noodp, noydir'&gt; tag on the public page and display the intent to deny to "
 "other search engines."
 
-msgid "notestock検索"
-msgstr "notestock search"
+msgid "notestock投稿検索"
+msgstr "notestock post search"
 
-msgid "notestockの検索対象にしません"
-msgstr "Do not target for search"
+msgid "誰からも投稿が検索できます。"
+msgstr "Posts can be searched by anyone."
 
-msgid "notestockで検索できるようにします"
-msgstr "Make it searchable with notestock"
+msgid "notestockユーザー検索"
+msgstr "notestock user search"
+
+msgid "誰からもアカウントが検索できます。"
+msgstr "Account can be searched by anyone."
 
 msgid "投稿並び順"
 msgstr "Posting order"
