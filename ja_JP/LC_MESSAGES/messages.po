@@ -28,6 +28,12 @@ msgstr "ActivityPub対応SNS（マストドンとかMisskeyとかPleromaとか�
 msgid "制作者"
 msgstr "制作者"
 
+msgid "問合せ先"
+msgstr "問合せ先"
+
+msgid "問合せ案内"
+msgstr "問い合わせて2日以内に何らかの返答（ふぁぼは既読を意味します）がない場合、別の手段で問い合わせをお願いします。"
+
 msgid "検索"
 msgstr "検索"
 
@@ -945,3 +951,18 @@ msgstr "最新のフォロー日"
 
 msgid "認識している最古の投稿日"
 msgstr "認識している最古の投稿日"
+
+msgid "情報"
+msgstr "情報"
+
+msgid "サービスについて"
+msgstr "サービスについて"
+
+msgid "寄付について"
+msgstr "寄付について"
+
+msgid "寄付説明"
+msgstr "<a href=\"https://fantia.jp/osapon\" target=\"_blank\">ファンティア</a>および<a href=\"https://liberapay.com/osapon/donate\" target=\"_blank\">Liberapay</a>にて受け付けています。ストレージ費用などに活用させていただいています。<br>継続支援以外にも、単発での支援も歓迎しております。下記「寄付など」のリンク先を参照してください。"
+
+msgid "このサーバーで公開されている他のサービス"
+msgstr "このサーバーで公開されている他のサービス"

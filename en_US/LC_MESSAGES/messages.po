@@ -42,6 +42,12 @@ msgstr ""
 msgid "制作者"
 msgstr "Author"
 
+msgid "問合せ先"
+msgstr "Contact information"
+
+msgid "問合せ案内"
+msgstr "If you do not receive any response (Favorite/Like means read) within 2 days after inquiring, please contact us by another means."
+
 msgid "検索"
 msgstr "Search"
 
@@ -989,3 +995,18 @@ msgstr "Latest follow date"
 
 msgid "認識している最古の投稿日"
 msgstr "Oldest known post date"
+
+msgid "情報"
+msgstr "Info"
+
+msgid "サービスについて"
+msgstr "About service"
+
+msgid "寄付について"
+msgstr "About donation"
+
+msgid "寄付説明"
+msgstr "Donations are accepted on <a href=\"https://liberapay.com/osapon/donate\" target=\"_blank\">Liberapay</a> and <a href=\"https://fantia.jp/osapon\" target=\"_blank\">Fantia(Japanese)</a>. It is used for storage costs, etc.<br>In addition to continuous support, I also welcome one-time support. See the \"Donations\" link below."
+
+msgid "このサーバーで公開されている他のサービス"
+msgstr "Published other services on this server"
