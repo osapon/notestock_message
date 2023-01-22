@@ -1010,3 +1010,21 @@ msgstr "Donations are accepted on <a href=\"https://liberapay.com/osapon/donate\
 
 msgid "このサーバーで公開されている他のサービス"
 msgstr "Published other services on this server"
+
+msgid "検索許可期限"
+msgstr "Search permission period"
+
+msgid "無期限"
+msgstr "Indefinite period"
+
+msgid "2ヶ月"
+msgstr "2 months"
+
+msgid "6ヶ月"
+msgstr "6 months"
+
+msgid "1年"
+msgstr "1 year"
+
+msgid "2年"
+msgstr "2 years"

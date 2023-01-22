@@ -966,3 +966,21 @@ msgstr "<a href=\"https://fantia.jp/osapon\" target=\"_blank\">ファンティ�
 
 msgid "このサーバーで公開されている他のサービス"
 msgstr "このサーバーで公開されている他のサービス"
+
+msgid "検索許可期限"
+msgstr "検索許可期限"
+
+msgid "無期限"
+msgstr "無期限"
+
+msgid "2ヶ月"
+msgstr "2ヶ月"
+
+msgid "6ヶ月"
+msgstr "6ヶ月"
+
+msgid "1年"
+msgstr "1年"
+
+msgid "2年"
+msgstr "2年"
