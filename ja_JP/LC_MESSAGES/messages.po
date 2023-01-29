@@ -97,6 +97,12 @@ msgstr "超応援ユーザー"
 msgid "スペシャルサンクス"
 msgstr "スペシャルサンクス"
 
+msgid "一ヶ月分"
+msgstr "一ヶ月分"
+
+msgid "一週間分"
+msgstr "一週間分"
+
 msgid "前の年"
 msgstr "前の年"
 

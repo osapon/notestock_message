@@ -111,6 +111,12 @@ msgstr "Super supporting user"
 msgid "スペシャルサンクス"
 msgstr "Special thanks"
 
+msgid "一ヶ月分"
+msgstr "one month"
+
+msgid "一週間分"
+msgstr "one week"
+
 msgid "前の年"
 msgstr "Previous year"
 
