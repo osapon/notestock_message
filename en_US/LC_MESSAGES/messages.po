@@ -687,6 +687,9 @@ msgstr "Import"
 msgid "ファイルを選択"
 msgstr "Select file"
 
+msgid "エラー"
+msgstr "Error"
+
 msgid "内部エラー"
 msgstr "Internal error"
 
@@ -1034,3 +1037,9 @@ msgstr "1 year"
 
 msgid "2年"
 msgstr "2 years"
+
+msgid "指定された投稿は、公開ユーザーのものではありませんでした。"
+msgstr "The specified post did not belong to a user with public settings."
+
+msgid "指定された投稿は、ありませんでした。"
+msgstr "The specified post does not exist."
