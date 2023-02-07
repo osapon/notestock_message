@@ -1048,4 +1048,4 @@ msgid "無視ドメイン"
 msgstr "Ignore Domain"
 
 msgid "無視ドメイン説明"
-msgstr "It is a domain that is set not to be accessed by notestock. It is registered for no further access due to reasons such as server termination.<br>If you can't use notestock, please check if it is on this list. If the server is restarted on the same domain, notestock will not be available until you remove it from this list. To delete from the list, please contact the administrator."
+msgstr "It is a domain that is set not to be accessed by notestock. It is registered for no further access due to reasons such as server termination.<br>If you can't use notestock, please check if it is on this list. If the server is restarted on the same domain, notestock will not be available until you remove it from this list. To delete from the list, please contact the author."
