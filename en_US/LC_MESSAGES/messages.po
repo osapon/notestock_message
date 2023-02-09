@@ -987,8 +987,8 @@ msgstr "Similar characters"
 msgid "リセット"
 msgstr "Reset"
 
-msgid "サービス登録時にフォロー制限をしていて、stocker@domainからのフォローを許可していなかった場合にお使いください。"
-msgstr "Please use this if you set follow restrictions when you registered for the service and did not allow follow from stocker@%{domain}"
+msgid "取り込み案内"
+msgstr "It is not necessary to use this function on a regular basis. Please use this if you set follow restrictions when you registered for the service and did not allow follow from stocker@%{domain}"
 
 msgid "参考情報"
 msgstr "For reference"
@@ -1049,3 +1049,6 @@ msgstr "Ignore Domain"
 
 msgid "無視ドメイン説明"
 msgstr "It is a domain that is set not to be accessed by notestock. It is registered for no further access due to reasons such as server termination.<br>If you can't use notestock, please check if it is on this list. If the server is restarted on the same domain, notestock will not be available until you remove it from this list. To delete from the list, please contact the author."
+
+msgid "普段使用しない設定"
+msgstr "Settings not normally used"
