@@ -1052,3 +1052,6 @@ msgstr "It is a domain that is set not to be accessed by notestock. It is regist
 
 msgid "普段使用しない設定"
 msgstr "Settings not normally used"
+
+msgid "反映まで時間が掛かる場合があります。"
+msgstr "It may take some time for the data to be reflected."
