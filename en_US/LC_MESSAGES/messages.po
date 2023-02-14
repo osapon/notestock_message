@@ -1055,3 +1055,6 @@ msgstr "Settings not normally used"
 
 msgid "反映まで時間が掛かる場合があります。"
 msgstr "It may take some time for the data to be reflected."
+
+msgid "このアカウントは、notestockで公開設定になっていません。"
+msgstr "This account is not set to public on notestock."
