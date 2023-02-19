@@ -1058,3 +1058,9 @@ msgstr "It may take some time for the data to be reflected."
 
 msgid "このアカウントは、notestockで公開設定になっていません。"
 msgstr "This account is not set to public on notestock."
+
+msgid "もう一度行ってください。"
+msgstr "Please try again."
+
+msgid "画面の切り替えが正しく行われなかったようです。"
+msgstr "It appears that the screen was not switched correctly."
