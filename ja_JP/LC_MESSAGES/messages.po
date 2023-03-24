@@ -730,6 +730,21 @@ msgstr "非公開ユーザーのワードクラウド公開URLは、作成から
 msgid "notestockでワードクラウドを作成しました！"
 msgstr "notestockでワードクラウドを作成しました！"
 
+msgid "認識語句"
+msgstr "認識語句"
+
+msgid "非表示語句"
+msgstr "非表示語句"
+
+msgid "カンマ区切り"
+msgstr "カンマ区切り"
+
+msgid "分割せず、一つにまとめたい語句を指定してください。"
+msgstr "分割せず、一つにまとめたい語句を指定してください。"
+
+msgid "表示したくない語句を指定してください。"
+msgstr "表示したくない語句を指定してください。"
+
 msgid "作成"
 msgstr "作成"
 

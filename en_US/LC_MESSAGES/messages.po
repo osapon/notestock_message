@@ -774,6 +774,21 @@ msgstr "A private user's public Word Cloud URL is only valid for one week after 
 msgid "notestockでワードクラウドを作成しました！"
 msgstr "I created a word cloud with notestock!"
 
+msgid "認識語句"
+msgstr "Words to be recognized"
+
+msgid "非表示語句"
+msgstr "Hidden word"
+
+msgid "カンマ区切り"
+msgstr "Comma separated"
+
+msgid "分割せず、一つにまとめたい語句を指定してください。"
+msgstr "Specify the words you wish to combine into one without splitting."
+
+msgid "表示したくない語句を指定してください。"
+msgstr "Specify words or phrases you do not want to display."
+
 msgid "作成"
 msgstr "Make"
 
