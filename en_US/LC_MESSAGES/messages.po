@@ -1094,3 +1094,6 @@ msgstr "Please extract the archive downloaded from Twitter, and <strong>upload o
 
 msgid "キャンセルされました"
 msgstr "Canceled."
+
+msgid "データインポート中は利用できません。"
+msgstr "Not available during data import."
