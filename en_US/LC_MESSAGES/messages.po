@@ -708,9 +708,6 @@ msgstr "Write failed."
 msgid "設定された作業ディレクトリがありません。"
 msgstr "There is no working directory configured."
 
-msgid "エクスポートファイルではありません。"
-msgstr "It is not an export file."
-
 msgid "管理者に連絡してください。"
 msgstr "Contact the administrator."
 
@@ -1079,3 +1076,21 @@ msgstr "Please try again."
 
 msgid "画面の切り替えが正しく行われなかったようです。"
 msgstr "It appears that the screen was not switched correctly."
+
+msgid "ツイート取込"
+msgstr "Tweet Import"
+
+msgid "ZIPファイルではありません。"
+msgstr "It is not a ZIP file."
+
+msgid "tweets.jsファイルではありません。"
+msgstr "It is not a tweets.js file."
+
+msgid "tweets.jsをZIP形式で圧縮してアップロード"
+msgstr "Compress and upload tweets.js in ZIP format"
+
+msgid "tweets.js.zip説明"
+msgstr "Please extract the archive downloaded from Twitter, and <strong>upload only tweets.js compressed in ZIP format</strong>.<br><span class='text-danger'>Other files include phone numbers and connection IP information.</span><br>The specified file is sent to the server for content check, but only the file name is checked.<br>Self-replie is required in after 2018."
+
+msgid "キャンセルされました"
+msgstr "Canceled."
