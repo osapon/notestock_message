@@ -1083,14 +1083,14 @@ msgstr "Tweet Import"
 msgid "ZIPファイルではありません。"
 msgstr "It is not a ZIP file."
 
-msgid "tweets.jsファイルではありません。"
-msgstr "It is not a tweets.js file."
+msgid "tweetsファイルではありません。"
+msgstr "It is not a tweets file."
 
-msgid "tweets.jsをZIP形式で圧縮してアップロード"
-msgstr "Compress and upload tweets.js in ZIP format"
+msgid "tweetsをZIP形式で圧縮してアップロード"
+msgstr "Compress and upload tweets in ZIP format"
 
 msgid "tweets.js.zip説明"
-msgstr "Please extract the archive downloaded from Twitter, and <strong>upload only tweets.js compressed in ZIP format</strong>.<br><span class='text-danger'>Other files include phone numbers and connection IP information.</span><br>The specified file is sent to the server for content check, but only the file name is checked.<br>Self-replie is required in after 2018."
+msgstr "Please extract the archive downloaded from Twitter, <strong>compress and upload only files with names beginning with \"tweets\"</strong>, such as tweets.js and tweets-part1.js, in ZIP format.<br><span class='text-danger'>Other files include phone numbers and connection IP information.</span><br>The specified file is sent to the server for content check, but only the file name is checked.<br>Self-replie is required in after 2018."
 
 msgid "キャンセルされました"
 msgstr "Canceled."

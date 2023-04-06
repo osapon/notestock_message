@@ -1039,14 +1039,14 @@ msgstr "ツイート取込"
 msgid "ZIPファイルではありません。"
 msgstr "ZIPファイルではありません。"
 
-msgid "tweets.jsファイルではありません。"
-msgstr "tweets.jsファイルではありません。"
+msgid "tweetsファイルではありません。"
+msgstr "tweetsファイルではありません。"
 
-msgid "tweets.jsをZIP形式で圧縮してアップロード"
-msgstr "tweets.jsをZIP形式で圧縮してアップロード"
+msgid "tweetsをZIP形式で圧縮してアップロード"
+msgstr "tweetsをZIP形式で圧縮してアップロード"
 
 msgid "tweets.js.zip説明"
-msgstr "Twitterからダウンロードしたアーカイブを一度展開し、<strong>tweets.jsのみを再度ZIP形式で圧縮</strong>してアップロードしてください。<br><span class='text-danger'>その他のファイルには電話番号や接続元などが含まれています。</span><br>指定されたファイルは内容チェックのためにサーバーへ送信されますが、ファイル名のみをチェックしています。<br>2018年以降に、セルフリプライがされている必要があります。"
+msgstr "Twitterからダウンロードしたアーカイブを一度展開し、tweets.jsやtweets-part1.jsなど<strong>「tweets」で始まるファイルのみを再度ZIP形式で圧縮</strong>してアップロードしてください。<br><span class='text-danger'>その他のファイルには電話番号や接続元などが含まれています。</span><br>指定されたファイルは内容チェックのためにサーバーへ送信されますが、ファイル名のみをチェックしています。<br>2018年以降に、セルフリプライがされている必要があります。"
 
 msgid "キャンセルされました"
 msgstr "キャンセルされました"
