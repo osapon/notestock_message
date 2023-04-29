@@ -1097,3 +1097,6 @@ msgstr "Canceled."
 
 msgid "データインポート中は利用できません。"
 msgstr "Not available during data import."
+
+msgid "グループ登録依頼"
+msgstr "Please register accounts on other servers account from the groups in the settings screen. This warning will disappear if groups are set up for two or more accounts."
