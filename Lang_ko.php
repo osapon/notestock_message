@@ -2,7 +2,7 @@
 
 /**
  * 言語処理クラス (韓国語)
- * PHP Version >= 7.4
+ * PHP Version >= 8.1
  *
  * @category Framework
  * @package  Notestock
