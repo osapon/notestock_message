@@ -63,6 +63,9 @@ msgstr "Search word"
 msgid "設定"
 msgstr "Setting"
 
+msgid "基本設定"
+msgstr "Basic setting"
+
 msgid "統計"
 msgstr "Statistics"
 
@@ -408,6 +411,9 @@ msgstr "Group account (@account@server.domain)"
 
 msgid "グループ追加"
 msgstr "Add group"
+
+msgid "グループ設定"
+msgstr "Group setting"
 
 msgid "アカウントを確認"
 msgstr "Confirm account"
