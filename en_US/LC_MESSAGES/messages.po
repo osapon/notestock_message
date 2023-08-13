@@ -1105,7 +1105,7 @@ msgid "データインポート中は利用できません。"
 msgstr "Not available during data import."
 
 msgid "tweetインポート制限案内"
-msgstr "Tweet data can only be imported by super supporting user (paid plans of Liberapay or Fantia). Please refer to \"Fans\" into \"Basic Settings.\""
+msgstr "Tweet data can only be imported by super supporting user (paid plans of Liberapay or Fantia). Please refer to \"Fan\" into \"<a href='/setting/index.html'>Basic Setting</a>.\""
 
 msgid "グループ登録依頼"
 msgstr "Please register accounts for other servers from \"Group setting\" in the \"Account switch\" menu. This warning will disappear if groups are set up for two or more accounts."
