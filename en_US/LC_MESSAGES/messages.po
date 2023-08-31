@@ -1109,3 +1109,63 @@ msgstr "Tweet data can only be imported by super supporting user (paid plans of 
 
 msgid "グループ登録依頼"
 msgstr "Please register accounts for other servers from \"Group setting\" in the \"Account switch\" menu. This warning will disappear if groups are set up for two or more accounts."
+
+msgid "新規追加"
+msgstr "New"
+
+msgid "投稿表示サブグループの設定"
+msgstr "Post view subgroup setting"
+
+msgid "投稿表示サブグループの案内"
+msgstr "This setting is for displaying posts from multiple accounts at once. If you do not want to make posts public, you do not need to set this option."
+
+msgid "設定変更するサブグループ"
+msgstr "Target subgroup"
+
+msgid "サブグループ名"
+msgstr "Subgroup name"
+
+msgid "サブグループ削除アカウント選択案内"
+msgstr "Check the accounts to be included in the group (only accounts displaying public pages can be specified)."
+
+msgid "2つ以上選択してください。"
+msgstr "Select two or more."
+
+msgid "公開用アドレス"
+msgstr "Public address"
+
+msgid "使用可能文字"
+msgstr "Available characters"
+
+msgid "英数字、ハイフン、アンダーバー、ピリオド"
+msgstr "Alphanumeric characters, hyphens, underscores, and periods"
+
+msgid "アドレスで公開されます。"
+msgstr "the information will be published at the address."
+
+msgid "サブグループ削除"
+msgstr "Delete subgroup"
+
+msgid "サブグループ削除確認"
+msgstr "Do you want to delete subgroup (<span id=\"del_subgroup_name\"></span>)?"
+
+msgid "設定切り替え"
+msgstr "Change setting"
+
+msgid "アカウント設定切り替え確認"
+msgstr "Switch to account (<span id=\"chg_acct\"></span>) and open the setting screen."
+
+msgid "選択されたアカウントが異常です。"
+msgstr "It is a problem with the selected account."
+
+msgid "更新対象がありません。"
+msgstr "There is no renewal target."
+
+msgid "同じアドレスが存在します。他のアドレスを指定してください。"
+msgstr "The same address exists. Please specify another address."
+
+msgid "呼び出し方法が異常です。"
+msgstr "The calling method is problem."
+
+msgid "このサブグループ"
+msgstr "This subgroup"
