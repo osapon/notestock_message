@@ -1169,3 +1169,6 @@ msgstr "The calling method is problem."
 
 msgid "このサブグループ"
 msgstr "This subgroup"
+
+msgid "保存しました"
+msgstr "Saved"
