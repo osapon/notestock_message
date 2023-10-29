@@ -145,8 +145,8 @@ msgstr "%{year}年%{month}月%{day}日"
 msgid "keywordの検索結果"
 msgstr "%{keyword} の語句検索結果"
 
-msgid "keywordのユーザー検索結果"
-msgstr "%{keyword} のユーザー検索結果"
+msgid "keywordのアカウント検索結果"
+msgstr "%{keyword} のアカウント検索結果"
 
 msgid "（プライベートページ）"
 msgstr "（プライベートページ）"
@@ -337,8 +337,8 @@ msgstr "notestock投稿検索"
 msgid "誰からも投稿が検索できます。"
 msgstr "誰からも投稿が検索できます。"
 
-msgid "notestockユーザー検索"
-msgstr "notestockユーザー検索"
+msgid "notestockアカウント検索"
+msgstr "notestockアカウント検索"
 
 msgid "誰からもアカウントが検索できます。"
 msgstr "誰からもアカウントが検索できます。"
@@ -1131,3 +1131,6 @@ msgstr "このサブグループ"
 
 msgid "保存しました"
 msgstr "保存しました"
+
+msgid "countアカウント"
+msgstr "%{count} アカウント"
