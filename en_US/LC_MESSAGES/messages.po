@@ -807,6 +807,9 @@ msgstr "Awaiting posting"
 msgid "すみません。何か問題がありました。しばらくしてから再度試してください。"
 msgstr "Sorry. There was something wrong. Please try again later."
 
+msgid "何か問題がありました。"
+msgstr "There was something wrong."
+
 msgid "追記する"
 msgstr "Postscript"
 
@@ -1175,3 +1178,33 @@ msgstr "Saved"
 
 msgid "countアカウント"
 msgstr "%{count} account"
+
+msgid "登録する"
+msgstr "Register"
+
+msgid "ワンタイムパスワード"
+msgstr "One-Time Password(OTP)"
+
+msgid "メンションを送るログインで使用します。"
+msgstr "Used for login in the form of sending mentions."
+
+msgid "パスキー"
+msgstr "Passkey"
+
+msgid "省略可"
+msgstr "optional"
+
+msgid "このパスキーは既に登録されているようです。"
+msgstr "It appears that this passkey is already registered."
+
+msgid "登録されているパスキー"
+msgstr "Registered passkey"
+
+msgid "パスキーを解除"
+msgstr "Unregister passkey"
+
+msgid "このパスキーを解除します。解除してよいですか？"
+msgstr "Are you want to unregister this passkey?"
+
+msgid "このパスキーで登録されていないか、情報が一致しませんでした。"
+msgstr "Not registered with this passkey or information did not match."
