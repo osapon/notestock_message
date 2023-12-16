@@ -1208,3 +1208,6 @@ msgstr "Are you want to unregister this passkey?"
 
 msgid "このパスキーで登録されていないか、情報が一致しませんでした。"
 msgstr "Not registered with this passkey or information did not match."
+
+msgid "パスキーが登録されませんでした。"
+msgstr "Passkey was not registered."
