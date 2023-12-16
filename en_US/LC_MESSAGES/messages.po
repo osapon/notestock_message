@@ -1211,3 +1211,6 @@ msgstr "Not registered with this passkey or information did not match."
 
 msgid "パスキーが登録されませんでした。"
 msgstr "Passkey was not registered."
+
+msgid "パスキーでログイン"
+msgstr "Log in with passkey"
