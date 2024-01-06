@@ -379,6 +379,24 @@ msgstr "もう一度フォローさせる"
 msgid "フォローを解除させる"
 msgstr "フォローを解除させる"
 
+msgid "登録情報を削除する"
+msgstr "登録情報を削除する"
+
+msgid "登録情報削除"
+msgstr "登録情報削除"
+
+msgid "登録削除の説明"
+msgstr "このアカウント( %{acct} )をnotestockからのフォロー・グループ登録の解除、登録情報の削除を行います。該当アカウントが存在しない場合、ログインができなくなります。"
+
+msgid "フォローを解除しました。"
+msgstr "フォローを解除しました。"
+
+msgid "フォローしました。"
+msgstr "フォローしました。notestockからのフォローがされない場合は、フォロー承認待ちやブロックしていないか確認してください。"
+
+msgid "確認した"
+msgstr "確認した"
+
 msgid "グループを組むアカウント(@account@server.domain)"
 msgstr "グループを組むアカウント(@account@server.domain)"
 

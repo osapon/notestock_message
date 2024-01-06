@@ -406,6 +406,24 @@ msgstr "Follow again"
 msgid "フォローを解除させる"
 msgstr "Unfollow"
 
+msgid "登録情報を削除する"
+msgstr "Delete account"
+
+msgid "登録情報削除"
+msgstr "Delete registration information"
+
+msgid "登録削除の説明"
+msgstr "Unregister this account ( %{acct} ) from notestock to unfollow, group registration, or delete registration information. If the corresponding account does not exist, you will not be able to log in."
+
+msgid "フォローを解除しました。"
+msgstr "Have unfollowed you."
+
+msgid "フォローしました。"
+msgstr "Have followed you. If you are not being followed by notestock, please make sure you are not waiting for follow approval or blocked."
+
+msgid "確認した"
+msgstr "Confirmed"
+
 msgid "グループを組むアカウント(@account@server.domain)"
 msgstr "Group account (@account@server.domain)"
 
