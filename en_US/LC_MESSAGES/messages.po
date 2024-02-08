@@ -54,6 +54,9 @@ msgstr "Search"
 msgid "アカウント内検索"
 msgstr "Search in account"
 
+msgid "グローバル検索"
+msgstr "Global search"
+
 msgid "ユーザー"
 msgstr "User"
 
@@ -1232,3 +1235,12 @@ msgstr "Passkey was not registered."
 
 msgid "パスキーでログイン"
 msgstr "Log in with passkey"
+
+msgid "テスト表示"
+msgstr "Test view"
+
+msgid "現在ON"
+msgstr "Current on. Press to turn off."
+
+msgid "現在OFF"
+msgstr "Current off. Press to turn on."

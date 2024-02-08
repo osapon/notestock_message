@@ -40,6 +40,9 @@ msgstr "検索"
 msgid "アカウント内検索"
 msgstr "アカウント内検索"
 
+msgid "グローバル検索"
+msgstr "グローバル検索"
+
 msgid "ユーザー"
 msgstr "ユーザー"
 
@@ -1191,3 +1194,12 @@ msgstr "パスキーが登録されませんでした。"
 
 msgid "パスキーでログイン"
 msgstr "パスキーでログイン"
+
+msgid "テスト表示"
+msgstr "テスト表示"
+
+msgid "現在ON"
+msgstr "現在ON・押すとOFF"
+
+msgid "現在OFF"
+msgstr "現在OFF・押すとON"
