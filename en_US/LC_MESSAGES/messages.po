@@ -57,6 +57,12 @@ msgstr "Search in account"
 msgid "グローバル検索"
 msgstr "Global search"
 
+msgid "投稿を検索"
+msgstr "Search posts"
+
+msgid "アカウントを検索"
+msgstr "Search account"
+
 msgid "ユーザー"
 msgstr "User"
 

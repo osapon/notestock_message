@@ -43,6 +43,12 @@ msgstr "アカウント内検索"
 msgid "グローバル検索"
 msgstr "グローバル検索"
 
+msgid "投稿を検索"
+msgstr "投稿を検索"
+
+msgid "アカウントを検索"
+msgstr "アカウントを検索"
+
 msgid "ユーザー"
 msgstr "ユーザー"
 
