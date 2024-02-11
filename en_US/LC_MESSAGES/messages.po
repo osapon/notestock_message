@@ -195,7 +195,7 @@ msgid "account_subjectの投稿"
 msgstr "Posting %{account_subject}"
 
 msgid "account_name(account_subject)の投稿"
-msgstr "Posting %{account_name}(%{account_subject})"
+msgstr "Posting %{account_name}<span class='acct'>(%{account_subject})</span>"
 
 msgid "announce_user_nameの投稿"
 msgstr "Posting %{announce_user_name}"
