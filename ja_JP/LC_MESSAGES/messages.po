@@ -979,6 +979,9 @@ msgstr "「表示」に設定したアカウントは、<a href='%{profileurl}' 
 msgid "account_subjectのアカウント一覧"
 msgstr "%{account_subject}のアカウント一覧"
 
+msgid "アカウント一覧"
+msgstr "アカウント一覧"
+
 msgid "カスタム絵文字"
 msgstr "カスタム絵文字"
 

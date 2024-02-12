@@ -1020,6 +1020,9 @@ msgstr "Accounts set to 'Show' will be published at the <a href='%{profileurl}' 
 msgid "account_subjectのアカウント一覧"
 msgstr "Account lists of %{account_subject}"
 
+msgid "アカウント一覧"
+msgstr "Account lists"
+
 msgid "カスタム絵文字"
 msgstr "Custom Emoji"
 
