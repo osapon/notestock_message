@@ -1256,3 +1256,6 @@ msgstr "Current off. Press to turn on."
 
 msgid "コピーしました"
 msgstr "copied"
+
+msgid "他の年の同じ日"
+msgstr "same day in other years"

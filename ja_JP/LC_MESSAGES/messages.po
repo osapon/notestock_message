@@ -1215,3 +1215,6 @@ msgstr "現在OFF・押すとON"
 
 msgid "コピーしました"
 msgstr "コピーしました"
+
+msgid "他の年の同じ日"
+msgstr "他の年の同じ日"
