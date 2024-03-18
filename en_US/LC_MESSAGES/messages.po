@@ -168,7 +168,7 @@ msgid "y年m月d日"
 msgstr "%{year}-%{month}-%{day}"
 
 msgid "keywordの検索結果"
-msgstr "Search word results for %{keyword}"
+msgstr "Search results for %{keyword}"
 
 msgid "keywordのアカウント検索結果"
 msgstr "Search account results for %{keyword}"
