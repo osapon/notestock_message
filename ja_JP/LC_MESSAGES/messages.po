@@ -1218,3 +1218,6 @@ msgstr "コピーしました"
 
 msgid "他の年の同じ日"
 msgstr "他の年の同じ日"
+
+msgid "公開投稿"
+msgstr "公開投稿"

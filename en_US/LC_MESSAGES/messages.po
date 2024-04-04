@@ -1259,3 +1259,6 @@ msgstr "copied"
 
 msgid "他の年の同じ日"
 msgstr "same day in other years"
+
+msgid "公開投稿"
+msgstr "Public posts"
