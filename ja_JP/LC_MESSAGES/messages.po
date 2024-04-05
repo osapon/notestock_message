@@ -1221,3 +1221,9 @@ msgstr "他の年の同じ日"
 
 msgid "公開投稿"
 msgstr "公開投稿"
+
+msgid "利用規約"
+msgstr "利用規約"
+
+msgid "プライバシーポリシー"
+msgstr "プライバシーポリシー"
