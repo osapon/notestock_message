@@ -1268,3 +1268,6 @@ msgstr "Terms of Use"
 
 msgid "プライバシーポリシー"
 msgstr "Privacy Policy"
+
+msgid "再登録をお願いします。"
+msgstr "Please re-register."
