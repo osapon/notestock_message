@@ -318,6 +318,9 @@ msgstr "Liberapay account ID"
 msgid "Liberapayアカウントの説明"
 msgstr "The ID displayed on the account page."
 
+msgid "ko-fiメールアドレス"
+msgstr "ko-fi mail address"
+
 msgid "グループ除外"
 msgstr "Group exclusion"
 
