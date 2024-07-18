@@ -153,6 +153,9 @@ msgstr "Delete post"
 msgid "オリジナル"
 msgstr "Original"
 
+msgid "今だけ隠す"
+msgstr "Hide now only"
+
 msgid "続きを見る"
 msgstr "See next"
 

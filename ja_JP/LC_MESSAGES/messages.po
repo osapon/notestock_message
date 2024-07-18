@@ -139,6 +139,9 @@ msgstr "投稿削除"
 msgid "オリジナル"
 msgstr "オリジナル"
 
+msgid "今だけ隠す"
+msgstr "今だけ隠す"
+
 msgid "続きを見る"
 msgstr "続きを見る"
 
