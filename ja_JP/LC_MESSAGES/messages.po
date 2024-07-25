@@ -211,6 +211,12 @@ msgstr "月別投稿数"
 msgid "日別投稿数"
 msgstr "日別投稿数"
 
+msgid "botの投稿数"
+msgstr "botの投稿数"
+
+msgid "一般アカウントの投稿数"
+msgstr "一般アカウントの投稿数"
+
 msgid "時間"
 msgstr "時間"
 

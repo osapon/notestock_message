@@ -229,6 +229,12 @@ msgstr "Number of posts by month"
 msgid "日別投稿数"
 msgstr "Number of posts by day"
 
+msgid "botの投稿数"
+msgstr "Number of bots posts"
+
+msgid "一般アカウントの投稿数"
+msgstr "Number of general accounts posts"
+
 msgid "時間"
 msgstr "Hour"
 
