@@ -963,6 +963,9 @@ msgstr "Getting historical data now."
 msgid "過去投稿取得中です。get_queue_count"
 msgstr "Getting historical data now.(remaining %{get_queue_count} posts)"
 
+msgid "再開"
+msgstr "Restart"
+
 msgid "過去データ取込"
 msgstr "Get historical data"
 
