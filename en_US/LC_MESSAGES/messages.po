@@ -657,9 +657,6 @@ msgstr "Please read the QR code into the two-factor authentication application a
 msgid "トークンが間違っているようです。再度入力してください。"
 msgstr "The token seems to be wrong. Please try again."
 
-msgid "このアカウントではログインしない設定です。"
-msgstr "This account is set to not log in."
-
 msgid "二要素認証が設定されました。"
 msgstr "Two-factor authentication has been set up."
 
