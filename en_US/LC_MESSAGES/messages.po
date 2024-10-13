@@ -1015,10 +1015,10 @@ msgid "詳細情報"
 msgstr "Detailed information"
 
 msgid "ますみすサーチで検索"
-msgstr "Search by 'masmis-search'"
+msgstr "masmis-search"
 
 msgid "Fediverで検索"
-msgstr "Search by 'Fediver'"
+msgstr "Fediver"
 
 msgid "表示"
 msgstr "Show"
