@@ -1017,6 +1017,9 @@ msgstr "Detailed information"
 msgid "ますみすサーチで検索"
 msgstr "Search by 'masmis-search'"
 
+msgid "Fediverで検索"
+msgstr "Search by 'Fediver'"
+
 msgid "表示"
 msgstr "Show"
 
