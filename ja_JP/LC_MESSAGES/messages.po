@@ -931,6 +931,15 @@ msgstr "過去データ取込"
 msgid "account_name(account_subject)のデータ取込"
 msgstr "%{account_name}(%{account_subject})のデータ取込"
 
+msgid "URLを指定して取込"
+msgstr "URLを指定して取込"
+
+msgid "一行あたり1つのURLを記述してください。"
+msgstr "一行あたり1つのURLを記述してください。"
+
+msgid "投稿はすぐには取り込まれず、時間が掛かります。完了までしばらくお待ちください。"
+msgstr "投稿はすぐには取り込まれず、時間が掛かります。完了までしばらくお待ちください。"
+
 msgid "期限を指定して取込"
 msgstr "期限を指定して取込"
 

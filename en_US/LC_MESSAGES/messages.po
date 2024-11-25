@@ -972,6 +972,15 @@ msgstr "Get historical data"
 msgid "account_name(account_subject)のデータ取込"
 msgstr "Get data %{account_name}(%{account_subject})"
 
+msgid "URLを指定して取込"
+msgstr "Import by URL"
+
+msgid "一行あたり1つのURLを記述してください。"
+msgstr "Describe one URL per line."
+
+msgid "投稿はすぐには取り込まれず、時間が掛かります。完了までしばらくお待ちください。"
+msgstr "Submissions will not be taken in immediately and will take time. Please wait a few moments for completion."
+
 msgid "期限を指定して取込"
 msgstr "Import by specifying a deadline"
 
