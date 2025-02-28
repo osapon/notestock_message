@@ -956,7 +956,7 @@ msgid "取込中止"
 msgstr "取込中止"
 
 msgid "テストサーバーメッセージ"
-msgstr "このサーバーはテストモードに設定されています。取り込みテスト用です。実際の利用は <a href='https://notestock.osa-p.net/'>notestock.osa-p.net</a>へどうぞ。"
+msgstr "このサーバーはテストモードに設定されています。取り込みテスト用です。データは予告なく削除されますので利用しないでください。実際の利用は <a href='https://notestock.osa-p.net/'>notestock.osa-p.net</a>へどうぞ。"
 
 msgid "notestockサーバーではありません。"
 msgstr "notestockサーバーではありません。"

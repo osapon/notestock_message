@@ -996,8 +996,8 @@ msgstr "Deadline date and time"
 msgid "取込中止"
 msgstr "Cancel"
 
-msgid "テストサーバメッセージ"
-msgstr "This server is set to test mode. For import test. Please visit notestock.osa-p.net for actual use."
+msgid "テストサーバーメッセージ"
+msgstr "This server is set to test mode. For import test. Do not use the data as it will be deleted without notice. Please visit <a href='https://notestock.osa-p.net/'>notestock.osa-p.net</a> for actual use."
 
 msgid "notestockサーバーではありません。"
 msgstr "Not a notestock server."
