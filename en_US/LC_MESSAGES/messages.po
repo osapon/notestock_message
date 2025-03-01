@@ -693,6 +693,9 @@ msgstr "Prohibit logging in with this account. Is it possible to log in from ano
 msgid "禁止する"
 msgstr "Prohibit"
 
+msgid "エクスポート"
+msgstr "Export"
+
 msgid "ダウンロード"
 msgstr "Download"
 

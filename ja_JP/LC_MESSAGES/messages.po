@@ -652,6 +652,9 @@ msgstr "このアカウントでログインを禁止します。他のアカウ
 msgid "禁止する"
 msgstr "禁止する"
 
+msgid "エクスポート"
+msgstr "エクスポート"
+
 msgid "ダウンロード"
 msgstr "ダウンロード"
 
