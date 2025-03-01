@@ -726,13 +726,10 @@ msgstr "CSV (posting date, list of posting contents)"
 msgid "JSON（ActivityPubで受信した内容の一覧）"
 msgstr "JSON (list of contents received by ActivityPub)"
 
-msgid "エクスポート（notestock引越用の全グループデータ）"
-msgstr "Export(All group data for notestock move)"
+msgid "コピー先サーバー"
+msgstr "Destination server"
 
-msgid "エクスポート先サーバー"
-msgstr "export server"
-
-msgid "エクスポート先サーバー説明"
+msgid "コピー先サーバー入力説明"
 msgstr "Server domain('example.com','https://example.com')"
 
 msgid "グループに含まれる以下のアカウントをコピーします。"
