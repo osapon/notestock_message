@@ -744,6 +744,9 @@ msgstr "Administrator"
 msgid "エクスポート最終確認"
 msgstr "Please also check the terms of use of the destination server. Also, private posts will be copied, including private posts. Do you understand that all posts will be viewable to the administrator as well, and you want to start copying?"
 
+msgid "確認"
+msgstr "Confirmation"
+
 msgid "コピー開始"
 msgstr "Start copying"
 
