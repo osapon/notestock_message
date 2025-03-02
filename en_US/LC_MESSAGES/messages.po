@@ -756,6 +756,9 @@ msgstr "It will take some time to complete. When the export screen appears, the 
 msgid "入力されたドメインでnotestockが動いていないようです。"
 msgstr "It appears that notestock is not working on the domain entered."
 
+msgid "入力されたドメインでこのサーバーです。"
+msgstr "The domain entered is this server."
+
 msgid "コピー中"
 msgstr "During copying"
 
