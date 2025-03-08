@@ -753,6 +753,9 @@ msgstr "Start copying"
 msgid "完了までは時間が掛かります。エクスポート画面が表示されたら処理は完了しています。"
 msgstr "It will take some time to complete. When the export screen appears, the process is complete."
 
+msgid "サーバードメインを入力してください。"
+msgstr "Enter the server domain."
+
 msgid "入力されたドメインでnotestockが動いていないようです。"
 msgstr "It appears that notestock is not working on the domain entered."
 
