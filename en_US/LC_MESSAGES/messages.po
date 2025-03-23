@@ -735,8 +735,11 @@ msgstr "Server domain('example.com','https://example.com')"
 msgid "グループに含まれる以下のアカウントをコピーします。"
 msgstr "Copy the following accounts in the group"
 
-msgid "以下のアカウントの情報がサーバー間で一致しません。アカウントを統合せず別アカウントとしてコピーして良ければ、チェックを付けてください。"
-msgstr "The following account information does not match between servers. Please check the box if you are happy to copy the accounts as separate accounts instead of merging them."
+msgid "以下のアカウントの情報がサーバー間で一致しません。別アカウントとしてコピーして良ければ、チェックを付けてください。"
+msgstr "The following account information does not match between servers. If you want to copy it as a separate account, please check it."
+
+msgid "対象アカウントが現役アカウントの場合は、コピーを行う前にコピー先サーバーの管理者へ連絡し、これらのアカウントの「化石アカウント対応」を依頼してください。"
+msgstr "If the target accounts are active accounts, please contact the administrator of the destination server before copying and request that these accounts be treated as \"fossil accounts.\""
 
 msgid "管理者"
 msgstr "Administrator"
