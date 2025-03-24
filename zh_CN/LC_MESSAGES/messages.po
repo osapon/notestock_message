@@ -1,0 +1,1340 @@
+# SPDX-FileCopyrightText: 2025 Outvi V <i@outv.im>
+msgid ""
+msgstr ""
+"Project-Id-Version: notestock\n"
+"PO-Revision-Date: 2025-03-28 23:28+0800\n"
+"Last-Translator: Outvi V <i@outv.im>\n"
+"Language-Team: Japanese <>\n"
+"Language: ja_JP\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Lokalize 24.12.3\n"
+
+msgid "web_site_description_content"
+msgstr "我可以搜索自己的帖子么？notestock 是在用户使用不支持搜索功能的分散式 SNS 实例时，向其提供搜索功能的服务。"
+
+msgid "notestock"
+msgstr "notestock"
+
+msgid "よくある質問"
+msgstr "常见问题"
+
+msgid "ログイン"
+msgstr "登入"
+
+msgid "登録"
+msgstr "注册"
+
+msgid "ログアウト"
+msgstr "登出"
+
+msgid "これなに？"
+msgstr "这是什么？ "
+
+msgid "トップページ説明"
+msgstr ""
+"记录在支持 ActivityPub 的 SNS 平台（例如 Mastodon、Misskey 或 Pleroma）上发布的帖子。<br>开发者在 notes"
+"tock 上的帖子是👉<a href='/@osapon@mstdn.nere9.help/view?q=notestock'>这样</a>"
+
+msgid "制作者"
+msgstr "开发者"
+
+msgid "問合せ先"
+msgstr "联系方式"
+
+msgid "問合せ案内"
+msgstr "如果在询问2日内没有得到答复（消息被收藏表示已读），请通过其它方式联系。"
+
+msgid "検索"
+msgstr "搜索"
+
+msgid "アカウント内検索"
+msgstr "账户内搜索"
+
+msgid "グローバル検索"
+msgstr "全局搜索"
+
+msgid "投稿を検索"
+msgstr "帖子搜索"
+
+msgid "アカウントを検索"
+msgstr "账户搜索"
+
+msgid "ユーザー"
+msgstr "用户"
+
+msgid "検索語"
+msgstr "搜索此"
+
+msgid "設定"
+msgstr "设定"
+
+msgid "基本設定"
+msgstr "基本设定"
+
+msgid "統計"
+msgstr "统计 "
+
+msgid "アカウント切替"
+msgstr "账户切换"
+
+msgid "登録アカウント数"
+msgstr "注册账户数"
+
+msgid "蓄積投稿数"
+msgstr "累计帖子数"
+
+msgid "機能"
+msgstr "功能"
+
+msgid "できる"
+msgstr "支持"
+
+msgid "できない（やりたい）"
+msgstr "不支持（计划支持）"
+
+msgid "応援ユーザー"
+msgstr "支持者"
+
+msgid "使ってみたい人・ログイン→"
+msgstr "注册・登录→"
+
+msgid "例）"
+msgstr "例如"
+
+msgid "送信"
+msgstr "发送"
+
+msgid "（スペース区切りでAND、OR区切りでOR）"
+msgstr "（空格分隔为「和」，OR 分隔为「或」）"
+
+msgid "このアカウント"
+msgstr "此账户"
+
+msgid "グループ内"
+msgstr "群组内"
+
+msgid "超応援ユーザー"
+msgstr "超级支持者"
+
+msgid "スペシャルサンクス"
+msgstr "特别感谢"
+
+msgid "一ヶ月分"
+msgstr "一个月"
+
+msgid "一週間分"
+msgstr "一周"
+
+msgid "前の年"
+msgstr "前一年"
+
+msgid "前の日"
+msgstr "前一天"
+
+msgid "次の日"
+msgstr "后一天"
+
+msgid "次の年"
+msgstr "后一年"
+
+msgid "そのまま"
+msgstr "保持当前状态"
+
+msgid "削除する"
+msgstr "删除"
+
+msgid "投稿削除"
+msgstr "删除帖子"
+
+msgid "オリジナル"
+msgstr "原创"
+
+msgid "今だけ隠す"
+msgstr "仅现在隐藏"
+
+msgid "続きを見る"
+msgstr "更多"
+
+msgid "検索結果は以上です"
+msgstr "以上为搜索结果"
+
+msgid "削除ダイアログ説明"
+msgstr ""
+
+msgid "y年m月d日"
+msgstr "y年m月d日"
+
+msgid "keywordの検索結果"
+msgstr "%{keyword} 的搜索结果"
+
+msgid "keywordのアカウント検索結果"
+msgstr "%{keyword} 的账户搜索结果"
+
+msgid "（プライベートページ）"
+msgstr ""
+
+msgid "このアカウントは検索が無効です"
+msgstr "对此账户的搜索无效。"
+
+msgid "notestockで検索対象に設定しているアカウント"
+msgstr ""
+
+msgid "notestockで検索対象に設定しているアカウントの投稿"
+msgstr ""
+
+msgid "notestockユーザー"
+msgstr "notestock 用户"
+
+msgid "botを含む"
+msgstr "包含机器人"
+
+msgid "account_subjectの投稿"
+msgstr "%{account_subject}的帖子"
+
+msgid "account_name(account_subject)の投稿"
+msgstr "%{account_name}(%{account_subject})的帖子"
+
+msgid "announce_user_nameの投稿"
+msgstr "%{announce_user_name}的帖子"
+
+msgid "収集されたデータについては、各データの投稿主に権利があります。"
+msgstr "所收集数据的权利属原作者所有。"
+
+msgid "issue"
+msgstr "报告 issue"
+
+msgid "投稿の無かった日は平均に含まれていません。"
+msgstr "无发帖的日期不包含在平均值中。"
+
+msgid "登録日より前の、非公開・共有先が存在しない投稿は含まれていません。"
+msgstr "不含注册日期前未公开/未被允许访问的帖子。"
+
+msgid "年月"
+msgstr "年/月"
+
+msgid "投稿数"
+msgstr "帖子数"
+
+msgid "月別投稿数"
+msgstr "各月份发帖数"
+
+msgid "日別投稿数"
+msgstr "各日发帖数"
+
+msgid "botの投稿数"
+msgstr "机器人发帖数"
+
+msgid "一般アカウントの投稿数"
+msgstr "一般账户的帖子数"
+
+msgid "時間"
+msgstr "小时"
+
+msgid "平均投稿数"
+msgstr "平均发帖数"
+
+msgid "時間別投稿数"
+msgstr "各小时发帖数"
+
+msgid "時"
+msgstr "时"
+
+msgid "曜日"
+msgstr "星期"
+
+msgid "曜日別投稿数"
+msgstr "一周各日发帖数"
+
+msgid "account_subjectの統計"
+msgstr "%{account_subject} 的统计"
+
+msgid "account_name(account_subject)の統計"
+msgstr "%{account_name}(%{account_subject}) 的统计"
+
+msgid "ログイン履歴"
+msgstr "登录历史"
+
+msgid "日時"
+msgstr "时间"
+
+msgid "アカウント"
+msgstr "账户"
+
+msgid "処理"
+msgstr "处理"
+
+msgid "IPアドレス"
+msgstr "IP 地址"
+
+msgid "（最近1ヶ月分だけ記録しています）"
+msgstr "（只含最近 1 个月的记录）"
+
+msgid "グループの設定"
+msgstr "群组设置"
+
+msgid "グループ"
+msgstr "群组"
+
+msgid "追加"
+msgstr "添加"
+
+msgid "選択したアカウントをグループから除外"
+msgstr "从群组中移除选定账户"
+
+msgid "連携されている他のアカウントはありません"
+msgstr "没有其它的已链接账户。"
+
+msgid "戻る"
+msgstr "返回"
+
+msgid "保存"
+msgstr "保存"
+
+msgid "閉じる"
+msgstr "关闭"
+
+msgid "解除する"
+msgstr ""
+
+msgid "除外する"
+msgstr ""
+
+msgid "フォロー解除"
+msgstr "取消关注"
+
+msgid "フォロー解除中の投稿は記録されません。解除してよいですか？"
+msgstr "解除关注时的帖子将不被记录。要解除关注么？"
+
+msgid "ファンティアユーザーID"
+msgstr "Fantia 用户 ID"
+
+msgid "ファンティアユーザーの説明"
+msgstr ""
+"个人资料页 URL 中最末斜线后的内容。 "
+"在以下示例中，它以 \"tus_\" 开头。"
+
+msgid "LiberapayアカウントID"
+msgstr "Liberapay 账户 ID"
+
+msgid "Liberapayアカウントの説明"
+msgstr "此 ID 会显示在账户页面。"
+
+msgid "ko-fiメールアドレス"
+msgstr "ko-fi 邮件地址"
+
+msgid "グループ除外"
+msgstr "排除群组"
+
+msgid "除外対象を選んでください"
+msgstr "请选择排除项"
+
+msgid "該当アカウントからログインコードが送信できない場合、グループから除外するとnotestockへログインできなくなります。解除してよいですか？"
+msgstr ""
+
+msgid "応援ユーザーになる"
+msgstr "成为支持者"
+
+msgid "使用しない"
+msgstr "停用"
+
+msgid "使用する"
+msgstr "启用"
+
+msgid "公開しない"
+msgstr "不公开"
+
+msgid "公開する"
+msgstr "公开"
+
+msgid "公開ページ"
+msgstr "公开页面"
+
+msgid "公開ページ検索拒否タグ"
+msgstr ""
+
+msgid "publicurlのアドレスで公開されます"
+msgstr "将会公开在 %{publicurl} 。"
+
+msgid "account_name(account_subject)の設定"
+msgstr "%{account_name}(%{account_subject})的设置"
+
+msgid "公開ページが、他の検索エンジンにクロールされる場合があります"
+msgstr "公开页可能会被其它搜索引擎爬取。"
+
+msgid "noindexの説明"
+msgstr ""
+"公开页面会加入 <meta name='robots' content='noindex,nofollow,noarchive,noodp,noydir'>"
+" 标签，表明拒绝被其它搜索引擎索引。"
+
+msgid "notestock投稿検索"
+msgstr "notestock 帖子搜索"
+
+msgid "誰からも投稿が検索できます。"
+msgstr "帖子可被任何人搜索。"
+
+msgid "notestockアカウント検索"
+msgstr "notestock 账户搜索"
+
+msgid "誰からもアカウントが検索できます。"
+msgstr "账户可被任何人搜索。"
+
+msgid "投稿並び順"
+msgstr "帖子显示顺序"
+
+msgid "古い投稿が上、新しい投稿が下"
+msgstr "旧投稿在上，新投稿在下"
+
+msgid "新しい投稿が上、古い投稿が下"
+msgstr "新投稿在上，旧投稿在下"
+
+msgid "並び順古いの説明"
+msgstr "搜索结果总是新投稿在上，旧投稿在下。"
+
+msgid "タイムゾーン"
+msgstr "时区"
+
+msgid "ファン"
+msgstr "粉丝"
+
+msgid "ファンの説明"
+msgstr ""
+
+msgid "トップページの応援者に表示しない"
+msgstr "此账户不会显示在主页支持者列表中"
+
+msgid "トップページの応援者に表示してもよい"
+msgstr "此账户可能会显示在主页的支持者列表中"
+
+msgid "表示場所の都合上、表示されない場合があります。"
+msgstr "由于空间限制，也可能不会显示。"
+
+msgid "もう一度フォローさせる"
+msgstr "重新关注"
+
+msgid "フォローを解除させる"
+msgstr "取消关注"
+
+msgid "登録情報を削除する"
+msgstr "删除账户"
+
+msgid "登録情報削除"
+msgstr "删除账户"
+
+msgid "登録削除の説明"
+msgstr ""
+"此账户 ( %{acct} ) 将会被 notestock 停止关注、从 notestock 群组的成员中移除，注册信息也被删除。如果此账户不存在，将无法在"
+" notestock 登录。"
+
+msgid "フォローを解除しました。"
+msgstr "已解除关注。"
+
+msgid "フォローしました。"
+msgstr "已关注。如果未收到 notestock 的关注，请确定 notestock 账户不在关注请求中且未被屏蔽。"
+
+msgid "確認した"
+msgstr "已确认"
+
+msgid "グループを組むアカウント(@account@server.domain)"
+msgstr ""
+
+msgid "グループ追加"
+msgstr "添加群组"
+
+msgid "グループへアカウントの追加"
+msgstr "向群组添加账户"
+
+msgid "グループ設定"
+msgstr "群组设置"
+
+msgid "アカウントを確認"
+msgstr "账户确认"
+
+msgid "アカウントの存在を確認しました"
+msgstr "已确认账户存在。"
+
+msgid "ログインの説明"
+msgstr ""
+"为了确认账号持有者本人为登录者，请在 10 分钟内从 %{acct} 发送以下内容到 %{notestock}。 "
+"请原样复制以下文字后直接发送。"
+
+msgid "アカウント登録の説明"
+msgstr ""
+"为了确认账号持有者本人允许采集，请在 10 分钟内从 %{acct} 发送以下内容到 %{notestock}。 "
+"请原样复制以下文字后直接发送。"
+
+msgid "グループ追加の説明"
+msgstr ""
+"为了确认群组添加，请在 10 分钟内从 %{acct} 发送以下内容到 %{notestock}。 "
+"请原样复制以下文字后直接发送。"
+
+msgid "登録の説明"
+msgstr "在发送后，我们会关注对应账号。如果账号设置了关注批准等限制，请予以批准。"
+
+msgid "入力されたアカウントがnotestockに登録されていません。現在のアカウントをログアウトして、先に登録を行ってください"
+msgstr ""
+
+msgid "まだ投稿が到着していないようです。もうしばらく待ってから押してください"
+msgstr "帖子似乎尚未被接收。请稍后再点击。"
+
+msgid "コードの有効期限が切れました。再度登録を行ってください"
+msgstr "代码已过期。请重新注册。"
+
+msgid "ロボットチェックに引っかかりました"
+msgstr ""
+
+msgid "投稿した"
+msgstr "已发送"
+
+msgid "集計中"
+msgstr "统计中"
+
+msgid "ログイン試行"
+msgstr "登录尝试"
+
+msgid "ログイン成功"
+msgstr "登录成功"
+
+msgid "API呼び出し/検索"
+msgstr "API 调用/搜索"
+
+msgid "カレンダー開始曜日"
+msgstr "一周的起始日"
+
+msgid "日曜日"
+msgstr "星期日"
+
+msgid "月曜日"
+msgstr "星期一"
+
+msgid "日曜日(短縮)"
+msgstr "日"
+
+msgid "月曜日(短縮)"
+msgstr "一"
+
+msgid "火曜日(短縮)"
+msgstr "二"
+
+msgid "水曜日(短縮)"
+msgstr "三"
+
+msgid "木曜日(短縮)"
+msgstr "四"
+
+msgid "金曜日(短縮)"
+msgstr "五"
+
+msgid "土曜日(短縮)"
+msgstr "六"
+
+msgid "公開ページリンク"
+msgstr "公开页面链接"
+
+msgid "その他"
+msgstr "其它"
+
+msgid "Webhook"
+msgstr "Webhook"
+
+msgid "account_subjectのWebhook"
+msgstr "%{account_subject} 的 Webhook"
+
+msgid "account_name(account_subject)のWebhook"
+msgstr "%{account_name}(%{account_subject}) 的 Webhook"
+
+msgid "テスト投稿。書き換えてテストしてください。"
+msgstr "测试帖子。请修改内容并进行测试。"
+
+msgid "テスト"
+msgstr "测试"
+
+msgid "呼び出し"
+msgstr ""
+
+msgid "正規表現に間違いがあります。"
+msgstr "正则表达式错误。"
+
+msgid "正規表現に一致しませんでした。"
+msgstr "正则表达式不匹配。"
+
+msgid "webhook URLに間違いがあります。"
+msgstr "Webhook URL 错误。"
+
+msgid "webhook URL"
+msgstr "Webhook URL"
+
+msgid "Webhookログ"
+msgstr "Webhook 日志"
+
+msgid "送信body"
+msgstr "请求体"
+
+msgid "予約日時"
+msgstr ""
+
+msgid "投稿"
+msgstr "帖子"
+
+msgid "処理日時"
+msgstr ""
+
+msgid "ステータス"
+msgstr "状态"
+
+msgid "METHOD"
+msgstr "METHOD"
+
+msgid "CONTENT_TYPE"
+msgstr "Content-Type"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "結果body"
+msgstr "响应体"
+
+msgid "この機能は実験的なものです。"
+msgstr "此功能为实验性。"
+
+msgid "共有を含む"
+msgstr ""
+
+msgid "カスタム"
+msgstr "个性化"
+
+msgid "前週"
+msgstr "上周"
+
+msgid "先月"
+msgstr "上月"
+
+msgid "過去7日間"
+msgstr "过去 7 天"
+
+msgid "過去30日間"
+msgstr "过去 30 天"
+
+msgid "過去1年間"
+msgstr "过去 1 年"
+
+msgid "再読込"
+msgstr "重新加载"
+
+msgid "超応援ユーザーのみ1年以上前の指定が可能です。"
+msgstr "只有超级支持者可以选择一年或更久以前。"
+
+msgid "ログインの設定"
+msgstr "登录设置"
+
+msgid "二要素認証の設定"
+msgstr "双因素认证设置"
+
+msgid "トークン"
+msgstr "验证码"
+
+msgid ""
+"二要素認証アプリにQRコードを読み込んで、表示されたトークンを送信してください。QRコードが使えない場合は次のコードを入力してください。:code"
+msgstr ""
+"请用二步验证 App 扫描此 QR 码，并发送验证码。 "
+"如果无法使用 QR 码，请输入此代码：%{code}"
+
+msgid "トークンが間違っているようです。再度入力してください。"
+msgstr "验证码似乎错误。请重新输入。"
+
+msgid "二要素認証が設定されました。"
+msgstr "二步验证已设置。"
+
+msgid "二要素認証を解除"
+msgstr "解除二步验证"
+
+msgid "二要素認証を解除します。解除してよいですか？"
+msgstr "二步验证将解除。确定解除么？"
+
+msgid "二要素認証が解除されました。"
+msgstr "二步验证已经移除。"
+
+msgid "ログイン許可"
+msgstr "登录许可"
+
+msgid "このアカウント(account_subject)でのログインを"
+msgstr "使用此账户(%{account_subject})登录"
+
+msgid "ログイン拒否と二要素認証は同時に設定できません。設定する場合はもう一方の設定を解除してください。"
+msgstr "禁止登录和二步验证无法同时设置。设置其中一项时请解除另一项。"
+
+msgid "ログイン許可の設定が変更されました。"
+msgstr "登录权限设置已修改。"
+
+msgid "グループ設定を行っていると、ログインを許可しないアカウントの設定が可能です。"
+msgstr "配置群组时，将可以设置禁止通过账户登录。"
+
+msgid "ログインを使用しない"
+msgstr "不用于登录"
+
+msgid ""
+"このアカウントでログインを禁止します。他のアカウントからログイン可能ですか？他のアカウントからログインできない場合、notestockへのログインができなく"
+"なります。"
+msgstr "此账户被禁止登录。可以用其它账户登录么？如果其它账户也不能用于登录，你将无法登录至 notestock。"
+
+msgid "禁止する"
+msgstr "禁止"
+
+msgid "エクスポート"
+msgstr "导出"
+
+msgid "ダウンロード"
+msgstr "下载"
+
+msgid "account_name(account_subject)のダウンロード"
+msgstr "%{account_name}(%{account_subject}) 下载"
+
+msgid "account_name(account_subject)の別サーバへコピー"
+msgstr ""
+
+msgid "データ準備"
+msgstr "准备数据"
+
+msgid "データの準備に時間が掛かるため、用意ができたら以下のアカウントへ通知を送信します。"
+msgstr "数据准备需要一些时间。完成时将向以下账户发送通知。"
+
+msgid "通知不要"
+msgstr "不通知"
+
+msgid "通知先"
+msgstr "通知目标"
+
+msgid "データ形式"
+msgstr "数据格式"
+
+msgid "CSV（投稿日時、投稿内容の一覧）"
+msgstr "CSV（展示发送时间及内容）"
+
+msgid "JSON（ActivityPubで受信した内容の一覧）"
+msgstr "JSON（展示自 ActivityPub 接收内容）"
+
+msgid "コピー先サーバー"
+msgstr "复制源实例"
+
+msgid "コピー先サーバー入力説明"
+msgstr "实例域名 ('example.com','https://example.com')"
+
+msgid "グループに含まれる以下のアカウントをコピーします。"
+msgstr ""
+
+msgid "以下のアカウントの情報がサーバー間で一致しません。別アカウントとしてコピーして良ければ、チェックを付けてください。"
+msgstr ""
+
+msgid ""
+"対象アカウントが現役アカウントの場合は、コピーを行う前にコピー先サーバーの管理者へ連絡し、これらのアカウントの「化石アカウント対応」を依頼してください。"
+msgstr ""
+
+msgid "管理者"
+msgstr "管理员"
+
+msgid "エクスポート最終確認"
+msgstr ""
+
+msgid "確認"
+msgstr "确认"
+
+msgid "コピー開始"
+msgstr "开始复制"
+
+msgid "完了までは時間が掛かります。エクスポート画面が表示されたら処理は完了しています。"
+msgstr "完成需要一些时间。导出画面显示则表示已经完成。"
+
+msgid "サーバードメインを入力してください。"
+msgstr ""
+
+msgid "入力されたドメインでnotestockが動いていないようです。"
+msgstr ""
+
+msgid "入力されたドメインはこのサーバーです。"
+msgstr ""
+
+msgid "コピー中"
+msgstr "正在复制"
+
+msgid "インポート"
+msgstr "导入"
+
+msgid "ファイルを選択"
+msgstr ""
+
+msgid "エラー"
+msgstr "错误"
+
+msgid "内部エラー"
+msgstr "内部错误"
+
+msgid "ファイルが指定されていないか、アップロード済みのファイルが指定されました。"
+msgstr ""
+
+msgid "不明なエラーです。"
+msgstr "未知错误。"
+
+msgid "設定されたアップロードサイズを超えています。"
+msgstr "超出了设置的上传大小上限。"
+
+msgid "書き込みに失敗しました。"
+msgstr ""
+
+msgid "設定された作業ディレクトリがありません。"
+msgstr ""
+
+msgid "管理者に連絡してください。"
+msgstr "请联系管理员。"
+
+msgid "データの準備ができました。"
+msgstr "数据已准备完成。"
+
+msgid "現在、データの準備中です。"
+msgstr "正在准备数据。"
+
+msgid "notestockでは、投稿のテキストだけを保存しています。画像などは保持していないので、ダウンロードデータには含まれません。"
+msgstr "notestock 只保存帖子的文本。图片等由于未被保存，所以不会包含在下载数据中。"
+
+msgid "処理待ち"
+msgstr "等待处理中"
+
+msgid "処理中"
+msgstr "处理中"
+
+msgid "準備完了"
+msgstr "准备完成"
+
+msgid "ファイル削除"
+msgstr "删除文件"
+
+msgid "通常は24時間で自動削除されます。"
+msgstr "通常 24 小时内自动删除。"
+
+msgid "ダウンロードツールには対応していません。解除してダウンロードしてください。"
+msgstr "下载工具不受支持。请禁用后再下载。"
+
+msgid "ショートカット"
+msgstr "快捷方式"
+
+msgid "表示名"
+msgstr "显示名"
+
+msgid "公開"
+msgstr "公开"
+
+msgid "変更取消"
+msgstr "取消"
+
+msgid "ワードクラウド"
+msgstr "词云"
+
+msgid "account_subjectのワードクラウド"
+msgstr "%{account_subject}的词云"
+
+msgid "account_name(account_subject)のワードクラウド"
+msgstr "%{account_name}(%{account_subject})的词云"
+
+msgid "公開投稿のみ対象です。"
+msgstr "仅包括公开帖子。"
+
+msgid "作成からday日が過ぎた画像は削除されます。"
+msgstr "创建 %{day} 日后图片将被删除。"
+
+msgid "非公開ユーザーのワードクラウド公開URLは、作成から1週間だけ有効です。"
+msgstr ""
+
+msgid "notestockでワードクラウドを作成しました！"
+msgstr "我用 notestock 创建了词云！"
+
+msgid "認識語句"
+msgstr ""
+
+msgid "非表示語句"
+msgstr ""
+
+msgid "カンマ区切り"
+msgstr "逗号分隔"
+
+msgid "分割せず、一つにまとめたい語句を指定してください。"
+msgstr ""
+
+msgid "表示したくない語句を指定してください。"
+msgstr ""
+
+msgid "作成"
+msgstr "生成"
+
+msgid "期間"
+msgstr ""
+
+msgid "作成日"
+msgstr "创建日期"
+
+msgid "投稿待ち"
+msgstr "等待发送"
+
+msgid "すみません。何か問題がありました。しばらくしてから再度試してください。"
+msgstr "抱歉，发生了错误。请稍后重试。"
+
+msgid "何か問題がありました。"
+msgstr "出现了一些问题。"
+
+msgid "追記する"
+msgstr ""
+
+msgid "追記"
+msgstr ""
+
+msgid "アカウント指定が間違っていませんか？"
+msgstr ""
+
+msgid "エラー理由"
+msgstr "错误原因"
+
+msgid "メンション方式の表記がおかしい。"
+msgstr ""
+
+msgid "acctの表記がおかしい。"
+msgstr ""
+
+msgid "acctのドメイン表記がおかしい。"
+msgstr ""
+
+msgid "webfinger解釈不可。(ユーザーアドレスが見つけられなかった。)"
+msgstr "webfinger 无法解析。（找不到用户地址。）"
+
+msgid "activitypub解釈不可。(必要情報が確認できない。)"
+msgstr "ActivityPub 无法解析。（无法确认必要内容。）"
+
+msgid "Group Actorは対応していません。"
+msgstr "Group Actor 不受支持。"
+
+msgid "ウィジェット"
+msgstr "小组件"
+
+msgid "メディア付きのみ"
+msgstr ""
+
+msgid "表示している年月日以前を対象"
+msgstr ""
+
+msgid "これすきモード"
+msgstr "「这个喜欢」 (KORESUKI) 模式"
+
+msgid "連続投稿日数ランキング"
+msgstr "连续发帖天数排名"
+
+msgid "開始日"
+msgstr "开始日期"
+
+msgid "終了日"
+msgstr "结束日期"
+
+msgid "日数"
+msgstr "天数"
+
+msgid "API_Token"
+msgstr "API Token"
+
+msgid "生成"
+msgstr "生成"
+
+msgid "クリア"
+msgstr "清除"
+
+msgid "APIを使用しない場合は生成せず、クリアしておいてください。"
+msgstr "不使用 API 时，请将其清除。"
+
+msgid "プロフィール更新"
+msgstr "个人资料更新"
+
+msgid "account_name(account_subject)のプロフィール更新"
+msgstr "更新%{account_name}(%{account_subject})的个人资料"
+
+msgid "プロフィール更新説明"
+msgstr ""
+
+msgid "プロフィール"
+msgstr "个人资料"
+
+msgid "アイコン"
+msgstr "图标"
+
+msgid "これはBOTアカウントです。"
+msgstr "这是一个机器人账户。"
+
+msgid "これはCATアカウントです。"
+msgstr "这是一个猫账户，"
+
+msgid "これはDEADアカウントです。"
+msgstr "这是一个已注销账户。"
+
+msgid "変更する場合のみ指定してください。"
+msgstr "请只在需要修改时设置。"
+
+msgid "URLは自動でリンクになります。"
+msgstr "URL 会自动成为链接。"
+
+msgid "「アイコン」の画像ファイルは4MB以下のサイズにしてください。"
+msgstr "图标文件应小于 4MB。"
+
+msgid "「アイコン」に正しい画像ファイルを指定してください。"
+msgstr ""
+
+msgid "「アイコン」の画像は各辺1024ピクセル以下にしてください。"
+msgstr "图标文件长宽应不超过 1024 像素。"
+
+msgid "「アイコン」の画像はJPEG形式またはPNG形式にしてください。"
+msgstr "图标文件应为 JPEG 或 PNG 格式。"
+
+msgid "過去データ取得中です。"
+msgstr "正在获取历史数据。"
+
+msgid "過去投稿取得中です。get_queue_count"
+msgstr "正在获取历史帖子。（剩余%{get_queue_count}条）"
+
+msgid "再開"
+msgstr "重新启动"
+
+msgid "過去データ取込"
+msgstr "导入过往数据"
+
+msgid "account_name(account_subject)のデータ取込"
+msgstr "%{account_name}(%{account_subject})的数据导入"
+
+msgid "URLを指定して取込"
+msgstr "按 URL 导入"
+
+msgid "一行あたり1つのURLを記述してください。"
+msgstr "一行列出一个 URL。"
+
+msgid "投稿はすぐには取り込まれず、時間が掛かります。完了までしばらくお待ちください。"
+msgstr ""
+
+msgid "期限を指定して取込"
+msgstr ""
+
+msgid "（指定が無ければ一番古いものまで）"
+msgstr ""
+
+msgid "取込日時"
+msgstr "导入时间"
+
+msgid "期限日時"
+msgstr ""
+
+msgid "取込中止"
+msgstr "导入中止"
+
+msgid "テストサーバーメッセージ"
+msgstr ""
+"此服务正配置为测试模式，用于导入用途。由于数据会在未通知的情况下被删除，请不要使用。如欲使用，请使用 <a href='https://notestock."
+"osa-p.net/'>notestock.osa-p.net</a>。"
+
+msgid "notestockサーバーではありません。"
+msgstr "不是 notestock 服务器。"
+
+msgid "編集履歴"
+msgstr "编辑历史"
+
+msgid "インライン表示"
+msgstr "行内视图"
+
+msgid "分割表示"
+msgstr "并列视图"
+
+msgid "履歴無し"
+msgstr ""
+
+msgid "選択した版同士を比較"
+msgstr ""
+
+msgid "投稿内容"
+msgstr "帖子内容"
+
+msgid "詳細情報"
+msgstr "详细信息"
+
+msgid "ますみすサーチで検索"
+msgstr ""
+
+msgid "Fediverで検索"
+msgstr "Fediver"
+
+msgid "表示"
+msgstr "显示"
+
+msgid "非表示"
+msgstr "隐藏"
+
+msgid "選択したアカウントを表示"
+msgstr "显示已选择账户"
+
+msgid "選択したアカウントを非表示"
+msgstr "隐藏已选择账户"
+
+msgid "profileurlのアドレスで公開されます"
+msgstr ""
+
+msgid "account_subjectのアカウント一覧"
+msgstr "%{account_subject}的账户列表"
+
+msgid "アカウント一覧"
+msgstr "账户列表"
+
+msgid "カスタム絵文字"
+msgstr "自定义 emoji"
+
+msgid "エクスプローラー"
+msgstr "探索"
+
+msgid "名前"
+msgstr "名字"
+
+msgid "似ている文字"
+msgstr "相似文字"
+
+msgid "リセット"
+msgstr "重置"
+
+msgid "取り込み案内"
+msgstr ""
+
+msgid "参考情報"
+msgstr ""
+
+msgid "このサーバから"
+msgstr ""
+
+msgid "初めてアカウントを認識した日"
+msgstr ""
+
+msgid "最新のフォロー日"
+msgstr "最新关注日期"
+
+msgid "認識している最古の投稿日"
+msgstr "已知最早发帖时间"
+
+msgid "情報"
+msgstr "信息"
+
+msgid "サービスについて"
+msgstr "关于服务"
+
+msgid "寄付について"
+msgstr "关于捐助"
+
+msgid "寄付説明"
+msgstr ""
+"在<a href=\"https://fantia.jp/osapon\" target=\"_blank\">Fantia</a>及<a href=\"h"
+"ttps://liberapay.com/osapon/donate\" target=\"_blank\">Liberapay</a>可接受捐赠。捐赠会被"
+"用于存储费用等。<br>除了连续支持外，欢迎单次支持。请参考下方「捐赠」链接。"
+
+msgid "このサーバーで公開されている他のサービス"
+msgstr ""
+
+msgid "検索許可期限"
+msgstr "允许搜索的时间范围"
+
+msgid "無期限"
+msgstr "无限制"
+
+msgid "2ヶ月"
+msgstr "2个月"
+
+msgid "6ヶ月"
+msgstr "6个月"
+
+msgid "1年"
+msgstr "1年"
+
+msgid "2年"
+msgstr "2年"
+
+msgid "指定された投稿は、公開ユーザーのものではありませんでした。"
+msgstr "指定帖子不属于公开用户。"
+
+msgid "指定された投稿は、ありませんでした。"
+msgstr "指定帖子不存在。"
+
+msgid "無視ドメイン"
+msgstr "忽略域名"
+
+msgid "無視ドメイン説明"
+msgstr ""
+
+msgid "普段使用しない設定"
+msgstr "不常用设置"
+
+msgid "反映まで時間が掛かる場合があります。"
+msgstr "更改可能需要一些时间才能显示。"
+
+msgid "このアカウントは、notestockで公開設定になっていません。"
+msgstr "此账户在 notestock 上未设置为公开。"
+
+msgid "もう一度行ってください。"
+msgstr ""
+
+msgid "画面の切り替えが正しく行われなかったようです。"
+msgstr ""
+
+msgid "ツイート取込"
+msgstr ""
+
+msgid "ZIPファイルではありません。"
+msgstr "这不是 ZIP 文件。"
+
+msgid "tweetsファイルではありません。"
+msgstr "这不是 tweets 文件。"
+
+msgid "tweetsをZIP形式で圧縮してアップロード"
+msgstr "将 tweets 以 ZIP 格式压缩后上传"
+
+msgid "tweets.js.zip説明"
+msgstr ""
+"在解压从 Twitter 下载的压缩文件后，请只保留 tweets.js、tweets-part1.js 等以 tweets 开头的文件，将它们添加到压缩文"
+"件。 "
+"其它文件会包含电话号码及客户端 IP 地址信息。 "
+
+msgid "キャンセルされました"
+msgstr "已取消"
+
+msgid "データインポート中は利用できません。"
+msgstr "数据正在导入时无法使用。"
+
+msgid "tweetインポート制限案内"
+msgstr ""
+
+msgid "グループ登録依頼"
+msgstr ""
+
+msgid "新規追加"
+msgstr "添加"
+
+msgid "投稿表示サブグループの設定"
+msgstr ""
+
+msgid "投稿表示サブグループの案内"
+msgstr ""
+
+msgid "設定変更するサブグループ"
+msgstr ""
+
+msgid "サブグループ名"
+msgstr "子群组名"
+
+msgid "サブグループ削除アカウント選択案内"
+msgstr ""
+
+msgid "2つ以上選択してください。"
+msgstr "请选择两个或以上。"
+
+msgid "公開用アドレス"
+msgstr "公共地址"
+
+msgid "使用可能文字"
+msgstr "可使用字符"
+
+msgid "英数字、ハイフン、アンダーバー、ピリオド"
+msgstr "英文字母、数字、短横线 (-)、下划线 (_) 及点 (.)"
+
+msgid "アドレスで公開されます。"
+msgstr "将会公开于此地址。"
+
+msgid "サブグループ削除"
+msgstr "删除子群组"
+
+msgid "サブグループ削除確認"
+msgstr "删除子群组 (<span id=\"del_subgroup_name\"></span>) ？"
+
+msgid "設定切り替え"
+msgstr "配置切换"
+
+msgid "アカウント設定切り替え確認"
+msgstr "切换到账户(<span id=\"chg_acct\"></span>)并打开设置页。"
+
+msgid "選択されたアカウントが異常です。"
+msgstr "所选择账户异常。"
+
+msgid "更新対象がありません。"
+msgstr ""
+
+msgid "同じアドレスが存在します。他のアドレスを指定してください。"
+msgstr "同一地址已存在。请设置其它地址。"
+
+msgid "呼び出し方法が異常です。"
+msgstr "调用方法异常。"
+
+msgid "このサブグループ"
+msgstr "此子群组"
+
+msgid "保存しました"
+msgstr "已保存"
+
+msgid "countアカウント"
+msgstr "%{count} 账户"
+
+msgid "登録する"
+msgstr "注册"
+
+msgid "ワンタイムパスワード"
+msgstr "二步验证码 (OTP)"
+
+msgid "メンションを送るログインで使用します。"
+msgstr ""
+
+msgid "パスキー"
+msgstr "Passkey"
+
+msgid "省略可"
+msgstr "可省略"
+
+msgid "このパスキーは既に登録されているようです。"
+msgstr "此 Passkey 似乎已被注册。"
+
+msgid "登録されているパスキー"
+msgstr "已注册 Passkey"
+
+msgid "パスキーを解除"
+msgstr "Passkey 移除"
+
+msgid "このパスキーを解除します。解除してよいですか？"
+msgstr "此 Passkey 将被移除。确定移除此 Passkey 么？"
+
+msgid "このパスキーで登録されていないか、情報が一致しませんでした。"
+msgstr "此 Passkey 未注册过或不匹配。"
+
+msgid "パスキーが登録されませんでした。"
+msgstr "Passkey 未注册。"
+
+msgid "パスキーでログイン"
+msgstr "使用 Passkey 登录"
+
+msgid "テスト表示"
+msgstr "测试视图"
+
+msgid "現在ON"
+msgstr "当前开启・点击以关闭"
+
+msgid "現在OFF"
+msgstr "当前关闭・点击以开启"
+
+msgid "コピーしました"
+msgstr "已复制"
+
+msgid "他の年の同じ日"
+msgstr "那年今日"
+
+msgid "公開投稿"
+msgstr "公开帖子"
+
+msgid "利用規約"
+msgstr "使用条款"
+
+msgid "プライバシーポリシー"
+msgstr "隐私政策"
+
+msgid "再登録をお願いします。"
+msgstr "请重新注册。"
