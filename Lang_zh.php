@@ -11,7 +11,7 @@
  * @link     https://notestock.osa-p.net
  */
 
-class Lang_ko extends Lang
+class Lang_zh extends Lang
 {
     public $langcode = 'zh';
     public $langname = '简体中文';
