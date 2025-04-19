@@ -753,8 +753,8 @@ msgstr "Confirmation"
 msgid "コピー開始"
 msgstr "Start copying"
 
-msgid "完了までは時間が掛かります。エクスポート画面が表示されたら処理は完了しています。"
-msgstr "It will take some time to complete. When the export screen appears, the process is complete."
+msgid "コピー開始メッセージ"
+msgstr "Copying has started. It will take some time to complete. The process is complete when the progress disappears from the destination server's settings screen. Also, follow is being performed from the destination server, so if you have set restrictions, please allow them."
 
 msgid "サーバードメインを入力してください。"
 msgstr "Enter the server domain."
