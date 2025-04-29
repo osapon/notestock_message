@@ -2,13 +2,9 @@
 
 /**
  * 言語処理クラス (英語)
- * PHP Version >= 8.1
  *
  * @category Framework
  * @package  Notestock
- * @author   おさ <osa@osa-p.net>
- * @license  MIT License https://mit-license.org/
- * @link     https://notestock.osa-p.net
  */
 
 class Lang_en extends Lang
