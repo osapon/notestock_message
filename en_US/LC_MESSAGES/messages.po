@@ -732,6 +732,9 @@ msgstr "Destination server"
 msgid "コピー先サーバー入力説明"
 msgstr "Server domain('example.com','https://example.com')"
 
+msgid "コピー対象がありません。"
+msgstr "There is no copy target."
+
 msgid "グループに含まれる以下のアカウントをコピーします。"
 msgstr "Copy the following accounts in the group"
 

@@ -691,6 +691,9 @@ msgstr "コピー先サーバー"
 msgid "コピー先サーバー入力説明"
 msgstr "サーバードメイン('example.com','https://example.com')"
 
+msgid "コピー対象がありません。"
+msgstr "コピー対象がありません。"
+
 msgid "グループに含まれる以下のアカウントをコピーします。"
 msgstr "グループに含まれる以下のアカウントをコピーします。"
 
