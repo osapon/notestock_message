@@ -1002,6 +1002,9 @@ msgstr "The icon image should be no larger than 1024 pixels on each side."
 msgid "「アイコン」の画像はJPEG形式またはPNG形式にしてください。"
 msgstr "The icon image should be in JPEG or PNG format."
 
+msgid "過去データ取得準備中です。"
+msgstr "Preparing to acquire historical data."
+
 msgid "過去データ取得中です。"
 msgstr "Getting historical data now."
 
