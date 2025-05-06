@@ -768,6 +768,9 @@ msgstr "It appears that notestock is not working on the domain entered."
 msgid "入力されたドメインはこのサーバーです。"
 msgstr "The domain entered is this server."
 
+msgid "入力されたドメインへは現在コピー中です。"
+msgstr "Copying is currently in progress to the domain entered."
+
 msgid "コピー中"
 msgstr "During copying"
 
