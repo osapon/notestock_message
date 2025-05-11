@@ -1352,3 +1352,12 @@ msgstr "Privacy Policy"
 
 msgid "再登録をお願いします。"
 msgstr "Please re-register."
+
+msgid "TIPS_GROUP"
+msgstr "If you have multiple accounts, you can set up a group so that your posts can be viewed even if the server is shutdowned."
+
+msgid "TIPS_ACCT_SEARCH"
+msgstr "You can search for this account here. Searches without keywords, only with media, etc. are also supported."
+
+msgid "TIPS_GLOBAL_SEARCH"
+msgstr "If you want to search for posts from accounts that have been set to public in notestock, here. You can also search for accounts from the pull-down menu."
