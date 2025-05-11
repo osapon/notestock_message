@@ -979,6 +979,9 @@ msgstr "再開"
 msgid "過去データ取込"
 msgstr "過去データ取込"
 
+msgid "過去データ取得でエラーがありました。"
+msgstr "過去データ取得でエラーがありました。"
+
 msgid "account_name(account_subject)のデータ取込"
 msgstr "%{account_name}(%{account_subject})のデータ取込"
 

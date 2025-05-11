@@ -1020,6 +1020,9 @@ msgstr "Restart"
 msgid "過去データ取込"
 msgstr "Get historical data"
 
+msgid "過去データ取得でエラーがありました。"
+msgstr "There was an error in retrieving historical data."
+
 msgid "account_name(account_subject)のデータ取込"
 msgstr "Get data %{account_name}(%{account_subject})"
 
