@@ -1320,3 +1320,9 @@ msgstr "このアカウントに関する検索は、こちらからできます
 
 msgid "TIPS_GLOBAL_SEARCH"
 msgstr "notestockで公開設定にしているアカウントの投稿を検索するなら、グローバル検索から。プルダウンからアカウントの検索も可能です。"
+
+msgid "Tipsの再表示"
+msgstr "Tipsの再表示"
+
+msgid "設定しました"
+msgstr "設定しました"

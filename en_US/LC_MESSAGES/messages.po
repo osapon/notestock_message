@@ -1361,3 +1361,9 @@ msgstr "You can search for this account here. Searches without keywords, only wi
 
 msgid "TIPS_GLOBAL_SEARCH"
 msgstr "To search for posts from accounts that have been set to public in notestock, go to Global Search. You can also search for accounts from the pull-down menu."
+
+msgid "Tipsの再表示"
+msgstr "Redisplay Tips"
+
+msgid "設定しました"
+msgstr "Configured"
