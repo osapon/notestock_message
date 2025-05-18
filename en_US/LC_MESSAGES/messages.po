@@ -702,8 +702,8 @@ msgstr "Download"
 msgid "account_name(account_subject)のダウンロード"
 msgstr "Download %{account_name}(%{account_subject})"
 
-msgid "account_name(account_subject)の別サーバへコピー"
-msgstr "Copy to other server %{account_name}(%{account_subject})"
+msgid "別サーバへコピー"
+msgstr "Copy to other server"
 
 msgid "データ準備"
 msgstr "Data preparation"

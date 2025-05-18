@@ -691,9 +691,6 @@ msgstr "下载"
 msgid "account_name(account_subject)のダウンロード"
 msgstr "%{account_name}(%{account_subject}) 下载"
 
-msgid "account_name(account_subject)の別サーバへコピー"
-msgstr ""
-
 msgid "データ準備"
 msgstr "准备数据"
 
