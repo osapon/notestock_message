@@ -933,6 +933,9 @@ msgstr "Widget"
 msgid "メディア付きのみ"
 msgstr "Only posting with media"
 
+msgid "正規表現"
+msgstr "Regular expression"
+
 msgid "表示している年月日以前を対象"
 msgstr "Target before the displayed date"
 
