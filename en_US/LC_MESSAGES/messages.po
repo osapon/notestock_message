@@ -757,7 +757,7 @@ msgid "コピー開始"
 msgstr "Start copying"
 
 msgid "コピー開始メッセージ"
-msgstr "Copying has started. It will take some time to complete. The process is complete when the progress disappears from the destination server's settings screen. Also, follow is being performed from the destination server, so if you have set restrictions, please allow them."
+msgstr "The copy has started. It may take some time to complete. When the progress disappears from this screen or the settings page of the destination server, the process is finished. Also, since the destination server will follow up, make sure to allow it if you have any restrictions in place."
 
 msgid "サーバードメインを入力してください。"
 msgstr "Enter the server domain."
