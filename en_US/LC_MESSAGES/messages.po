@@ -765,6 +765,9 @@ msgstr "Enter the server domain."
 msgid "入力されたドメインでnotestockが動いていないようです。"
 msgstr "It appears that notestock is not working on the domain entered."
 
+msgid "入力されたドメインのnotestockはサーバーコピーを受け入れていません。"
+msgstr "The entered domain's notestock does not accept server copies."
+
 msgid "入力されたドメインはこのサーバーです。"
 msgstr "The domain entered is this server."
 
