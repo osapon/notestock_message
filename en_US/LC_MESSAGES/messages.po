@@ -742,7 +742,10 @@ msgid "以下のアカウントの情報がサーバー間で一致しません�
 msgstr "The following account information does not match across servers. Please check the box if you are willing to exclude and copy the information."
 
 msgid "対象アカウントが化石アカウントの場合は、コピーを行う前にコピー先サーバーの管理者へ連絡し、これらのアカウントの「化石アカウント対応」を依頼してください。"
-msgstr "If the target accounts are fossil accounts, please contact the administrator of the destination server and request “fossil account support” for these accounts before copying."
+msgstr "If the target accounts are fossil accounts, please contact the administrator of the destination server and request \"fossil account support\" for these accounts before copying."
+
+msgid "サーバーコピーエラー凡例"
+msgstr "\"Already transfer exists.\" means a server copy is already in progress. \"Already import exists.\" means a past data import is currently running. You can stop it from the \"Get historical data\" section in the settings screen."
 
 msgid "管理者"
 msgstr "Administrator"
