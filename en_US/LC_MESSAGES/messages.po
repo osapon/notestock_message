@@ -141,6 +141,12 @@ msgstr "Next day"
 msgid "次の年"
 msgstr "Next year"
 
+msgid "前"
+msgstr "Previous"
+
+msgid "次"
+msgstr "Next"
+
 msgid "そのまま"
 msgstr "As it is"
 

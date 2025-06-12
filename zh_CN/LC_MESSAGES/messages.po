@@ -140,6 +140,12 @@ msgstr "后一天"
 msgid "次の年"
 msgstr "后一年"
 
+msgid "前"
+msgstr "前"
+
+msgid "次"
+msgstr "下"
+
 msgid "そのまま"
 msgstr "保持当前状态"
 

@@ -127,6 +127,12 @@ msgstr "次の日"
 msgid "次の年"
 msgstr "次の年"
 
+msgid "前"
+msgstr "前"
+
+msgid "次"
+msgstr "次"
+
 msgid "そのまま"
 msgstr "そのまま"
 

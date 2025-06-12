@@ -106,6 +106,12 @@ msgstr "다음날"
 msgid "次の年"
 msgstr "다음년"
 
+msgid "前"
+msgstr "전"
+
+msgid "次"
+msgstr "다음"
+
 #, fuzzy
 msgid "そのまま"
 msgstr "그대로"
