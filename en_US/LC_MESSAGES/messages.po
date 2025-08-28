@@ -105,6 +105,9 @@ msgstr "Register, Login→"
 msgid "例）"
 msgstr "example)"
 
+msgid "アカウントが上手く認識されない時は"
+msgstr "When your account isn't being recognized properly(Japanese)"
+
 msgid "送信"
 msgstr "Send"
 

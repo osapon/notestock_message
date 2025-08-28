@@ -91,6 +91,9 @@ msgstr "使ってみたい人・ログイン→"
 msgid "例）"
 msgstr "例）"
 
+msgid "アカウントが上手く認識されない時は"
+msgstr "アカウントが上手く認識されない時は"
+
 msgid "送信"
 msgstr "送信"
 
