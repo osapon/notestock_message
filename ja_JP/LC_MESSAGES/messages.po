@@ -1321,6 +1321,15 @@ msgstr "他の年の同じ日"
 msgid "公開投稿"
 msgstr "公開投稿"
 
+msgid "ストリーム"
+msgstr "ストリーム"
+
+msgid "話題（24時間）"
+msgstr "話題（24時間）"
+
+msgid "話題（7日間）"
+msgstr "話題（7日間）"
+
 msgid "利用規約"
 msgstr "利用規約"
 

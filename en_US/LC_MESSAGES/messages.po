@@ -1362,6 +1362,15 @@ msgstr "same day in other years"
 msgid "公開投稿"
 msgstr "Public posts"
 
+msgid "ストリーム"
+msgstr "Stream"
+
+msgid "話題（24時間）"
+msgstr "Hot (24 hours)"
+
+msgid "話題（7日間）"
+msgstr "Hot (7 days)"
+
 msgid "利用規約"
 msgstr "Terms of Use"
 
