@@ -350,6 +350,9 @@ msgstr ""
 "If you can not send the login code from the corresponding account, you can "
 "not log into notestock if you exclude it from the group. Can I cancel it?"
 
+msgid "このアカウントは、今のグループに登録済みです。"
+msgstr "This account is already registered in the current group."
+
 msgid "応援ユーザーになる"
 msgstr "Become a supporters user"
 
