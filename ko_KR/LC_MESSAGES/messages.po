@@ -759,10 +759,6 @@ msgid "現在、データの準備中です。"
 msgstr "Currently preparing data."
 
 #, fuzzy
-msgid "notestockでは、投稿のテキストだけを保存しています。画像などは保持していないので、ダウンロードデータには含まれません。"
-msgstr "notestock saves only the text of the post. Images are not included in the download data because they are not held."
-
-#, fuzzy
 msgid "処理待ち"
 msgstr "Waiting for processing"
 
