@@ -203,6 +203,9 @@ msgstr "notestock user"
 msgid "botを含む"
 msgstr "include bot"
 
+msgid "botのみ"
+msgstr "bot only"
+
 msgid "account_subjectの投稿"
 msgstr "Posting %{account_subject}"
 

@@ -187,6 +187,9 @@ msgstr "notestockユーザー"
 msgid "botを含む"
 msgstr "botを含む"
 
+msgid "botのみ"
+msgstr "botのみ"
+
 msgid "account_subjectの投稿"
 msgstr "%{account_subject}の投稿"
 
