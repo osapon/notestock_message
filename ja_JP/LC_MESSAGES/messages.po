@@ -190,6 +190,9 @@ msgstr "botを含む"
 msgid "botのみ"
 msgstr "botのみ"
 
+msgid "botアカウント検索"
+msgstr "botアカウント検索"
+
 msgid "account_subjectの投稿"
 msgstr "%{account_subject}の投稿"
 
