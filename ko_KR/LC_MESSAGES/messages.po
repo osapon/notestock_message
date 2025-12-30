@@ -424,20 +424,20 @@ msgstr "Confirmed the existence of the account."
 msgid "ログインの説明"
 msgstr ""
 "Please send the following sentences from %{acct} to the %{notestock} account "
-"within 10 minutes to confirm the login operation from the principal. Please "
+"within 30 minutes to confirm the login operation from the principal. Please "
 "copy the text below directly and post it directly."
 
 #, fuzzy
 msgid "アカウント登録の説明"
 msgstr ""
 "Please send the following sentences from %{acct} to the %{notestock} account "
-"within 10 minutes to confirm the collection permission from the principal. "
+"within 30 minutes to confirm the collection permission from the principal. "
 "Please copy the text below directly and post it directly."
 
 #, fuzzy
 msgid "グループ追加の説明"
 msgstr ""
-"Please send the following sentences within 10 minutes from %{acct} to "
+"Please send the following sentences within 30 minutes from %{acct} to "
 "%{notestock} account to confirm group addition operation. Please copy the "
 "text below directly and post it directly."
 
