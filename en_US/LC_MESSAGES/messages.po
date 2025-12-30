@@ -720,7 +720,7 @@ msgstr "Download"
 msgid "account_name(account_subject)のダウンロード"
 msgstr "Download %{account_name}(%{account_subject})"
 
-msgid "別サーバへコピー"
+msgid "別サーバーへコピー"
 msgstr "Copy to other server"
 
 msgid "データ準備"
@@ -1149,7 +1149,7 @@ msgstr "It is not necessary to use this function on a regular basis. Please use 
 msgid "参考情報"
 msgstr "For reference"
 
-msgid "このサーバから"
+msgid "このサーバーから"
 msgstr "from this server"
 
 msgid "初めてアカウントを認識した日"
