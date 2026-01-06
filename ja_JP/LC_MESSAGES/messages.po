@@ -157,6 +157,9 @@ msgstr "続きを見る"
 msgid "検索結果は以上です"
 msgstr "検索結果は以上です"
 
+msgid "投稿件数"
+msgstr "<span class='post_count'>%{count}</span>件"
+
 msgid "削除ダイアログ説明"
 msgstr "このシステムに保存されている投稿を削除します。<br>元のシステムから削除されていない場合、再び取り込まれる場合があります。"
 

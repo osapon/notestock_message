@@ -171,6 +171,9 @@ msgstr "See next"
 msgid "検索結果は以上です"
 msgstr "Search results are up to here"
 
+msgid "投稿件数"
+msgstr "<span class='note_count'>%{count}</span> posts"
+
 msgid "削除ダイアログ説明"
 msgstr ""
 "Delete posts saved on this system. <br> If it has not been deleted from the "
