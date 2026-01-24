@@ -391,6 +391,12 @@ msgstr ""
 msgid "account_name(account_subject)の設定"
 msgstr "Setting of %{account_name}(%{account_subject})"
 
+msgid "公開設定"
+msgstr "Publish setting"
+
+msgid "表示設定"
+msgstr "View setting"
+
 msgid "公開ページが、他の検索エンジンにクロールされる場合があります"
 msgstr "Public pages may be crawled by other search engines."
 
