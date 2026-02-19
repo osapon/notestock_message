@@ -418,6 +418,24 @@ msgstr "notestock account search"
 msgid "誰からもアカウントが検索できます。"
 msgstr "Account can be searched by anyone."
 
+msgid "古い投稿に対する削除"
+msgstr "Deletion of old posts"
+
+msgid "古い投稿に対する削除の説明"
+msgstr "You can change the settings for deleted posts that are older than 5days (120hours) from the posting date.<br>This applies to Mastodon's automatic deletion and manual deletion."
+
+msgid "合わせて削除されます。"
+msgstr "Will be deleted accordingly."
+
+msgid "非公開化"
+msgstr "Going private"
+
+msgid "何もしない"
+msgstr "Do nothing"
+
+msgid "公開投稿は公開投稿として残ります。"
+msgstr "Public posts will remain public posts."
+
 msgid "投稿並び順"
 msgstr "Posting order"
 
