@@ -13,5 +13,5 @@ class Lang_ja extends Lang
     public $langcode = 'ja';
     public $langname = '日本語';
     public $menuname = '日本語';
-    protected $domain = 'ja_JP';
+    protected string $domain = 'ja_JP';
 }

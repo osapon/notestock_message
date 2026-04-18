@@ -12,5 +12,5 @@ class Lang_en extends Lang
     public $langcode = 'en';
     public $langname = 'English';
     public $menuname = 'English';
-    protected $domain = 'en_US';
+    protected string $domain = 'en_US';
 }

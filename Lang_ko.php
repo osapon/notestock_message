@@ -13,5 +13,5 @@ class Lang_ko extends Lang
     public $langcode = 'ko';
     public $langname = '한국어';
     public $menuname = '한국어';
-    protected $domain = 'ko_KR';
+    protected string $domain = 'ko_KR';
 }

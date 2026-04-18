@@ -13,5 +13,5 @@ class Lang_zh_cn extends Lang
     public $langcode = 'zh';
     public $langname = '简体中文';
     public $menuname = '简体中文';
-    protected $domain = 'zh_CN';
+    protected string $domain = 'zh_CN';
 }
