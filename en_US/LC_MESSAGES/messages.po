@@ -1427,3 +1427,9 @@ msgstr "Redisplay Tips"
 
 msgid "設定しました"
 msgstr "Configured"
+
+msgid "ロボットによるアクセスか確認中"
+msgstr "Checking if the access is from a robot"
+
+msgid "確認しました。リロードします。"
+msgstr "Confirmed. Reloading."
