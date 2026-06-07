@@ -1198,7 +1198,7 @@ msgid "寄付について"
 msgstr "About donation"
 
 msgid "寄付説明"
-msgstr "Donations are accepted on <a href=\"https://liberapay.com/osapon/donate\" target=\"_blank\">Liberapay</a> and <a href=\"https://fantia.jp/osapon\" target=\"_blank\">Fantia(Japanese)</a>. It is used for storage costs, etc.<br>In addition to continuous support, I also welcome one-time support. See the \"Donations\" link below."
+msgstr "Donations are accepted on <a href=\"https://ko-fi.com/osapon\" target=\"_blank\">ko-fi</a>・<a href=\"https://liberapay.com/osapon/donate\" target=\"_blank\">Liberapay</a> and <a href=\"https://fantia.jp/osapon\" target=\"_blank\">Fantia(Japanese)</a>. It is used for storage costs, etc.<br>In addition to continuous support, I also welcome one-time support. See the \"Donations\" link below."
 
 msgid "このサーバーで公開されている他のサービス"
 msgstr "Published other services on this server"

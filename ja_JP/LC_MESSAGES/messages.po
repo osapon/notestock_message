@@ -1157,7 +1157,7 @@ msgid "寄付について"
 msgstr "寄付について"
 
 msgid "寄付説明"
-msgstr "<a href=\"https://fantia.jp/osapon\" target=\"_blank\">ファンティア</a>および<a href=\"https://liberapay.com/osapon/donate\" target=\"_blank\">Liberapay</a>にて受け付けています。ストレージ費用などに活用させていただいています。<br>継続支援以外にも、単発での支援も歓迎しております。下記「寄付など」のリンク先を参照してください。"
+msgstr "<a href=\"https://ko-fi.com/osapon\" target=\"_blank\">ko-fi</a>・<a href=\"https://liberapay.com/osapon/donate\" target=\"_blank\">Liberapay</a>や<a href=\"https://fantia.jp/osapon\" target=\"_blank\">ファンティア</a>にて受け付けています。ストレージ費用などに活用させていただいています。<br>継続支援以外にも、単発での支援も歓迎しております。下記「寄付など」のリンク先を参照してください。（ko-fiは即時反映、Liberapayは24時間以内に反映されます。ファンティアは手動反映なので時間が掛かります。）"
 
 msgid "このサーバーで公開されている他のサービス"
 msgstr "このサーバーで公開されている他のサービス"
