@@ -1428,6 +1428,9 @@ msgstr "Redisplay Tips"
 msgid "設定しました"
 msgstr "Configured"
 
+msgid "ロボットによるアクセスか確認します"
+msgstr "Please press the button."
+
 msgid "ロボットによるアクセスか確認中"
 msgstr "Checking if the access is from a robot"
 
