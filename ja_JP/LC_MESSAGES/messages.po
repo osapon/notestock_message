@@ -1090,9 +1090,6 @@ msgstr "詳細情報"
 msgid "ますみすサーチで検索"
 msgstr "ますみすサーチ"
 
-msgid "Fediverで検索"
-msgstr "Fediver"
-
 msgid "表示"
 msgstr "表示"
 
