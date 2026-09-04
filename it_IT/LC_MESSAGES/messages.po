@@ -1,0 +1,1435 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: notestock\n"
+"PO-Revision-Date: 2026-09-04 16:00+0000\n"
+"Last-Translator: Relax Milano 😴📍 <@relaxmilano@mastodon.social>\n"
+"Language-Team: English (United States) <https://weblate.osa-p.net/projects/"
+"notestock/web/it_IT/>\n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 3.3-dev\n"
+
+msgid "web_site_description_content"
+msgstr "Posso cercare i miei post? Notestock è un servizio che offre una funzione di ricerca anche quando si utilizza un server che non dispone di una funzione di ricerca nei social network distribuiti."
+
+msgid "notestock"
+msgstr "notestock"
+
+msgid "よくある質問"
+msgstr "FAQ"
+
+msgid "ログイン"
+msgstr "Login"
+
+msgid "登録"
+msgstr "Registrazione"
+
+msgid "ログアウト"
+msgstr "Logout"
+
+msgid "これなに？"
+msgstr "Cos'è questo?"
+
+msgid "トップページ説明"
+msgstr ""
+"ActivityPub Supporta SNS(Mastodon, Misskey, Pleroma, etc)vengono pubblicati.<br>Posts "
+"correlato a notestock dall'autore👉<a href='/@osapon@mstdn.nere9.help/"
+"view?q=notestock'>È così</a>"
+
+msgid "制作者"
+msgstr "Autore"
+
+msgid "問合せ先"
+msgstr "Informazioni sui contatti"
+
+msgid "問合せ案内"
+msgstr "Se non ricevi alcuna risposta (Mi piace/Preferiti significa letto) entro 2 giorni dalla tua richiesta, ti preghiamo di contattarci tramite un altro mezzo."
+
+msgid "検索"
+msgstr "Ricerca"
+
+msgid "アカウント内検索"
+msgstr "Cerca nell'account"
+
+msgid "グローバル検索"
+msgstr "Ricerca globale"
+
+msgid "投稿を検索"
+msgstr "Cerca post"
+
+msgid "アカウントを検索"
+msgstr "Cerca l'account"
+
+msgid "ユーザー"
+msgstr "Utente"
+
+msgid "検索語"
+msgstr "Cerca la parola"
+
+msgid "設定"
+msgstr "Impostazioni"
+
+msgid "基本設定"
+msgstr "Impostazioni base"
+
+msgid "統計"
+msgstr "Statistiche"
+
+msgid "アカウント切替"
+msgstr "Cambia account"
+
+msgid "登録アカウント数"
+msgstr "Numero di account registrati"
+
+msgid "蓄積投稿数"
+msgstr "Numero di post accumulati"
+
+msgid "機能"
+msgstr "Caratteristica"
+
+msgid "できる"
+msgstr "Puoi"
+
+msgid "できない（やりたい）"
+msgstr "Non posso farlo (vorrei farlo)"
+
+msgid "応援ユーザー"
+msgstr "Supporto agli utenti"
+
+msgid "使ってみたい人・ログイン→"
+msgstr "Registrazione, Login→"
+
+msgid "例）"
+msgstr "esempio)"
+
+msgid "アカウントが上手く認識されない時は"
+msgstr "Quando il tuo account non viene riconosciuto correttamente (giapponese)"
+
+msgid "送信"
+msgstr "Inviare"
+
+msgid "（スペース区切りでAND、OR区切りでOR）"
+msgstr "(Separa con spazio AND, OR con OR interruzione)"
+
+msgid "このアカウント"
+msgstr "Questo account"
+
+msgid "グループ内"
+msgstr "Nel gruppo"
+
+msgid "超応援ユーザー"
+msgstr "Utente super disponibile"
+
+msgid "スペシャルサンクス"
+msgstr "Ringraziamenti speciali"
+
+msgid "一ヶ月分"
+msgstr "un mese"
+
+msgid "一週間分"
+msgstr "una settimana"
+
+msgid "前の年"
+msgstr "Anno precedente"
+
+msgid "前の日"
+msgstr "Giorno precedente"
+
+msgid "次の日"
+msgstr "Il giorno dopo"
+
+msgid "次の年"
+msgstr "L'anno prossimo"
+
+msgid "前"
+msgstr "Precedente"
+
+msgid "次"
+msgstr "Prossimo"
+
+msgid "そのまま"
+msgstr "Così com'è"
+
+msgid "削除する"
+msgstr "Eliminare"
+
+msgid "投稿削除"
+msgstr "Elimina il post"
+
+msgid "オリジナル"
+msgstr "Originale"
+
+msgid "今だけ隠す"
+msgstr "Nasconditi ora"
+
+msgid "続きを見る"
+msgstr "Vedi successivo"
+
+msgid "検索結果は以上です"
+msgstr "I risultati della ricerca arrivano fino a qui"
+
+msgid "投稿件数"
+msgstr "<span class='note_count'>%{count}</span> posts"
+
+msgid "削除ダイアログ説明"
+msgstr ""
+"Elimina i post salvati su questo sistema. <br> Se non è stato eliminato dal "
+"sistema originale, può essere importato di nuovo."
+
+msgid "y年m月d日"
+msgstr "%{year}-%{month}-%{day}"
+
+msgid "keywordの検索結果"
+msgstr "Risultati della ricerca per %{keyword}"
+
+msgid "keywordのアカウント検索結果"
+msgstr "Risultati della ricerca dell'account per %{keyword}"
+
+msgid "（プライベートページ）"
+msgstr "(Pagina privata)"
+
+msgid "このアカウントは検索が無効です"
+msgstr "La ricerca per questo account non è valida."
+
+msgid "notestockで検索対象に設定しているアカウント"
+msgstr "Obiettivo di ricerca account per \"notestock\""
+
+msgid "notestockで検索対象に設定しているアカウントの投稿"
+msgstr "Post impostati come obiettivi di ricerca in \"notestock\""
+
+msgid "notestockユーザー"
+msgstr "notestock utente"
+
+msgid "botを含む"
+msgstr "includi bot"
+
+msgid "botのみ"
+msgstr "solo bot"
+
+msgid "botアカウント検索"
+msgstr "Cerca bot accounts"
+
+msgid "account_subjectの投稿"
+msgstr "Pubblicazione %{account_subject}"
+
+msgid "account_name(account_subject)の投稿"
+msgstr "Pubblicazione %{account_name}<span class='acct'>(%{account_subject})</span>"
+
+msgid "announce_user_nameの投稿"
+msgstr "Pubblicazione %{announce_user_name}"
+
+msgid "収集されたデータについては、各データの投稿主に権利があります。"
+msgstr "Per quanto riguarda i dati raccolti, il titolare di ciascun dato ha il diritto di pubblicarli."
+
+msgid "issue"
+msgstr "problema"
+
+msgid "投稿の無かった日は平均に含まれていません。"
+msgstr "I giorni senza pubblicazioni non sono inclusi nella media."
+
+msgid "登録日より前の、非公開・共有先が存在しない投稿は含まれていません。"
+msgstr ""
+"Post che sono precedenti alla data di registrazione, ma non hanno privato o"
+"le destinazioni condivise non sono incluse."
+
+msgid "年月"
+msgstr "Mese"
+
+msgid "投稿数"
+msgstr "Numero di post"
+
+msgid "月別投稿数"
+msgstr "Numero di post per mese"
+
+msgid "日別投稿数"
+msgstr "Numero di post by giorno"
+
+msgid "botの投稿数"
+msgstr "Numero di post da bot"
+
+msgid "一般アカウントの投稿数"
+msgstr "Number di post di account generali"
+
+msgid "時間"
+msgstr "Tempo"
+
+msgid "平均投稿数"
+msgstr "Numero medio di post"
+
+msgid "時間別投稿数"
+msgstr "Numero di post per ora"
+
+msgid "時"
+msgstr "Ora"
+
+msgid "曜日"
+msgstr "Giorno della settimana"
+
+msgid "曜日別投稿数"
+msgstr "Numero di post per giorno della settimana"
+
+msgid "account_subjectの統計"
+msgstr "statistiche di %{account_subject}"
+
+msgid "account_name(account_subject)の統計"
+msgstr "statistiche di %{account_name}(%{account_subject})"
+
+msgid "ログイン履歴"
+msgstr "Cronologia degli accessi"
+
+msgid "日時"
+msgstr "Tempo"
+
+msgid "アカウント"
+msgstr "Account"
+
+msgid "処理"
+msgstr "Processo"
+
+msgid "IPアドレス"
+msgstr "indirizzo IP"
+
+msgid "（最近1ヶ月分だけ記録しています）"
+msgstr "(Record relativo solo all'ultimo mese)"
+
+msgid "グループの設定"
+msgstr "Inpostazioni di gruppo"
+
+msgid "グループ"
+msgstr "Gruppo"
+
+msgid "追加"
+msgstr "Aggiungere"
+
+msgid "選択したアカウントをグループから除外"
+msgstr "Escludi gli account selezionati dal gruppo"
+
+msgid "連携されている他のアカウントはありません"
+msgstr "Non ci sono altri account collegati."
+
+msgid "戻る"
+msgstr "Indietro"
+
+msgid "保存"
+msgstr "Salva"
+
+msgid "閉じる"
+msgstr "Chiudi"
+
+msgid "解除する"
+msgstr "Smetti di seguire"
+
+msgid "除外する"
+msgstr "Pubblicazione"
+
+msgid "フォロー解除"
+msgstr "Smetti di seguire"
+
+msgid "フォロー解除中の投稿は記録されません。解除してよいですか？"
+msgstr "I post di chi smette di seguire non verranno ripubblicati. Posso smettere di seguire questo account?"
+
+msgid "ファンティアユーザーID"
+msgstr "ID utente Fantia"
+
+msgid "ファンティアユーザーの説明"
+msgstr ""
+"Si trova dopo l'ultima barra dell'URL della pagina del profilo.<br>Nel caso del"
+"esempio qui sotto, inizia con 'tus_'."
+
+msgid "LiberapayアカウントID"
+msgstr "ID utente Liberapay"
+
+msgid "Liberapayアカウントの説明"
+msgstr "ID visualizzato nella pagina dell'account."
+
+msgid "ko-fiメールアドレス"
+msgstr "indirizzo email ko-fi"
+
+msgid "グループ除外"
+msgstr "Esclusione di gruppo"
+
+msgid "除外対象を選んでください"
+msgstr "Selezionare l'obiettivo di esclusione"
+
+msgid "該当アカウントからログインコードが送信できない場合、グループから除外するとnotestockへログインできなくなります。解除してよいですか？"
+msgstr ""
+"Se non riesci a inviare il codice di accesso dall'account corrispondente, puoi "
+"Non riesco ad accedere a Notestock se lo escludo dal gruppo. Posso annullare l'operazione?"
+
+msgid "このアカウントは、今のグループに登録済みです。"
+msgstr "Questo account è già registrato nel gruppo corrente."
+
+msgid "応援ユーザーになる"
+msgstr "Diventa un utente sostenitore"
+
+msgid "使用しない"
+msgstr "non utilizzare"
+
+msgid "使用する"
+msgstr "utilizzare"
+
+msgid "公開しない"
+msgstr "Non pubblicare"
+
+msgid "公開する"
+msgstr "Pubblicare"
+
+msgid "公開ページ"
+msgstr "Pagina pubblica"
+
+msgid "公開ページ検索拒否タグ"
+msgstr "Tag rifiutati dalla ricerca nella pagina pubblica"
+
+msgid "publicurlのアドレスで公開されます"
+msgstr ""
+"Verrà pubblicato a <a href='%{publicurl}' target='_blank'>%"
+"{publicurl}</a> indirizzo."
+
+msgid "account_name(account_subject)の設定"
+msgstr "Impostazioni di %{account_name}(%{account_subject})"
+
+msgid "公開設定"
+msgstr "Impostazioni di pubblicazione"
+
+msgid "表示設定"
+msgstr "Vedi impostazioni"
+
+msgid "公開ページが、他の検索エンジンにクロールされる場合があります"
+msgstr "Le pagine pubbliche possono essere indicizzate da altri motori di ricerca."
+
+msgid "noindexの説明"
+msgstr ""
+"Incorpora il &lt;meta name='robots' content='noindex, nofollow, noarchive, "
+"noodp, noydir'&gt; tag sulla pagina pubblica e visualizza l'intento di negare "
+"altri motori di ricerca."
+
+msgid "notestock投稿検索"
+msgstr "ricerca di post notestock"
+
+msgid "誰からも投稿が検索できます。"
+msgstr "I post possono essere consultati da chiunque."
+
+msgid "notestockアカウント検索"
+msgstr "ricerca di account notestock"
+
+msgid "誰からもアカウントが検索できます。"
+msgstr "L'account può essere consultato da chiunque."
+
+msgid "古い投稿に対する削除"
+msgstr "Eliminazione dei vecchi post"
+
+msgid "古い投稿に対する削除の説明"
+msgstr "È possibile modificare le impostazioni per i post eliminati che risalgono a più di 5 giorni (120 ore) dalla data di pubblicazione.<br>Questo vale sia per l'eliminazione automatica che per l'eliminazione manuale di Mastodon."
+
+msgid "合わせて削除されます。"
+msgstr "Verrà eliminato di conseguenza."
+
+msgid "非公開化"
+msgstr "Passare a privato"
+
+msgid "何もしない"
+msgstr "Non fare nulla"
+
+msgid "公開投稿は公開投稿として残ります。"
+msgstr "I post pubblici rimarranno post pubblici."
+
+msgid "投稿並び順"
+msgstr "Ordine di pubblicazione"
+
+msgid "古い投稿が上、新しい投稿が下"
+msgstr "I post più vecchi sono in alto, i post più recenti sono in basso."
+
+msgid "新しい投稿が上、古い投稿が下"
+msgstr "I nuovi post sono in alto, i vecchi post sono in basso."
+
+msgid "並び順古いの説明"
+msgstr "I risultati della ricerca sono i nuovi post in alto, i vecchi post sono stati corretti in basso."
+
+msgid "タイムゾーン"
+msgstr "Timezone"
+
+msgid "ファン"
+msgstr "Fan"
+
+msgid "ファンの説明"
+msgstr "Se imposti un'opzione per uno degli account raggruppati, verrà applicata anche agli altri account.<br>I dati vengono acquisiti una volta al giorno, quindi potrebbe essere necessario del tempo prima che vengano visualizzati."
+
+msgid "トップページの応援者に表示しない"
+msgstr "Non mostrare ai sostenitori della pagina principale"
+
+msgid "トップページの応援者に表示してもよい"
+msgstr "Puoi mostrarlo ai sostenitori della pagina principale"
+
+msgid "表示場所の都合上、表示されない場合があります"
+msgstr "Potrebbe non essere esposto per motivi legati alla posizione in cui si trova."
+
+msgid "もう一度フォローさせる"
+msgstr "Segui di nuovo"
+
+msgid "フォローを解除させる"
+msgstr "Smetti di seguire"
+
+msgid "登録情報を削除する"
+msgstr "Elimina l'account"
+
+msgid "登録情報削除"
+msgstr "Elimina le informazioni di registrazione"
+
+msgid "登録削除の説明"
+msgstr "Annulla la registrazione di questo account ( %{acct} ) da Notestock per smettere di seguirlo, annullare la registrazione di gruppo o eliminare le informazioni di registrazione. Se l'account corrispondente non esiste, non potrai accedere."
+
+msgid "フォローを解除しました。"
+msgstr "Ti ho tolto il follow."
+
+msgid "フォローしました。"
+msgstr "Ti ho seguito. Se Notestock non ti segue, assicurati di non essere in attesa di approvazione per i follow o bloccato."
+
+msgid "確認した"
+msgstr "Confermato"
+
+msgid "グループを組むアカウント(@account@server.domain)"
+msgstr "Account di gruppo (@account@server.domain)"
+
+msgid "グループ追加"
+msgstr "Aggiungi group"
+
+msgid "グループ設定"
+msgstr "Impostazioni di group"
+
+msgid "アカウントを確認"
+msgstr "Conferma l'account"
+
+msgid "アカウントの存在を確認しました"
+msgstr "È stata confermata l'esistenza dell'account."
+
+msgid "ログインの説明"
+msgstr ""
+"Si prega di inviare le seguenti frasi da %{acct} al conto %{notestock} "
+"entro 30 minuti per confermare l'operazione di accesso da parte del preside. Per favore "
+"copia direttamente il testo qui sotto e incollalo direttamente."
+
+msgid "アカウント登録の説明"
+msgstr ""
+"Si prega di inviare le seguenti frasi da %{acct} al conto %{notestock} "
+"entro 30 minuti per confermare l'autorizzazione al ritiro da parte del preside."
+"Si prega di copiare direttamente il testo seguente e di incollarlo."
+
+msgid "グループ追加の説明"
+msgstr ""
+"Si prega di inviare le seguenti frasi entro 30 minuti da %{acct} a "
+"%{notestock} account per confermare l'operazione di aggiunta del gruppo. Si prega di copiare il "
+"inserisci il testo qui sotto e pubblicalo direttamente."
+
+msgid "登録の説明"
+msgstr ""
+"quando pubblicherò, seguirò da qui, quindi se stai seguendo il limite di follow"
+"ecc. si prega di dare il permesso."
+
+msgid "入力されたアカウントがnotestockに登録されていません。現在のアカウントをログアウトして、先に登録を行ってください"
+msgstr ""
+"L'account inserito non è registrato in notestock. Effettua il logout "
+"l'account corrente e registrati prima."
+
+msgid "まだ投稿が到着していないようです。もうしばらく待ってから押してください"
+msgstr ""
+"Sembra che la posta non sia ancora arrivata. Attendi un po' e poi "
+"spingi."
+
+msgid "コードの有効期限が切れました。再度登録を行ってください"
+msgstr "Il codice è scaduto. Registrati di nuovo."
+
+msgid "ロボットチェックに引っかかりました"
+msgstr ""
+"Errore di controllo del robot. Se non riesci a procedere alla schermata successiva più volte, "
+"per favore, contatta %{author}. Ci scusiamo per il disturbo."
+
+msgid "投稿した"
+msgstr "Pubblicato"
+
+msgid "集計中"
+msgstr "Aggregazione"
+
+msgid "ログイン試行"
+msgstr "Accesso di prova"
+
+msgid "ログイン成功"
+msgstr "Login effettuato con successo"
+
+msgid "API呼び出し/検索"
+msgstr "API Chiamata/Ricerca"
+
+msgid "カレンダー開始曜日"
+msgstr "Giorno di inizio della settimana sul calendario"
+
+msgid "日曜日"
+msgstr "Domenica"
+
+msgid "月曜日"
+msgstr "Lunedi"
+
+msgid "日曜日(短縮)"
+msgstr "Dom"
+
+msgid "月曜日(短縮)"
+msgstr "Lun"
+
+msgid "火曜日(短縮)"
+msgstr "Mar"
+
+msgid "水曜日(短縮)"
+msgstr "Mer"
+
+msgid "木曜日(短縮)"
+msgstr "Gio"
+
+msgid "金曜日(短縮)"
+msgstr "Ven"
+
+msgid "土曜日(短縮)"
+msgstr "Sab"
+
+msgid "公開ページリンク"
+msgstr "Link alla pagina pubblica"
+
+msgid "その他"
+msgstr "Altro"
+
+msgid "Webhook"
+msgstr "Webhook"
+
+msgid "account_subjectのWebhook"
+msgstr "Webhook di %{account_subject}"
+
+msgid "account_name(account_subject)のWebhook"
+msgstr "Webhook di %{account_name}(%{account_subject})"
+
+msgid "テスト投稿。書き換えてテストしてください。"
+msgstr "Post di prova. Si prega di riscriverlo e testarlo."
+
+msgid "テスト"
+msgstr "Test"
+
+msgid "呼び出し"
+msgstr "calcio"
+
+msgid "正規表現に間違いがあります。"
+msgstr "C'è un errore nelle espressioni regolari."
+
+msgid "正規表現に一致しませんでした。"
+msgstr "Non corrispondeva all'espressione regolare."
+
+msgid "webhook URLに間違いがあります。"
+msgstr "C'è un errore nell'URL del webhook."
+
+msgid "webhook URL"
+msgstr "webhook URL"
+
+msgid "Webhookログ"
+msgstr "Webhook log"
+
+msgid "送信body"
+msgstr "inviare corpo"
+
+msgid "予約日時"
+msgstr "Orario di prenotazione"
+
+msgid "投稿"
+msgstr "Post"
+
+msgid "処理日時"
+msgstr "Tempo di elaborazione"
+
+msgid "ステータス"
+msgstr "Stato"
+
+msgid "METHOD"
+msgstr "METODO"
+
+msgid "CONTENT_TYPE"
+msgstr "Content-Type"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "結果body"
+msgstr "Corpo del risultato"
+
+msgid "この機能は実験的なものです。"
+msgstr "Questa funzione è sperimentale."
+
+msgid "共有を含む"
+msgstr "includi il post di condivisione"
+
+msgid "カスタム"
+msgstr "Cliente"
+
+msgid "前週"
+msgstr "Ultima settimana"
+
+msgid "先月"
+msgstr "Ultimo mese"
+
+msgid "過去7日間"
+msgstr "Ultimi 7 giorni"
+
+msgid "過去30日間"
+msgstr "Ultimi 30 giorni"
+
+msgid "過去1年間"
+msgstr "Ultimo anno"
+
+msgid "再読込"
+msgstr "Ricarica"
+
+msgid "超応援ユーザーのみ1年以上前の指定が可能です。"
+msgstr "Solo gli utenti super sostenitori possono specificare un anno o più fa."
+
+msgid "ログインの設定"
+msgstr "Impostazioni di login"
+
+msgid "二要素認証の設定"
+msgstr "Impostazioni di autenticazione a Due-Fattori"
+
+msgid "トークン"
+msgstr "token"
+
+msgid "二要素認証アプリにQRコードを読み込んで、表示されたトークンを送信してください。QRコードが使えない場合は次のコードを入力してください。:code"
+msgstr "Si prega di scansionare il codice QR con l'applicazione di autenticazione a due fattori e inviare il token visualizzato. <br>Se non è possibile utilizzare il codice QR, si prega di inserire il seguente codice: %{code}"
+
+msgid "トークンが間違っているようです。再度入力してください。"
+msgstr "Il token sembra non essere corretto. Riprova."
+
+msgid "二要素認証が設定されました。"
+msgstr "È stata configurata l'autenticazione a Due-Fattori."
+
+msgid "二要素認証を解除"
+msgstr "Annulla l'autenticazione a Due-Fattori"
+
+msgid "二要素認証を解除します。解除してよいですか？"
+msgstr "Annulla l'autenticazione a Due-Fattori. Posso annullarlo?"
+
+msgid "二要素認証が解除されました。"
+msgstr "L'autenticazione a Due-Fattori è stata disattivata."
+
+msgid "ログイン許可"
+msgstr "Autorizzazione di accesso"
+
+msgid "このアカウント(account_subject)でのログインを"
+msgstr "Accedi con questo account(%{account_subject})"
+
+msgid "ログイン拒否と二要素認証は同時に設定できません。設定する場合はもう一方の設定を解除してください。"
+msgstr "Il rifiuto dell'accesso e l'autenticazione a due fattori non possono essere impostati contemporaneamente. Si prega di annullare l'altra impostazione durante la configurazione."
+
+msgid "ログイン許可の設定が変更されました。"
+msgstr "Le impostazioni relative ai permessi di accesso sono state modificate."
+
+msgid "グループ設定を行っていると、ログインを許可しないアカウントの設定が可能です。"
+msgstr "Se crei un gruppo, puoi impostare account che non consentono l'accesso."
+
+msgid "ログインを使用しない"
+msgstr "Non utilizzare il login"
+
+msgid "このアカウントでログインを禁止します。他のアカウントからログイン可能ですか？他のアカウントからログインできない場合、notestockへのログインができなくなります。"
+msgstr "Impedisci l'accesso con questo account. È possibile accedere da un altro account? Se non riesci ad accedere da un altro account, non potrai accedere a Notestock."
+
+msgid "禁止する"
+msgstr "Vietare"
+
+msgid "エクスポート"
+msgstr "Esportare"
+
+msgid "ダウンロード"
+msgstr "Download"
+
+msgid "account_name(account_subject)のダウンロード"
+msgstr "Download %{account_name}(%{account_subject})"
+
+msgid "別サーバーへコピー"
+msgstr "Copia su un altro server"
+
+msgid "データ準備"
+msgstr "Preparazione dei dati"
+
+msgid "データの準備に時間が掛かるため、用意ができたら以下のアカウントへ通知を送信します。"
+msgstr "Poiché la preparazione dei dati richiede tempo, invieremo una notifica al seguente account non appena saranno pronti."
+
+msgid "通知不要"
+msgstr "Non è richiesta alcuna notifica"
+
+msgid "通知先"
+msgstr "Destinazione della notifica"
+
+msgid "データ形式"
+msgstr "modulo dati"
+
+msgid "CSV（投稿日時、投稿内容の一覧）"
+msgstr "CSV (data di pubblicazione, elenco dei contenuti pubblicati)"
+
+msgid "JSON（ActivityPubで受信した内容の一覧）"
+msgstr "JSON (elenco dei contenuti ricevuti da ActivityPub)"
+
+msgid "コピー先サーバー"
+msgstr "Server di destinazione"
+
+msgid "コピー先サーバー入力説明"
+msgstr "Dominio del server('example.com','https://example.com')"
+
+msgid "コピー対象がありません。"
+msgstr "Non è presente alcun obiettivo di copia."
+
+msgid "グループに含まれる以下のアカウントをコピーします。"
+msgstr "Copia i seguenti account nel gruppo"
+
+msgid "以下のアカウントの情報がサーバー間で一致しません。除外してコピーして良ければ、チェックを付けてください。"
+msgstr "Le seguenti informazioni sull'account non corrispondono tra i server. Seleziona la casella se desideri escludere e copiare le informazioni."
+
+msgid "対象アカウントが化石アカウントの場合は、コピーを行う前にコピー先サーバーの管理者へ連絡し、これらのアカウントの「化石アカウント対応」を依頼してください。"
+msgstr "Se gli account di destinazione sono account Fossil, prima di procedere alla copia, contatta l'amministratore del server di destinazione e richiedi \"assistenza per account Fossil\" per tali account."
+
+msgid "サーバーコピーエラー凡例"
+msgstr "«Trasferimento già esistente.» significa che è già in corso una copia del server. «Importazione già esistente.» significa che è in corso un'importazione di dati precedenti. È possibile interromperla dalla sezione «Recupera dati storici» nella schermata delle impostazioni."
+
+msgid "管理者"
+msgstr "Amministratore"
+
+msgid "エクスポート最終確認"
+msgstr "Si prega di verificare anche i termini di utilizzo del server di destinazione. Anche i post privati ​​verranno copiati. Sei consapevole che tutti i post saranno visibili anche all'amministratore e desideri procedere con la copia?"
+
+msgid "確認"
+msgstr "Conferma"
+
+msgid "コピー開始"
+msgstr "Inizia la copia"
+
+msgid "コピー開始メッセージ"
+msgstr "La copia è iniziata. Potrebbe richiedere del tempo per essere completata. Quando l'indicatore di avanzamento scompare da questa schermata o dalla pagina delle impostazioni del server di destinazione, il processo è terminato. Inoltre, poiché il server di destinazione effettuerà un controllo successivo, assicurati di autorizzarlo se hai impostato delle restrizioni."
+
+msgid "サーバードメインを入力してください。"
+msgstr "Inserisci il dominio del server."
+
+msgid "入力されたドメインでnotestockが動いていないようです。"
+msgstr "Sembra che Notestock non funzioni sul dominio inserito."
+
+msgid "入力されたドメインのnotestockはサーバーコピーを受け入れていません。"
+msgstr "Il sito web del dominio inserito non accetta copie sul server."
+
+msgid "入力されたドメインはこのサーバーです。"
+msgstr "Il dominio inserito è quello di questo server."
+
+msgid "入力されたドメインへは現在コピー中です。"
+msgstr "È in corso la copia sul dominio inserito."
+
+msgid "コピー中"
+msgstr "Durante la copia"
+
+msgid "インポート"
+msgstr "Importare"
+
+msgid "ファイルを選択"
+msgstr "Seleziona il file"
+
+msgid "エラー"
+msgstr "Errore"
+
+msgid "内部エラー"
+msgstr "Errore interno"
+
+msgid "ファイルが指定されていないか、アップロード済みのファイルが指定されました。"
+msgstr "File non specificato o file già caricato."
+
+msgid "不明なエラーです。"
+msgstr "Errore sconosciuto."
+
+msgid "設定されたアップロードサイズを超えています。"
+msgstr "La dimensione massima di caricamento configurata è stata superata."
+
+msgid "書き込みに失敗しました。"
+msgstr "Scrittura non riuscita."
+
+msgid "設定された作業ディレクトリがありません。"
+msgstr "Non è configurata alcuna directory di lavoro."
+
+msgid "管理者に連絡してください。"
+msgstr "Contatta l'amministratore."
+
+msgid "データの準備ができました。"
+msgstr "I dati sono pronti."
+
+msgid "現在、データの準備中です。"
+msgstr "Stiamo preparando i dati."
+
+msgid "処理待ち"
+msgstr "In attesa di elaborazione"
+
+msgid "処理中"
+msgstr "Elaborazione"
+
+msgid "準備完了"
+msgstr "Pronto"
+
+msgid "ファイル削除"
+msgstr "Elimina il file"
+
+msgid "通常は24時間で自動削除されます。"
+msgstr "Di solito viene eliminato automaticamente entro 24 ore."
+
+msgid "ダウンロードツールには対応していません。解除してダウンロードしてください。"
+msgstr "Lo strumento di download non è supportato. Metti in pausa e avvia il download."
+
+msgid "ショートカット"
+msgstr "Scorciatoia"
+
+msgid "表示名"
+msgstr "Titolo"
+
+msgid "公開"
+msgstr "Pubblico"
+
+msgid "変更取消"
+msgstr "Cancellare"
+
+msgid "ワードクラウド"
+msgstr "Nuvola di parole"
+
+msgid "account_subjectのワードクラウド"
+msgstr "Word Cloud %{account_subject}"
+
+msgid "account_name(account_subject)のワードクラウド"
+msgstr "Nuvola di parole %{account_name}(%{account_subject})"
+
+msgid "公開投稿のみ対象です。"
+msgstr "Solo per annunci pubblici."
+
+msgid "作成からday日が過ぎた画像は削除されます。"
+msgstr "Le immagini più vecchie di %{day} giorni dalla creazione verranno eliminate."
+
+msgid "非公開ユーザーのワードクラウド公開URLは、作成から1週間だけ有効です。"
+msgstr "L'URL pubblico della nuvola di parole di un utente privato è valido solo per una settimana dalla sua creazione."
+
+msgid "notestockでワードクラウドを作成しました！"
+msgstr "Ho creato una nuvola di parole con Notestock!"
+
+msgid "認識語句"
+msgstr "Parole da riconoscere"
+
+msgid "非表示語句"
+msgstr "Parola nascostas"
+
+msgid "カンマ区切り"
+msgstr "Separati da una virgola"
+
+msgid "分割せず、一つにまとめたい語句を指定してください。"
+msgstr "Specifica le parole che desideri unire in un'unica parola senza separarle."
+
+msgid "表示したくない語句を指定してください。"
+msgstr "Specifica le parole o le frasi che non desideri visualizzare."
+
+msgid "作成"
+msgstr "Fare"
+
+msgid "期間"
+msgstr "Termine"
+
+msgid "作成日"
+msgstr "Data di creazione"
+
+msgid "投稿待ち"
+msgstr "In attesa di pubblicazione"
+
+msgid "すみません。何か問題がありました。しばらくしてから再度試してください。"
+msgstr "Spiacenti. Si è verificato un errore. Riprova più tardi."
+
+msgid "何か問題がありました。"
+msgstr "C'era qualcosa che non andava."
+
+msgid "追記する"
+msgstr "Postfazione"
+
+msgid "追記"
+msgstr "Postfazione"
+
+msgid "アカウント指定が間違っていませんか？"
+msgstr "Le specifiche dell'account sono corrette?"
+
+msgid "エラー理由"
+msgstr "Motivo dell'errore"
+
+msgid "メンション方式の表記がおかしい。"
+msgstr "La menzione è sconosciuta."
+
+msgid "acctの表記がおかしい。"
+msgstr "La notazione di conto è sconosciuta."
+
+msgid "acctのドメイン表記がおかしい。"
+msgstr "La notazione di dominio di acct è sconosciuta."
+
+msgid "webfinger解釈不可。(ユーザーアドレスが見つけられなかった。)"
+msgstr "Impossibile interpretare webfinger. (L'indirizzo utente non è stato trovato.)"
+
+msgid "activitypub解釈不可。(必要情報が確認できない。)"
+msgstr "Interpretazione di activitypub non possibile. (Le informazioni necessarie non possono essere confermate.)"
+
+msgid "Group Actorは対応していません。"
+msgstr "Group Actor non è supportato."
+
+msgid "ウィジェット"
+msgstr "Widget"
+
+msgid "メディア付きのみ"
+msgstr "Pubblicazione solo con contenuti multimediali"
+
+msgid "正規表現"
+msgstr "Espressione regolare"
+
+msgid "表示している年月日以前を対象"
+msgstr "Obiettivo da raggiungere entro la data indicata"
+
+msgid "これすきモード"
+msgstr "modalità KORESUKI"
+
+msgid "連続投稿日数ランキング"
+msgstr "Classifica dei giorni di pubblicazione consecutivi"
+
+msgid "開始日"
+msgstr "Data di inizio"
+
+msgid "終了日"
+msgstr "Data di fine"
+
+msgid "日数"
+msgstr "Numero di giorni"
+
+msgid "API_Token"
+msgstr "API Token"
+
+msgid "生成"
+msgstr "Generare"
+
+msgid "クリア"
+msgstr "Pulisci"
+
+msgid "APIを使用しない場合は生成せず、クリアしておいてください。"
+msgstr "Se non utilizzi l'API, non generarla e cancellala."
+
+msgid "プロフィール更新"
+msgstr "Aggiornamento del profilo"
+
+msgid "account_name(account_subject)のプロフィール更新"
+msgstr "Aggiornamento del profilo %{account_name}(%{account_subject})"
+
+msgid "プロフィール更新説明"
+msgstr "Hai un account su un server disattivato e non puoi aggiornare il tuo profilo; puoi modificarlo qui. <br>Se apporti modifiche a un account attivo su un server, le informazioni di tale account verranno sovrascritte dopo un certo periodo di tempo."
+
+msgid "プロフィール"
+msgstr "Profilo"
+
+msgid "アイコン"
+msgstr "Icona"
+
+msgid "これはBOTアカウントです。"
+msgstr "Questo è un account BOT."
+
+msgid "これはCATアカウントです。"
+msgstr "Questo è un account CAT."
+
+msgid "これはDEADアカウントです。"
+msgstr "Questo è un account inattivo."
+
+msgid "変更する場合のみ指定してください。"
+msgstr "Specificare solo se si desidera modificarlo."
+
+msgid "URLは自動でリンクになります。"
+msgstr "L'URL diventerà automaticamente un link."
+
+msgid "「アイコン」の画像ファイルは4MB以下のサイズにしてください。"
+msgstr "La dimensione del file immagine dell'icona deve essere inferiore a 4 MB."
+
+msgid "「アイコン」に正しい画像ファイルを指定してください。"
+msgstr "Specificare il file immagine corretto per l'icona."
+
+msgid "「アイコン」の画像は各辺1024ピクセル以下にしてください。"
+msgstr "L'immagine dell'icona non deve superare i 1024 pixel per lato."
+
+msgid "「アイコン」の画像はJPEG形式またはPNG形式にしてください。"
+msgstr "L'immagine dell'icona deve essere in formato JPEG o PNG."
+
+msgid "過去データ取得準備中です。"
+msgstr "Preparazione all'acquisizione di dati storici."
+
+msgid "過去データ取得中です。"
+msgstr "Stiamo recuperando i dati storici."
+
+msgid "過去投稿取得中です。get_queue_count"
+msgstr "Ora stiamo recuperando i dati storici.(remaining %{get_queue_count} posts)"
+
+msgid "再開"
+msgstr "Ricomincia"
+
+msgid "過去データ取込"
+msgstr "Ottieni dati storici"
+
+msgid "過去データ取得でエラーがありました。"
+msgstr "Si è verificato un errore nel recupero dei dati storici."
+
+msgid "account_name(account_subject)のデータ取込"
+msgstr "Ottieni i dati %{account_name}(%{account_subject})"
+
+msgid "URLを指定して取込"
+msgstr "Importazione tramite URL"
+
+msgid "一行あたり1つのURLを記述してください。"
+msgstr "Descrivi un URL per riga."
+
+msgid "投稿はすぐには取り込まれず、時間が掛かります。完了までしばらくお待ちください。"
+msgstr "Le richieste non verranno elaborate immediatamente e richiederanno del tempo. Si prega di attendere qualche istante."
+
+msgid "期限を指定して取込"
+msgstr "Importazione specificando una scadenza"
+
+msgid "（指定が無ければ一番古いものまで）"
+msgstr "(Il più vecchio, se non specificato)"
+
+msgid "取込日時"
+msgstr "Data e ora di importazione"
+
+msgid "期限日時"
+msgstr "Data e ora di scadenza"
+
+msgid "取込中止"
+msgstr "Cancellare"
+
+msgid "テストサーバーメッセージ"
+msgstr "Questo server è impostato in modalità di test. Per il test di importazione. Non utilizzare i dati poiché verranno eliminati senza preavviso. Si prega di visitare <a href='https://notestock.osa-p.net/'>notestock.osa-p.net</a> per l'uso effettivo."
+
+msgid "notestockサーバーではありません。"
+msgstr "Non è un server Notestock."
+
+msgid "編集履歴"
+msgstr "Cronologia delle modifiche"
+
+msgid "インライン表示"
+msgstr "Vista in linea"
+
+msgid "分割表示"
+msgstr "Vista affiancata"
+
+msgid "履歴無し"
+msgstr "La data e l'ora di modifica del post vengono registrate, ma la cronologia delle modifiche precedenti e successive non viene registrata."
+
+msgid "選択した版同士を比較"
+msgstr "Confronta le versioni selezionate"
+
+msgid "投稿内容"
+msgstr "Contenuto del post"
+
+msgid "詳細情報"
+msgstr "Informazioni dettagliate"
+
+msgid "ますみすサーチで検索"
+msgstr "masmis-search"
+
+msgid "表示"
+msgstr "Mostra"
+
+msgid "非表示"
+msgstr "Nascondi"
+
+msgid "選択したアカウントを表示"
+msgstr "Mostra l'account selezionato"
+
+msgid "選択したアカウントを非表示"
+msgstr "Nascondi l'account selezionato"
+
+msgid "profileurlのアドレスで公開されます"
+msgstr "Gli account impostati su 'Mostra' saranno pubblicati all'indirizzo <a href='%{profileurl}' target='_blank'>%{profileurl}</a>. Se tutti i campi sono contrassegnati come \"Nascondi\", la pagina non verrà pubblicata."
+
+msgid "account_subjectのアカウント一覧"
+msgstr "Elenchi degli account di %{account_subject}"
+
+msgid "アカウント一覧"
+msgstr "Elenchi degli account"
+
+msgid "カスタム絵文字"
+msgstr "Emoji personalizzate"
+
+msgid "エクスプローラー"
+msgstr "Esploratore"
+
+msgid "名前"
+msgstr "Nome"
+
+msgid "似ている文字"
+msgstr "Caratteri simili"
+
+msgid "リセット"
+msgstr "Resetta"
+
+msgid "取り込み案内"
+msgstr "Non è necessario utilizzare questa funzione regolarmente. Si prega di utilizzarla se hai impostato delle restrizioni sui follower quando ti sei registrato al servizio e non hai consentito di seguire da stocker@%{domain}"
+
+msgid "参考情報"
+msgstr "Per riferimento"
+
+msgid "このサーバーから"
+msgstr "da questo server"
+
+msgid "初めてアカウントを認識した日"
+msgstr "La data in cui l'account è stato riconosciuto per la prima volta"
+
+msgid "最新のフォロー日"
+msgstr "Ultimo follow data"
+
+msgid "認識している最古の投稿日"
+msgstr "Data di pubblicazione più antica conosciuta"
+
+msgid "情報"
+msgstr "Info"
+
+msgid "サービスについて"
+msgstr "Informazioni sul servizio"
+
+msgid "寄付について"
+msgstr "Informazioni sulla donazione"
+
+msgid "寄付説明"
+msgstr "Le donazioni sono accettate su <a href=\"https://ko-fi.com/osapon\" target=\"_blank\">ko-fi</a>・<a href=\"https://liberapay.com/osapon/donate\" target=\"_blank\">Liberapay</a> e <a href=\"https://fantia.jp/osapon\" target=\"_blank\">Fantia(Japanese)</a>. Viene utilizzato per i costi di magazzinaggio, ecc.<br>Oltre al supporto continuativo, accetto anche contributi una tantum. Vedi il link \"Donazioni\" qui sotto."
+
+msgid "このサーバーで公開されている他のサービス"
+msgstr "Pubblicati altri servizi su questo server"
+
+msgid "検索許可期限"
+msgstr "Periodo di autorizzazione alla ricerca"
+
+msgid "無期限"
+msgstr "Periodo indefinito"
+
+msgid "2ヶ月"
+msgstr "2 mesi"
+
+msgid "6ヶ月"
+msgstr "6 mesi"
+
+msgid "1年"
+msgstr "1 anno"
+
+msgid "2年"
+msgstr "2 anni"
+
+msgid "指定された投稿は、公開ユーザーのものではありませんでした。"
+msgstr "Il post specificato non apparteneva a un utente con impostazioni pubbliche."
+
+msgid "指定された投稿は、ありませんでした。"
+msgstr "Il post specificato non esiste."
+
+msgid "無視ドメイン"
+msgstr "Ignora il dominio"
+
+msgid "無視ドメイン説明"
+msgstr "Si tratta di un dominio a cui Notestock non può accedere. È stato registrato come non più accessibile per motivi quali la chiusura del server.<br>Se non riesci a utilizzare Notestock, verifica se il dominio è presente in questo elenco. Se il server viene riavviato sullo stesso dominio, Notestock non sarà disponibile finché non lo rimuoverai dall'elenco. Per rimuoverlo dall'elenco, contatta l'autore."
+
+msgid "普段使用しない設定"
+msgstr "Impostazioni non utilizzate normalmente"
+
+msgid "反映まで時間が掛かる場合があります。"
+msgstr "Potrebbe essere necessario del tempo prima che i dati vengano visualizzati."
+
+msgid "このアカウントは、notestockで公開設定になっていません。"
+msgstr "Questo conto non è impostato come pubblico su Notestock."
+
+msgid "もう一度行ってください。"
+msgstr "Per favore, riprova."
+
+msgid "画面の切り替えが正しく行われなかったようです。"
+msgstr "Sembra che lo schermo non sia stato commutato correttamente."
+
+msgid "ツイート取込"
+msgstr "Tweet Importazione"
+
+msgid "ZIPファイルではありません。"
+msgstr "Non si tratta di un file ZIP."
+
+msgid "tweetsファイルではありません。"
+msgstr "Non si tratta di un file di tweet."
+
+msgid "tweetsをZIP形式で圧縮してアップロード"
+msgstr "Comprimi e carica i tweet in formato ZIP"
+
+msgid "tweets.js.zip説明"
+msgstr "Si prega di estrarre l'archivio scaricato da Twitter, <strong>comprimerlo e caricare in formato ZIP solo i file i cui nomi iniziano con \"tweets\", come tweets.js e tweets-part1.js.<br><span class='text-danger'>Altri file includono numeri di telefono e informazioni sull'indirizzo IP di connessione.</span><br>Il file specificato viene inviato al server per la verifica del contenuto, ma viene controllato solo il nome del file.<br>Dopo il 2018 è richiesta una risposta autonoma."
+
+msgid "キャンセルされました"
+msgstr "Annullato."
+
+msgid "データインポート中は利用できません。"
+msgstr "Non disponibile durante l'importazione dei dati."
+
+msgid "tweetインポート制限案内"
+msgstr "I dati dei tweet possono essere importati solo dagli utenti super sostenitori (piani a pagamento di Liberapay o Fantia). Fare riferimento a \"Fan\" in \"<a href='/setting/index.html'>Basic Setting</a>.\""
+
+msgid "グループ登録依頼"
+msgstr "Registra gli account per gli altri server dalla sezione \"Impostazioni gruppo\" del menu \"Cambio account\". Questo avviso scomparirà se vengono configurati gruppi per due o più account."
+
+msgid "新規追加"
+msgstr "Nuovo"
+
+msgid "投稿表示サブグループの設定"
+msgstr "Impostazione del sottogruppo di visualizzazione post"
+
+msgid "投稿表示サブグループの案内"
+msgstr "Questa impostazione serve per visualizzare i post di più account contemporaneamente. Se non desideri rendere pubblici i post, non è necessario impostare questa opzione."
+
+msgid "設定変更するサブグループ"
+msgstr "Sottogruppo target"
+
+msgid "サブグループ名"
+msgstr "Nome sottogruppo"
+
+msgid "サブグループ削除アカウント選択案内"
+msgstr "Seleziona gli account da includere nel gruppo (è possibile specificare solo account con pagine pubbliche)."
+
+msgid "2つ以上選択してください。"
+msgstr "Seleziona due o più opzioni."
+
+msgid "公開用アドレス"
+msgstr "Indirizzo pubblico"
+
+msgid "使用可能文字"
+msgstr "Caratteri disponibili"
+
+msgid "英数字、ハイフン、アンダーバー、ピリオド"
+msgstr "Caratteri alfanumerici, trattini, underscore e punti"
+
+msgid "アドレスで公開されます。"
+msgstr "le informazioni saranno pubblicate all'indirizzo indicato."
+
+msgid "サブグループ削除"
+msgstr "Elimina sottogruppo"
+
+msgid "サブグループ削除確認"
+msgstr "Vuoi eliminare il sottogruppo (<span id=\"del_subgroup_name\"></span>)?"
+
+msgid "設定切り替え"
+msgstr "Modifica impostazione"
+
+msgid "アカウント設定切り替え確認"
+msgstr "Passa all'account (<span id=\"chg_acct\"></span>) e aprire la schermata delle impostazioni."
+
+msgid "選択されたアカウントが異常です。"
+msgstr "Si è verificato un problema con l'account selezionato."
+
+msgid "更新対象がありません。"
+msgstr "Non è previsto alcun obiettivo di rinnovo."
+
+msgid "同じアドレスが存在します。他のアドレスを指定してください。"
+msgstr "L'indirizzo esiste già. Si prega di specificare un altro indirizzo."
+
+msgid "呼び出し方法が異常です。"
+msgstr "Il metodo di chiamata è problematico."
+
+msgid "このサブグループ"
+msgstr "Questo sottogruppo"
+
+msgid "保存しました"
+msgstr "Salvato"
+
+msgid "countアカウント"
+msgstr "%{count} account"
+
+msgid "登録する"
+msgstr "Registrazione"
+
+msgid "ワンタイムパスワード"
+msgstr "One-Time Password(OTP)"
+
+msgid "メンションを送るログインで使用します。"
+msgstr "Utilizzato per l'accesso tramite l'invio di menzioni."
+
+msgid "パスキー"
+msgstr "Passkey"
+
+msgid "省略可"
+msgstr "opzionale"
+
+msgid "このパスキーは既に登録されているようです。"
+msgstr "Sembra che questa password sia già registrata."
+
+msgid "登録されているパスキー"
+msgstr "Passkey registrata"
+
+msgid "パスキーを解除"
+msgstr "Passkey non registrata"
+
+msgid "このパスキーを解除します。解除してよいですか？"
+msgstr "Desideri annullare la registrazione di questa passkey?"
+
+msgid "このパスキーで登録されていないか、情報が一致しませんでした。"
+msgstr "Non registrato con questa passkey oppure le informazioni non corrispondono."
+
+msgid "パスキーが登録されませんでした。"
+msgstr "Passkey non era registrata."
+
+msgid "パスキーでログイン"
+msgstr "Accedi con passkey"
+
+msgid "テスト表示"
+msgstr "Visualizzazione di prova"
+
+msgid "現在ON"
+msgstr "Corrente attiva. Premere per spegnere."
+
+msgid "現在OFF"
+msgstr "Corrente disattivata. Premere per accendere."
+
+msgid "コピーしました"
+msgstr "copiato"
+
+msgid "他の年の同じ日"
+msgstr "lo stesso giorno in altri anni"
+
+msgid "公開投稿"
+msgstr "Posts pubblici"
+
+msgid "ストリーム"
+msgstr "Stream"
+
+msgid "話題（24時間）"
+msgstr "Hot (24 ore)"
+
+msgid "話題（7日間）"
+msgstr "Hot (7 giorni)"
+
+msgid "利用規約"
+msgstr "Termini di utilizzo"
+
+msgid "プライバシーポリシー"
+msgstr "Politica sulla riservatezza"
+
+msgid "再登録をお願いします。"
+msgstr "Si prega di effettuare una nuova registrazione."
+
+msgid "TIPS_GROUP"
+msgstr "Se disponi di più account, puoi configurare un gruppo per il passaggio tra account in modo da poter visualizzare i tuoi post anche se il server è spento."
+
+msgid "TIPS_ACCT_SEARCH"
+msgstr "Puoi cercare questo account qui. Sono supportate anche le ricerche senza parole chiave, solo con contenuti multimediali, ecc."
+
+msgid "TIPS_GLOBAL_SEARCH"
+msgstr "Per cercare post da account impostati come pubblici su Notestock, vai alla Ricerca globale. Puoi anche cercare account dal menu a tendina."
+
+msgid "Tipsの再表示"
+msgstr "Suggerimenti per la rivisualizzazione"
+
+msgid "設定しました"
+msgstr "Preparato"
+
+msgid "ロボットによるアクセスか確認します"
+msgstr "Si prega di premere il pulsante."
+
+msgid "ロボットによるアクセスか確認中"
+msgstr "Verifica se l'accesso proviene da un robot"
+
+msgid "確認しました。リロードします。"
+msgstr "Confermato. Ricaricamento in corso."
