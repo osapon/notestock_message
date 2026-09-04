@@ -10,7 +10,7 @@
 
 class Lang_zh_cn extends Lang
 {
-    public $langcode = 'zh';
+    public $langcode = 'zh_CN';
     public $langname = '简体中文';
     public $menuname = '简体中文';
     protected string $domain = 'zh_CN';
