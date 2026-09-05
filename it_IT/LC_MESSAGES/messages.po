@@ -172,7 +172,7 @@ msgid "検索結果は以上です"
 msgstr "I risultati della ricerca arrivano fino a qui"
 
 msgid "投稿件数"
-msgstr "<span class='note_count'>%{count}</span> posts"
+msgstr "<span class='post_count'>%{count}</span> posts"
 
 msgid "削除ダイアログ説明"
 msgstr ""
