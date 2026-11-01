@@ -1433,3 +1433,12 @@ msgstr "Checking if the access is from a robot"
 
 msgid "確認しました。リロードします。"
 msgstr "Confirmed. Reloading."
+
+msgid "許可"
+msgstr "Allow"
+
+msgid "キャンセル"
+msgstr "Cancel"
+
+msgid "リンク先警告"
+msgstr "The linked page is not the page as it appeared at the time. Viewing it in a browser may cause problems.<br>Target URL : %{url}<br><br>Will it open?"
